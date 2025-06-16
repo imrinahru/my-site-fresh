@@ -1,7 +1,7 @@
 name: Deploy Quartz site to GitHub Pages
 on:
   push:
-    branches: [v4]        # build every time you push to branch v4
+    branches: [v4]          # build every time v4 gets new commits
 permissions:
   contents: read
   pages: write
