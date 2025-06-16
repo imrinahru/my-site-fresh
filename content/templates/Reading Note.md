@@ -18,4 +18,4 @@ link: https://doi.org/...
 - …
 
 ### Further reading  
-- [[Reading_Notes/Benkler2006-Wealth_of_Networks]]
+- [[04_Reading_Notes/xx]]
