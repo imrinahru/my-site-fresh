@@ -1,1 +1,3 @@
-C:/Users/rinac/Documents/Obsidian Vault/00_Home/index.md
+---
+redirect: /00_Home/
+---
