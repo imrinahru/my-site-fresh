@@ -10,14 +10,14 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "AI Commons Forest",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
     baseUrl: "imrinahru.github.io/my-site/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["00_Home", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
