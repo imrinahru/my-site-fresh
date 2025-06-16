@@ -10,13 +10,13 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "AI Commons Forest",
     pageTitleSuffix: "",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz/",
+    baseUrl: "imrinahru.github.io/my-site/",
     ignorePatterns: ["00_Home", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
