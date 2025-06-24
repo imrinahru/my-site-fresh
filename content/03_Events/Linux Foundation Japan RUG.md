@@ -337,10 +337,11 @@ The event itself wouldn’t have happened without **Kōsaku Kimura**, the final 
 
 Here are a few things you can explore right now—even with little or no prior experience.
 
-## 🌱 Join the GenAI Commons Community
+## Join the GenAI Commons Community
 
 You don’t need to be an expert to participate. [GenAI Commons](https://lists.lfaidata.foundation/g/gen-ai-commons) is an open community working to make generative AI a public good.  
-➡ **What to do**:
+
+**What to do**:
 
 - Subscribe to GenAI Commons subgroup (it's a subgroup under LF AI & Data Main, which also contains other workstream subgroups: [Models, Applications and Data](https://lists.lfaidata.foundation/g/gac-mad-workstream), [Education and Outreach](https://lists.lfaidata.foundation/g/gac-education-outreach-workstream), [Responsible AI](https://lists.lfaidata.foundation/g/gac-responsible-ai-workstream))
 	
@@ -367,10 +368,11 @@ You don’t need to be an expert to participate. [GenAI Commons](https://lists.l
 - Participate!
     
 
-## 🧪 Try Model Openness Tool (MOT v2)
+## Try Model Openness Tool (MOT v2)
 
-Want to see how "open" an AI model really is? [MOT v2](https://mot.isitopen.ai/models) helps you evaluate how much access and transparency a model provides.  
-➡ **What to do**:
+ [MOT v2](https://mot.isitopen.ai/models) helps you evaluate how much access and transparency a model provides.  
+ 
+ **What to do**:
 
 - Visit the site and pick a public model (like Meta’s LLaMA-3.1-8B or Google’s LaMDA)
     
@@ -379,9 +381,9 @@ Want to see how "open" an AI model really is? [MOT v2](https://mot.isitopen.ai/m
 - Try rating a model yourself and see how it compares
     
 
-## 🚀 Want to publish your own model? Learn about OpenMDW
+## Want to publish your own model? Learn about OpenMDW
 
-[OpenMDW](https://openmdw.ai/) is a new standard for sharing models _the right way_:  
+[OpenMDW](https://openmdw.ai/) is a new standard for sharing models responsibly:  
 You **must release all three**:
 
 - ✅ Model weights
@@ -390,10 +392,9 @@ You **must release all three**:
     
 - ✅ Training data  
     All under **true open-source licenses**—no tricky restrictions like "non-commercial use only."  
-    ➡ **Why it matters**: If you're thinking about releasing a model, OpenMDW shows you how to do it responsibly and transparently.
 
 
-## 🤖 Try Open Agent Standards: MCP & A2A
+## Try Open Agent Standards: MCP & A2A
 
 As AI agents take on more complex tasks, the future isn’t one giant model—it’s composite AI that we've discussed here [[#Third pillar Agent]]. 
 
@@ -401,7 +402,8 @@ Shared standards like MCP and A2A are essential to make that work, and therefore
 
 Kōsaku Kimura demonstrated both at the event, and I found [this article](https://composio.dev/blog/agent2agent-a-practical-guide-to-build-agents/) helpful in complementing my understanding—it explains both the detailed theory and the hands-on steps.
 
-Importantly, he then shared some usability concerns when using **MCP** and **A2A** in real-world scenarios:
+Importantly, Kimura also shared some usability concerns when using **MCP** and **A2A** in real-world scenarios:
+
 - In using MCP, tool selection is left entirely to the LLM via `toolcall`.
     
 - in using A2A, AgentCards seem to help the LLM find the right agent for the task at hand — again, it's handled by the LLM.
@@ -409,7 +411,7 @@ Importantly, he then shared some usability concerns when using **MCP** and **A2A
 - While letting the LLM handle discovery and selection of tools and agents is convenient, it sometimes chooses poorly and things don’t work as expected.  
     → Might we need a dedicated algorithm to support or override these decisions?
 
-These notes raise a key design question: Should tool and agent selection always be fully automated by LLMs, or should there be more transparent logic or user control built in—perhaps a hybrid model for better reliability?
+These notes raise a key design question: _Should tool and agent selection always be fully automated by LLMs, or should there be more transparent logic or user control built in—perhaps a hybrid model for better reliability?_
 
 Designing these standards and related interface are critical in shaping how we can interact with AI agents in the future. Some UX design proposals we can start thinking about include: 
 
@@ -421,8 +423,7 @@ Designing these standards and related interface are critical in shaping how we c
     
 - **Onboarding flows** that help non-technical users start using agents quickly
     
-
-> 🧠 Think: a friendly “Agent Builder” wizard, not a terminal command line.
+- A friendly “Agent Builder” wizard, not a terminal command line.
 
 
 ### 🪪 "What AgentCards look like"
@@ -450,17 +451,9 @@ As agents pass tasks to each other:
 - This improves **trust** and **accountability**
     
 
-## OpenStack 
+## Use OpenStack for own cloud
 
-OpenStack provides DIY cloud for secure, local infrastructure. read more [[#OpenStack]]. It is a foundational technology on which open-source AI is built on.
-
-|Problem in big-tech AI|What OpenStack enables|
-|---|---|
-|Centralized control by AWS, GCP, Azure|You can **run open AI models** on hardware owned by co-ops, schools, or cities|
-|Expensive usage-based pricing|Control cost by pooling and sharing resources locally|
-|Vendor lock-in|OpenStack is modular and community-driven—**you choose the stack and plugins**|
-|Black-box infrastructure|Full transparency into how compute is allocated and shared|
-
+Read more on [[#OpenStack]]
 Things you can try with OpenStack under the context of AI Commons
 
 1. 💻 **Set up OpenStack on lab hardware** (or Raspberry Pi cluster for demo)
@@ -473,35 +466,28 @@ Things you can try with OpenStack under the context of AI Commons
     
 
 
-## Kubernetes
+## Scale up with Kubernetes
 
-It is ideal for managing scalable, reliable AI workloads in the commons. In the future, when planning a service of certain scale, it becomes handy in hosting open-source LLMs, collaborative notebooks, or citizen data platforms. Read more [[#Kubernetes]]
+ A great tool to use when hosting open-source LLMs, collaborative notebooks, or citizen data platforms. Read more [[#Kubernetes]]
+ 
+Here are some things you can try today:
 
-| Need                                   | Kubernetes helps                                                               |
-| -------------------------------------- | ------------------------------------------------------------------------------ |
-| **Share AI models across a community** | Automatically deploy APIs, model servers, or training jobs on shared hardware. |
-| **Reliability**                        | If a node crashes mid-inference, Kubernetes restarts it instantly on another.  |
-| **Flexibility**                        | Run Hugging Face apps, Jupyter notebooks, PyTorch jobs—all as Pods.            |
-| **Governance**                         | Supports quotas, namespaces, and audit logs for ethical control.               |
-| **Hardware-aware scheduling**          | Assign GPU-based Pods to GPU machines, and scale them on demand.               |
-Here are some things you can try as a beginner:
-
-|Goal|Tool|
-|---|---|
-|Try locally|Minikube or Kind – run Kubernetes on your laptop.|
-|Get visual|Use [Lens](https://k8slens.dev/) – a graphical dashboard to watch your cluster in real time.|
-|Learn by deploying|Try running a chatbot or text-generation server on Kubernetes (e.g. using `kserve`).|
-|Use in production|Use managed Kubernetes: AWS EKS, Azure AKS, Google GKE—or self-host with OpenStack.|
+| Goal               | Tool                                                                                                                 |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Try locally        | [Minikube](https://minikube.sigs.k8s.io/docs/) or [Kind](https://kind.sigs.k8s.io/) – run Kubernetes on your laptop. |
+| Get visual         | Use [Lens](https://k8slens.dev/) – a graphical dashboard to watch your cluster in real time.                         |
+| Learn by deploying | Try running a chatbot or text-generation server on Kubernetes (e.g. using `kserve`).                                 |
+| Use in production  | Use managed Kubernetes: AWS EKS, Azure AKS, Google GKE—or self-host with OpenStack.                                  |
 
 
 # Technical primer
 
-_A beginner-friendly guide to key concepts in open-source AI infrastructure._
+Here is a guide to help you catch up with key concepts in open-source AI infrastructure.
 
 ## I thought Stable Diffusion was open‑source…
 
 **“Open-source”**, as defined by the Open Source Initiative (OSI), means you can **use, study, modify, and redistribute** the software _for any purpose_, as long as you comply with its license.  
-**Source-available** projects may let you see the code or model weights—but often include restrictions like “non-commercial use only” or “no cloud hosting.” These restrictions violate OSI principles, meaning those projects aren’t truly open-source. This gap—when a project looks open but legally isn’t—is called the **source‑available loophole**. [[#🧪 Try Model Openness Tool (MOT v2)]] is a good starting point to avoid these loopholes.
+**Source-available** projects may let you see the code or model weights—but often include restrictions like “non-commercial use only” or “no cloud hosting.” These restrictions violate OSI principles, meaning those projects aren’t truly open-source. This gap—when a project looks open but legally isn’t—is called the **source‑available loophole**. [[#Try Model Openness Tool (MOT v2)]] is a good starting point to avoid these loopholes.
 
 | Project / licence                             | What you can see                | Hidden restriction(s)                                                                                                       | Why it’s only _source-available_                                                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -538,7 +524,8 @@ I would guess many people interested in the topic are familiar with it, but if y
 	
 
 Here’s a list of foundational technologies presented by Moore, a good place to start looking into:
-### 🌱 Getting Started Technologies
+
+**Getting Started Technologies:**
 
 - **Jupyter (Notebook)**  
     An interactive web interface where you can run Python code, write notes, and visualize data all in one place—widely used for learning AI and data science.  
@@ -549,7 +536,7 @@ Here’s a list of foundational technologies presented by Moore, a good place to
     **Start:** Check out tutorials on using AI from web pages using JavaScript.
     
 
-### 🚀 AI Core & Inference
+ **AI Core & Inference:**
 
 - **vLLM**  
     A fast and efficient “chatbot engine” optimized to run large language models quickly and cheaply on local hardware.  
@@ -568,7 +555,8 @@ Here’s a list of foundational technologies presented by Moore, a good place to
     **Start:** Add `pip install deepseed` to a PyTorch or TensorFlow project and follow the example scripts.
     
 
-### 🔄 Model Interoperability & Governance
+
+**Model Interoperability & Governance:**
 
 - **ONNX (Open Neural Network Exchange)**  
     A shared format that lets you move models between frameworks (PyTorch, TensorFlow) and run them on various devices.  
@@ -583,7 +571,7 @@ Here’s a list of foundational technologies presented by Moore, a good place to
     **Start:** If you use Databricks, configure Unity Catalog for secure and auditable data access.
     
 
-### ☁️ Cloud & Microservices
+**Cloud & Microservices:**
 
 - **Kubernetes**  
     A system to deploy, scale, and manage containerized apps (like AI services) across clusters of machines.  
@@ -592,18 +580,18 @@ Here’s a list of foundational technologies presented by Moore, a good place to
 - **KServe**  
     A Kubernetes extension that makes it easy to deploy and scale AI models as APIs—handles auto-scaling and monitoring.  
     **Start:** Install KServe on your Minikube setup and test deploying a simple model server.
-    
 
-### 🏢 Enterprise AI
+
+
+**Enterprise AI:**
 
 - **Open Platform for Enterprise AI (OPEA)**  
-    A framework that defines best practices and toolsets for deploying AI in businesses—often co-developed or endorsed by LF AI & Data.  
+    A framework that defines best practices and toolsets for deploying AI in businesses—often co-developed or endorsed by LF AI & Data. Active in China
     **Start:** Read the OPEA documentation or sample projects in industrial AI.
     
 - **Data Prep Kit**  
     A collection of tools to clean, standardize, and track data so that machine learning models are trained with high-quality inputs.  
     **Start:** Try it on a sample CSV to see how data pipelines can be version-controlled and auditable.
-    
 
 After familiarized yourself with basic tutorials, try a small project: e.g., train a model in Jupyter, export it via ONNX, deploy with KServe, and monitor with Unity Catalog.
 
@@ -623,7 +611,14 @@ Training a neural network is a giant game of dial-twiddling.
 
 ## OpenStack
 
-Think of **OpenStack** as your own private cloud platform. Rather than relying on services like AWS, you can use OpenStack to run servers, storage, and networking on hardware you control. It’s essential for **self‑hosted** or **sovereign AI** projects, where organizations want data and compute to stay within their domain.
+OpenStack provides DIY cloud for secure, local infrastructure. It’s essential for **self‑hosted** or **sovereign AI** projects, where organizations want data and compute to stay within their domain.
+
+|Problem in big-tech AI|What OpenStack enables|
+|---|---|
+|Centralized control by AWS, GCP, Azure|You can **run open AI models** on hardware owned by co-ops, schools, or cities|
+|Expensive usage-based pricing|Control cost by pooling and sharing resources locally|
+|Vendor lock-in|OpenStack is modular and community-driven—**you choose the stack and plugins**|
+|Black-box infrastructure|Full transparency into how compute is allocated and shared|
 
 It provides a **suite of services** that mimic everything a big cloud provider offers—compute, storage, networking, identity, and more:
 
@@ -638,20 +633,17 @@ It provides a **suite of services** that mimic everything a big cloud provider o
 |**Glance**|Manages OS images (like VM templates)|
 |**Heat**|Orchestrates infrastructure (like Terraform)|
 
-- CERN (Large Hadron Collider), Walmart, China Mobile, Deutsche Telekom, universities, and AI research labs.
-    
-- It powers **public clouds**, **private clouds**, and **AI/ML workloads**—especially when data sovereignty or cost transparency matters.
-    
-
 ## Kubernetes
 
-|Feature|What it does|
-|---|---|
-|✅ **Orchestration**|Runs 100s or 1000s of apps across servers and balances the load automatically.|
-|🔁 **Self-healing**|If something crashes, Kubernetes restarts it or moves it to a healthy machine.|
-|📦 **Scalability**|Automatically adds or removes app instances when demand changes.|
-|🔒 **Isolation**|Keeps each service safe and separate using containers.|
-|🧩 **Plug-and-play**|Works with any cloud (AWS, Azure, GCP) or on-prem servers (like OpenStack).|
+Often written as K8s. Ideal for managing scalable, reliable AI workloads in the commons.
+
+| Need                                   | Kubernetes helps                                                               |
+| -------------------------------------- | ------------------------------------------------------------------------------ |
+| **Share AI models across a community** | Automatically deploy APIs, model servers, or training jobs on shared hardware. |
+| **Reliability**                        | If a node crashes mid-inference, Kubernetes restarts it instantly on another.  |
+| **Flexibility**                        | Run Hugging Face apps, Jupyter notebooks, PyTorch jobs—all as Pods.            |
+| **Governance**                         | Supports quotas, namespaces, and audit logs for ethical control.               |
+| **Hardware-aware scheduling**          | Assign GPU-based Pods to GPU machines, and scale them on demand.               |
 
 Here are some key concepts that I found helpful (in plain language)
 
@@ -665,7 +657,7 @@ Here are some key concepts that I found helpful (in plain language)
 | **ConfigMap / Secret** | Store settings and passwords safely.                               |
 | **Ingress**            | A door to the internet (like a smart router).                      |
 
-Most people use _Docker_ together with Kubernetes: Docker for building, Kubernetes for running at scale.
+People use _Docker_ together with Kubernetes on OpenStack (cloud): Docker for building, Kubernetes for running at scale.
 
 |Tool|Purpose|
 |---|---|
@@ -684,11 +676,11 @@ We shouldn’t live in a world where the technologies shaping how we work, commu
 
 That’s what I’m working toward. So where to begin?
 
-I appreciated the practical advice [[#🌱 Join the GenAI Commons Community]]shared by speakers at the event, and conversation with [Leonard](https://www.linkedin.com/in/randomfoo/) afterward helped clarify a few things:
+I appreciated the practical advice [[#Join the GenAI Commons Community]] shared by the speakers at the event, and conversation with [Leonard](https://www.linkedin.com/in/randomfoo/) afterward helped clarify a few things:
 
 - Usability is a major bottleneck in open-source. Designers and non-technical users have a real role to play in making tools more accessible.
     
-- Regulation has its place, but real products, stories, and live demos often change minds more effectively.
+- Regulation is important, but real products, stories, and live demos often change minds more effectively.
     
 - As AI-native computing and composite-AI systems take shape, design can help make them transparent and usable—not just to developers, but to everyone. Without that, A2A-style architectures risk becoming black boxes layered on top of black boxes that distance people from the technology.
 
@@ -706,7 +698,3 @@ Another point has stayed with me: _“Try to remember what’s difficult now. Be
 
 That’s part of why I’ve written this—not just to recap what I learned, but to record the learning process itself. For others who might be on a similar path, and as a reminder to myself later on. Paying attention to where the friction lies might be one of the most valuable contributions I can make.
 
-
-
-## Slides & media  
-- ![Slide thumbnail](./img/slide.png)
