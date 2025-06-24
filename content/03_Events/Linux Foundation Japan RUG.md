@@ -41,7 +41,7 @@ Japan’s second **Regional User Group** (RUG) brought the global Linux Foundati
 
 Rise of DeepSeek provides a point of reflection as to the necessity of a new open-source strategy. Time and again, the open-source ecosystem has proven its strength.
 
-We've seen an expansion of open-source around the world: 70~90% build with free and open-source software; only 10~30% write custom code (LISH, Laboratory for Innovation Science at Harvard).
+We've seen an expansion of open-source around the world: 70 to 90% build with free and open-source software; only 10 to 30% write custom code (LISH, Laboratory for Innovation Science at Harvard).
 
 Proprietary APIs aren’t going away, but history shows open ecosystems eat closed ones in the long run. On evals (Artificial Analysis Intelligence Index), open-source AI has largely caught up to closed AI as of June 2025.
 
