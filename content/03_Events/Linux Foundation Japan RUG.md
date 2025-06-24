@@ -5,15 +5,14 @@ tags:
   - event
 location: Fujitsu Yokohama Hub
 draft: false
-summary: |
-  Key takeaway in 20 words.
+summary: Amid fast-moving developments in AI, this meetup provided a timely assessment of open-source infrastructure—linking broad trends to tangible implementation paths.
 ---
 
-# Why this meetup mattered
+## Why this meetup mattered
 
 Japan’s second **Regional User Group** (RUG) brought the global Linux Foundation AI community to Tokyo just as AI hits a turning point with the rise of DeepSeek: it made everyone think, including OpenAI, that we may need a new open-source strategy. Speakers from LF AI & Data and Japanese contributors mapped out what must happen next if we want _AI as a commons_.
 
-# Summary
+## Summary
 
 | Time  | Talk                                                       | Core message                                                                                                                                                                  |
 | ----- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +21,7 @@ Japan’s second **Regional User Group** (RUG) brought the global Linux Foundati
 | 16:20 | **Hands-on with LF AI projects** – Tetsu Itō               | A summary of recent LF AI&Data projects. _vLLM_ is attracting a new level of attention.                                                                                       |
 | 16:50 | **Multi-Agent OSS Outlook** – Kōsaku Kimura                | Hands-on introduction on emerging _agent standards_: _MCP (Model Context Protocol)_ and _A2A (Agent-to-Agent)_.                                                               |
 
-# Speaker
+## Speaker
 
 
 - [Todd Moore](https://www.linkedin.com/in/todd-moore-7985402b/) (LF AI & Data Foundation, Executive Director)
@@ -35,10 +34,10 @@ Japan’s second **Regional User Group** (RUG) brought the global Linux Foundati
 
 
 
-# Extended insights
+## Extended insights
 
 
-## Now is the time to think about open-source AI
+### Now is the time to think about open-source AI
 
 Rise of DeepSeek provides a point of reflection as to the necessity of a new open-source strategy. Time and again, the open-source ecosystem has proven its strength.
 
@@ -48,7 +47,7 @@ Proprietary APIs aren’t going away, but history shows open ecosystems eat clos
 
 _The more open, the better._
 
-## Why open-source matters?
+### Why open-source matters?
 
 - Proprietary systems are creating silos and friction, open models are accessible alternatives.
 	
@@ -59,7 +58,7 @@ _The more open, the better._
 - The EU AI Act, US Executive Orders, GPAI Commitments are creating legal shift.
 
 
-## What Linux Foundation has brought to the table
+### What Linux Foundation has brought to the table
 
 - 2 Ecosystems for open-source AI: LFAI&Data and PyTorch
 	
@@ -76,7 +75,7 @@ _LFAI&Data Foundation_ is formed with emphasis on data. Model (or weights) is on
 | **Responsible AI**                     | Supplies the policy, safety, licensing and evaluation layer for all Commons releases.                                                                                                                                                         | _Model Openness Framework (MOF) & Model Openness Tool v2 (MOT)_ – 17-point openness rubric and web/CLI scorer at _isitopen.ai_. ([[#What you can try from today]])<br>_Responsible GenAI Framework (RGAF)_ – nine-dimension guidance on bias, privacy, energy, etc. |
 | **Education & Outreach**               | Develops free curricula, boot-camps and certifications; organises Regional User Groups (e.g. Japan RUG) and publishes translation/localisation kits.                                                                                          | GenAI Commons courseware, Community RUG playbook, monthly newcomers call.                                                                                                                                                                                           |
 
-## OpenInfra joins Linux Foundation
+### OpenInfra joins Linux Foundation
 
 
 This June, the non-profit OpenInfra Foundation (home of OpenStack, Kubernetes Helm charts, Kata Containers, and more) has merged into the Linux Foundation.  
@@ -85,19 +84,19 @@ Mark Collier, cofounder of OpenStack 15 years ago, now GM of AI & Infrastructure
 
 > "Linux stopped an OS monopoly, OpenStack curbed cloud lock-in; our next job is to keep AI open.”
 
-## Importance of infrastructure in AI landscape
+### Importance of infrastructure in AI landscape
 
 Large-language models aren’t just maths, they’re factories that shovel petabytes of text through clusters of GPUs and TPUs. Token counts and inference calls are growing **50×** year-over-year (Pichai, Google).
 
 If AI infrastructure stays proprietary, control will condense around a few giants—the very monopoly that OpenStack and Kubernetes were created to stop in cloud computing.
 
-## The “AI-native” era: code written by code
+### The “AI-native” era: code written by code
 
 Many companies, including Microsoft, Google, and Meta, have said that around 30% of the code used in their products is—or soon will be—generated by AI. It is a wild adoption in such a short period of time. A massive shift in how software is written. 
 
 Moreover, smaller companies are not only embracing AI faster, but also adopting OSAI more rapidly than larger businesses. 
 
-## AI-native computing 
+### AI-native computing 
 
 What is _AI-native computing_? Mark Collier explained that:
 
@@ -106,10 +105,10 @@ What is _AI-native computing_? Mark Collier explained that:
 The interesting point is a drastic shift in how we develop things, learning models the basic nodes woven into the fabric of ICT. He added that, the concept is still only a rough idea, that we need to shape and refine a clear definition together.
 
 
-## The pillars of AI-native computing: training, inference, and agent
+### The pillars of AI-native computing: training, inference, and agent
 
 
-### First pillar: Training
+#### First pillar: Training
 
 Methods keep changing, but the idea stays the same: Feed data in → adjusts the algorithm's parameters → output a model that can make predictions (methods include full pre-training, fine-tuning, reinforcement learning, etc.).
 
@@ -140,7 +139,7 @@ Stack is coming together, winners immerged.
 	
 - MLflow manages workflows.
 
-### Second pillar: Inference
+#### Second pillar: Inference
 
 Simple definition: Load a trained model → send it real-time requests → return predictions. It runs anywhere, from tiny edge chips to GPU data centers, often with specialized hardware or software for speed and efficiency.
 
@@ -185,7 +184,7 @@ The stack is messy, the pieces are changing rapidly.
 Messy is good—that’s how open-source communities have built every breakthrough in tech so far. A huge shift is expected.
 
 
-### Third pillar: Agent
+#### Third pillar: Agent
 
 Wrap a model in code that can call tools, talk to other agents or humans, and turn inference results into actions via open protocols (e.g., MCP), so that any system can programmatically use the model's output.
 
@@ -223,14 +222,14 @@ Agents are next—and they need standards now:
 LLM “agents” call tools, write code, and plan tasks. Right now no one knows what agents are going to do. They will only work at scale if we agree on open connectors (MCP, A2A) now—just like we did for containers and cloud.
 
 
-## So how to promote open-source AI? Code and weights are not enough
+### So how to promote open-source AI? Code and weights are not enough
 
 You’ve developed an AI model or built a useful software tool and published it online—an important first step. However, simply releasing code or model files as “open-source” is rarely enough to drive meaningful adoption or community growth.
 
 A successful open-source ecosystem requires more than just public access.  
 Below is a clear, non-technical checklist outlining what encourages people to use, contribute to, and trust an open-source project.
 
-### 1. Clear Rules and Shared Standards
+#### 1. Clear Rules and Shared Standards
 
 **(Think: house rules before a pot-luck.)**
 
@@ -241,7 +240,7 @@ Below is a clear, non-technical checklist outlining what encourages people to us
 | **Predictable releases** – businesses need to know updates won’t break them. | A public calendar: “minor updates monthly, big upgrades every six months.”                                          |
 | **Maturity ladder** – outsiders see you’re built to last.                    | Tags like _Sandbox → Incubation → Graduated_ that signal stability, just as kids move from kindergarten to college. |
 
-### 2. People, Not Just Pull Requests
+#### 2. People, Not Just Pull Requests
 
 **(Think: welcoming committee at the community garden.)**
 
@@ -256,7 +255,7 @@ And don’t underestimate storytelling:
 _Blog posts, short videos, or live demos often convince more users than a stack of technical docs._
 
 
-### 3. Measure the Ecosystem’s Health
+#### 3. Measure the Ecosystem’s Health
 
 **(Think: regular check-ups, not guesswork.)**
 
@@ -269,7 +268,7 @@ _Blog posts, short videos, or live demos often convince more users than a stack 
 If numbers trend the wrong way, adjust course: perhaps update docs, schedule a bug sprint, or seek new maintainers.
 
 
-### 4. Data and Evaluation Build Trust
+#### 4. Data and Evaluation Build Trust
 
 Opening model weights is useless if nobody knows **how well** they work or **what data** they learned from.
 
@@ -278,7 +277,7 @@ Opening model weights is useless if nobody knows **how well** they work or **wha
 - Transparent evaluations (share the tests, not just the score) prove you’re not cherry-picking results.
 
 
-### 5. Follow “The Four Opens”
+#### 5. Follow “The Four Opens”
 
 | The Four Opens       | In simple terms                                                                  |
 | -------------------- | -------------------------------------------------------------------------------- |
@@ -290,7 +289,7 @@ Opening model weights is useless if nobody knows **how well** they work or **wha
 Projects that embrace all four tend to snowball; others fade out.
 
 
-## Openness classification
+### Openness classification
 
 As an end user, what do you need to feel safe and enjoy using AI tools?
 There are different levels of needs and hence classification:
@@ -302,42 +301,42 @@ There are different levels of needs and hence classification:
 | **Tier C – Source-available / restricted**           | **Class III – Open Model**  | - Architecture, final weights, basic docs, eval results, model/data cards - Open licence **but** no tooling or raw data                                                                                                      | Stable Diffusion (Open RAIL-M), many “weights-only” dumps<br>[[#I thought Stable Diffusion is open-source]] | Minimum bar for transparency; you can inspect & run the model, yet full reproducibility is impossible. ([matthewdwhite.medium.com](https://matthewdwhite.medium.com/the-model-openness-framework-promoting-completeness-and-openness-for-reproducibility-b86dd6595abd?utm_source=chatgpt.com "The Model Openness Framework: Promoting Completeness and ..."), [speechtechmag.com](https://www.speechtechmag.com/Articles/Columns/Standards/Standards-for-Openness-in-AI-Models-The-Model-Openness-Framework-166700.aspx?utm_source=chatgpt.com "Standards for Openness in AI Models - Speech Technology Magazine")) |
 | **Tier D – Proprietary API**                         | _Outside MOF scope_         | Only an HTTPS endpoint; weights & training data remain secret.                                                                                                                                                               | OpenAI GPT-4, Anthropic Claude, Google Gemini                                                               | Fastest to try, but a total black box—no audit or local deployment possible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-# Insights beyond slides
+## Insights beyond slides
 
 Conferences often reveal more between the lines than on the slides. These moments of informal conversation, candid remarks, and off-script insights added unexpected texture to the day—and offered a glimpse into the real-world dynamics behind open-source AI.
 
-## The influence of Hugging Face 
+### The influence of Hugging Face 
 
 One attendee asked a simple but honest question: why does it feel like there aren’t many updates or publications coming from LF AI & Data, especially compared to what was presented that day? Moore acknowledged the concern, noting that “Hugging Face takes all the oxygen out of the room.” As a dominant platform for hosting models, Hugging Face draws much of the community’s attention. In contrast, LF AI & Data projects tend to be more focused and formally governed, but they often struggle to stand out in an ecosystem where Hugging Face’s fast-paced, sometimes chaotic energy sets the tone.
 
 
-## Open Collaboration Isn’t Easy 
+### Open Collaboration Isn’t Easy 
 
 When it comes to working with governments, regulators, and national institutions, Todd Moore was honest: “Sometimes they don’t listen.” International cooperation, especially at the state or policy level, isn’t just about infrastructure—it’s about bridging worldviews, regulatory languages, and conflicting priorities. But collaboration is still the key.
 
 
-## Where Open-Source Projects Call Home
+### Where Open-Source Projects Call Home
 
 A snapshot of current LF AI & Data-hosted projects reveals clear geographic patterns. About 66% are headquartered in the US, with China a distant second at 16%. Countries like France, the UK, Japan, and Indonesia account for around 3% each. It’s a reminder that global collaboration in open-source still has dominant centers—and gaps.
 
 
-## Infrastructure Runs on Effort and Scarcity
+### Infrastructure Runs on Effort and Scarcity
 
 Open-source might be “free,” but keeping it running isn’t. When someone asked why you need to be a contributing member company just to start a sandbox project, the answer was straightforward: “because resources are tight.” Moore explained that every project is funded by the members, if you can't use your own funding, the project won't be possible. In this sense, open-source development is inseparable from the broader economic structures that also sustain proprietary software.
 
 
-## Why This Meetup Happened
+### Why This Meetup Happened
 
 The event itself wouldn’t have happened without **Kōsaku Kimura**, the final speaker of the day. His formal application and local leadership are the reason this Regional User Group (RUG) was held in Japan at all. Sometimes, the most impactful things start with someone quietly pushing the door open.
 
 
 
-# What you can try from today
+## What you can try from today
 
 
 Here are a few things you can explore right now—even with little or no prior experience.
 
-## Join the GenAI Commons Community
+### Join the GenAI Commons Community
 
 You don’t need to be an expert to participate. [GenAI Commons](https://lists.lfaidata.foundation/g/gen-ai-commons) is an open community working to make generative AI a public good.  
 
@@ -368,7 +367,7 @@ You don’t need to be an expert to participate. [GenAI Commons](https://lists.l
 - Participate!
     
 
-## Try Model Openness Tool (MOT v2)
+### Try Model Openness Tool (MOT v2)
 
  [MOT v2](https://mot.isitopen.ai/models) helps you evaluate how much access and transparency a model provides.  
  
@@ -381,7 +380,7 @@ You don’t need to be an expert to participate. [GenAI Commons](https://lists.l
 - Try rating a model yourself and see how it compares
     
 
-## Want to publish your own model? Learn about OpenMDW
+### Want to publish your own model? Learn about OpenMDW
 
 [OpenMDW](https://openmdw.ai/) is a new standard for sharing models responsibly:  
 You **must release all three**:
@@ -394,7 +393,7 @@ You **must release all three**:
     All under **true open-source licenses**—no tricky restrictions like "non-commercial use only."  
 
 
-## Try Open Agent Standards: MCP & A2A
+### Try Open Agent Standards: MCP & A2A
 
 As AI agents take on more complex tasks, the future isn’t one giant model—it’s composite AI that we've discussed here [[#Third pillar Agent]]. 
 
@@ -415,7 +414,7 @@ These notes raise a key design question: _Should tool and agent selection always
 
 Designing these standards and related interface are critical in shaping how we can interact with AI agents in the future. Some UX design proposals we can start thinking about include: 
 
-### 🔧 "How users configure agents"
+#### 🔧 "How users configure agents"
 
 - **Intuitive setup interfaces** for people to create or customize agents (e.g., choosing their roles or skills)
     
@@ -426,7 +425,7 @@ Designing these standards and related interface are critical in shaping how we c
 - A friendly “Agent Builder” wizard, not a terminal command line.
 
 
-### 🪪 "What AgentCards look like"
+#### 🪪 "What AgentCards look like"
 
 - **What information is shown** (e.g., name, capabilities, owner, last update)
     
@@ -440,7 +439,7 @@ Model Card format implemented (albeit without enforcing power) by Hugging Face i
 Same with MCP tools, the compilation currently can be found [here](https://mcp.so/) but information on each tool seems too limited and unstandardized for a person to comprehend and find the right one.
 
 
-### 🔁 "How trust and traceability are shown in agent handoffs"
+#### 🔁 "How trust and traceability are shown in agent handoffs"
 
 As agents pass tasks to each other:
 
@@ -451,7 +450,7 @@ As agents pass tasks to each other:
 - This improves **trust** and **accountability**
     
 
-## Use OpenStack for own cloud
+### Use OpenStack for own cloud
 
 Read more on [[#OpenStack]]
 Things you can try with OpenStack under the context of AI Commons
@@ -466,7 +465,7 @@ Things you can try with OpenStack under the context of AI Commons
     
 
 
-## Scale up with Kubernetes
+### Scale up with Kubernetes
 
  A great tool to use when hosting open-source LLMs, collaborative notebooks, or citizen data platforms. Read more [[#Kubernetes]]
  
@@ -480,11 +479,11 @@ Here are some things you can try today:
 | Use in production  | Use managed Kubernetes: AWS EKS, Azure AKS, Google GKE—or self-host with OpenStack.                                  |
 
 
-# Technical primer
+## Appendix: Technical primer
 
-Here is a guide to help you catch up with key concepts in open-source AI infrastructure.
+A little primer that I find necessary to catch up with key concepts in open-source AI infrastructure.
 
-## I thought Stable Diffusion was open‑source…
+### I thought Stable Diffusion was open‑source…
 
 **“Open-source”**, as defined by the Open Source Initiative (OSI), means you can **use, study, modify, and redistribute** the software _for any purpose_, as long as you comply with its license.  
 **Source-available** projects may let you see the code or model weights—but often include restrictions like “non-commercial use only” or “no cloud hosting.” These restrictions violate OSI principles, meaning those projects aren’t truly open-source. This gap—when a project looks open but legally isn’t—is called the **source‑available loophole**. [[#Try Model Openness Tool (MOT v2)]] is a good starting point to avoid these loopholes.
@@ -495,7 +494,7 @@ Here is a guide to help you catch up with key concepts in open-source AI infrast
 | **Stable Diffusion (CreativeML Open RAIL-M)** | Weights and training code open  | Forbids certain use cases (deep-fakes, medical, legal, law-enforcement, etc.)                                               | Adds field-of-use restrictions—disallowed in OSI licences ([github.com](https://github.com/easydiffusion/stable-diffusion/blob/main/LICENSE-MODEL?utm_source=chatgpt.com "stable-diffusion/LICENSE-MODEL at main · easydiffusion ... - GitHub"), [book.the-turing-way.org](https://book.the-turing-way.org/reproducible-research/licensing/licensing-ml?utm_source=chatgpt.com "Licensing Machine Learning models - The Turing Way")) |
 | **MongoDB Server-Side Public Licence (SSPL)** | Full source on GitHub           | If you run a network service “as-a-service,” you must open-source **your entire cloud stack**                               | Extra condition not in the Open Source Definition; rejected by OSI ([mongodb.com](https://www.mongodb.com/legal/licensing/server-side-public-license/faq?utm_source=chatgpt.com "Server Side Public License FAQ \| MongoDB"))                                                                                                                                                                                                         |
 
-## Open Container Initiative (OCI) & Kubernetes: Lessons for AI
+### Open Container Initiative (OCI) & Kubernetes: Lessons for AI
 
 The **Cloud Native Computing Foundation (CNCF)** promoted two key standards:
 
@@ -508,7 +507,7 @@ As a result, applications can move between environments seamlessly.
 **For AI agents**, emerging protocols like **MCP** (standard tool calls) and **A2A** (agent-to-agent coordination) aim to do the same—so different tools and agents can work together under a shared ecosystem.
 
 
-## PyTorch
+### PyTorch
 
 I would guess many people interested in the topic are familiar with it, but if you are not, here are some basic information on PyTorch to get started.
 
@@ -598,7 +597,7 @@ After familiarized yourself with basic tutorials, try a small project: e.g., tra
 If interested, apply to PyTorch Ambassador Program at https://pytorch.org/programs/ambassadors/
 
 
-## Why “weights” = the model
+### Why “weights” = the model
 
 Training a neural network is a giant game of dial-twiddling.
 
@@ -609,7 +608,7 @@ Training a neural network is a giant game of dial-twiddling.
 - After training, the weights _are_ the model: if you load the same weights, you get the same behaviour.
 
 
-## OpenStack
+### OpenStack
 
 OpenStack provides DIY cloud for secure, local infrastructure. It’s essential for **self‑hosted** or **sovereign AI** projects, where organizations want data and compute to stay within their domain.
 
@@ -633,7 +632,7 @@ It provides a **suite of services** that mimic everything a big cloud provider o
 |**Glance**|Manages OS images (like VM templates)|
 |**Heat**|Orchestrates infrastructure (like Terraform)|
 
-## Kubernetes
+### Kubernetes
 
 Often written as K8s. Ideal for managing scalable, reliable AI workloads in the commons.
 
@@ -665,36 +664,8 @@ People use _Docker_ together with Kubernetes on OpenStack (cloud): Docker for bu
 |**Kubernetes**|Organizes, delivers, scales, and watches over all your lunchboxes across many kitchens.|
 
 
-# My take
 
 
-As someone coming to this topic from outside computer science, I’ve followed the technical and strategic arguments for open-source with great interest. But my personal concern is more basic: as technology grows more complex, it’s becoming less accessible to ordinary users. AI, in particular, is still messy and malleable—making this a crucial moment to bring it back within reach.
-
-After all, the internet didn’t grow on its own. We’ve all contributed to shaping it, even passively, just by existing online. Yet many people now feel sidelined, while a small group of actors determine how its most powerful tools—especially AI—are built and used.
-
-We shouldn’t live in a world where the technologies shaping how we work, communicate, and make decisions feel closed off to most of us. I want to help build a world where people can use and understand AI—and, if they choose, help improve it—in a way that’s sustainable and empowering.
-
-That’s what I’m working toward. So where to begin?
-
-I appreciated the practical advice [[#Join the GenAI Commons Community]] shared by the speakers at the event, and conversation with [Leonard](https://www.linkedin.com/in/randomfoo/) afterward helped clarify a few things:
-
-- Usability is a major bottleneck in open-source. Designers and non-technical users have a real role to play in making tools more accessible.
-    
-- Regulation is important, but real products, stories, and live demos often change minds more effectively.
-    
-- As AI-native computing and composite-AI systems take shape, design can help make them transparent and usable—not just to developers, but to everyone. Without that, A2A-style architectures risk becoming black boxes layered on top of black boxes that distance people from the technology.
-
-I’m certainly feeling that distance myself: Switching to Linux takes immense mental effort; Failing to complete an IBM Coursera course on AI as I stuck on the terminal-based exercises. Despite the clear instructions, I couldn’t get the environment to work as expected, and eventually gave up.
-
-That's after hours of searching GitHub issues and Reddit threads, hoping someone had the same problem. Each error seemed to depend on some obscure factor. The tools didn’t explain themselves, and the guidance online—though abundant—was scattered and often assumed a higher level of expertise. 
-
-Tools like ChatGPT and GitHub Copilot helped me make more progress (ironically proprietary), but only to a point. If the first suggestion didn’t solve the issue, subsequent attempts often led nowhere. This was especially true when using the command line. And each time I hit a dead end, I worried: what if I can’t get past this? #vibecodingsyndrome
-
-These kinds of experiences aren’t often voiced. Some people might feel these are too basic to ask, or that it’s their responsibility to figure things out on their own. Others may never even entered the scene. And those who do become fluent in the tools may forget what the early struggle felt like.
-
-So it meant something to hear it stated plainly: _“Isn’t Linux hard to use?”_ It is—and simply hearing that acknowledged made the experience feel a little less isolating.
-
-Another point has stayed with me: _“Try to remember what’s difficult now. Because if you stay in this space long enough, you’ll stop noticing—and that distance from others will grow.”_
-
-That’s part of why I’ve written this—not just to recap what I learned, but to record the learning process itself. For others who might be on a similar path, and as a reminder to myself later on. Paying attention to where the friction lies might be one of the most valuable contributions I can make.
+## Related   
+- [[What LF Japan RUG Made Me Reflect On]]
 
