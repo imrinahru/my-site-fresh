@@ -166,12 +166,9 @@ It deeply relates to AI-native computing, and that's why Mark Collier calls it "
 | **BentoML**                                      | Packages any model (Python, R, whatever) into a neat “bento box” you can ship as a Docker image or run in the cloud with one command. ( [https://docs.bentoml.com](https://docs.bentoml.com/) )                                                                                                                                                                 |
 | **OpenVINO**                                     | Intel’s toolkit that shrinks models so they run faster on regular CPUs or small edge devices—handy when you don’t have a fancy GPU. ( [https://docs.openvino.ai](https://docs.openvino.ai/) )                                                                                                                                                                   |
 | **TensorFlow Serving**                           | A proven workhorse for companies already using TensorFlow; serves models over the web with built-in version control and high throughput. ( [https://github.com/tensorflow/serving](https://github.com/tensorflow/serving) )                                                                                                                                     |
+| **llm-d**                                        | The objective of llm-d is to create a well-lit path for anyone to adopt the leading distributed inference optimizations _within their existing deployment framework_ - Kubernetes. ( [https://github.com/llm-d/llm-d](https://github.com/llm-d/llm-d) )                                                                                                         |
 
 Distributed architecture is a way to go for maximum efficiency. A rising star is llm-d, Kubernetes distributed inference at scale. 
-
-| **llm-d** | The objective of llm-d is to create a well-lit path for anyone to adopt the leading distributed inference optimizations _within their existing deployment framework_ - Kubernetes. ( [https://github.com/llm-d/llm-d](https://github.com/llm-d/llm-d) ) |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 
 **Key takeaways:** 
 
