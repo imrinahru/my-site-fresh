@@ -79,17 +79,14 @@ const config: QuartzConfig = {
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
-      // Plugin.AliasRedirects(),
-      // Plugin.ComponentResources(),
+
       Plugin.ContentPage,
       Plugin.FolderPage,
       Plugin.TagPage,
       Plugin.ContentIndex,
-      // Plugin.Assets,
-      // Plugin.Static,
+
       Plugin.Favicon,
       Plugin.NotFoundPage,
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
