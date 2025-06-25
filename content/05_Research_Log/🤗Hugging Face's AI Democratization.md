@@ -2,7 +2,7 @@
 title: "Hugging Face (2022) — Hugging Face’s efforts: Ethics and Society 🤗🌎"
 date: 2025-06-17
 tags:
-  - reading
+  - log
 draft: false
 summary: |
   1-line statement of the author’s main argument.
