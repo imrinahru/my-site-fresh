@@ -83,7 +83,7 @@ const config: QuartzConfig = {
       Plugin.ContentPage,
       Plugin.FolderPage,
       Plugin.TagPage,
-      Plugin.ContentIndex,
+
 
       Plugin.Favicon,
       Plugin.NotFoundPage,
