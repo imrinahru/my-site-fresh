@@ -10,7 +10,8 @@ draft: false
 
 ### Start here
 - [[why_ai_commons|Why AI Commons?]]
-- [[Essays/index|All Essays]]
-- [[Projects/index|Ongoing Projects]]
-- [[Events/index|Event Recaps]]
-
+- ✍️ [[01_Essays/index|Essays]]
+- 🛠️ [[02_Projects/index|Projects]]
+- 📅 [[03_Events/index|Events]]
+- 📚 [[04_Reading_Notes/index|Reading Dashboard]]
+- 🔬 [[05_Research_Log/index|Research Log]]
