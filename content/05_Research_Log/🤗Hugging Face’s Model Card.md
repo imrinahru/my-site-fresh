@@ -2,7 +2,7 @@
 title: Hugging Face (2022) — Introducing Hugging Face for Education 🤗
 date: "{{date:YYYY-MM-DD}}"
 tags:
-  - reading
+  - log
 draft: false
 summary: |
   1-line statement of the author’s main argument.
@@ -27,4 +27,4 @@ link: https://huggingface.co/openai-community/gpt2
 - The concept of model card is essential for everybody to have a shared understanding, and a starting point to interact with the model.
 
 ### Further reading  
-- [[04_Reading_Notes/🤗Hugging Face's AI Democratization]]
+- [[🤗Hugging Face's AI Democratization]]

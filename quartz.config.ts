@@ -12,6 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    footer: {
+      copyright: "© 2025 Rina Chen. Some rights reserved.",
+      extra: 'Content licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.'
+    },
     analytics: {
       provider: "plausible",
     },
