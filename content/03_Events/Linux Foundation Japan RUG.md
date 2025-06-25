@@ -3,6 +3,7 @@ title: 2025-06-20 — LF AI & Data Japan RUG Meetup
 date: 2025-06-20
 tags:
   - event
+  - linux
 location: Fujitsu Yokohama Hub
 draft: false
 summary: Amid fast-moving developments in AI, this meetup provided a timely assessment of open-source infrastructure—linking broad trends to tangible implementation paths.
@@ -345,7 +346,7 @@ You don’t need to be an expert to participate. [GenAI Commons](https://lists.l
     
 - Check meeting schedule and join at [calendar](https://lists.lfaidata.foundation/g/gen-ai-commons/calendar)
     
-- Join [Slack channel](**[https://join.slack.com/t/lfaifoundation/shared_invite/zt-24yjiz9v7-IxkHxos4TBYf8WN_9E2R~g](https://join.slack.com/t/lfaifoundation/shared_invite/zt-24yjiz9v7-IxkHxos4TBYf8WN_9E2R~g)**) for communication, GenAI Commons channel can be found at #generative-ai-commons (here also, you can join other workstreams: Models, Applications and Data #gac-mad-workstream, Education and Outreach: #gac-education-outreach-workstream, Responsible AI: #gac-responsible-ai-workstream)
+- Join [Slack channel](**[https://join.slack.com/t/lfaifoundation/shared_invite/zt-24yjiz9v7-IxkHxos4TBYf8WN_9E2R~g](https://join.slack.com/t/lfaifoundation/shared_invite/zt-24yjiz9v7-IxkHxos4TBYf8WN_9E2R~g)**) for communication, GenAI Commons channel can be found at # generative-ai-commons (here also, you can join other workstreams: Models, Applications and Data # gac-mad-workstream, Education and Outreach: # gac-education-outreach-workstream, Responsible AI: # gac-responsible-ai-workstream)
     
 - Introduce yourself and say what you're interested in
     
