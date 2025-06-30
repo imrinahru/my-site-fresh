@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "AI Commons Forest",
+    pageTitle: "Artificial Apple",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

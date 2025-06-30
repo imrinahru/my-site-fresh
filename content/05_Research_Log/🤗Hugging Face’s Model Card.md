@@ -1,6 +1,6 @@
 ---
 title: Hugging Face (2022) — Introducing Hugging Face for Education 🤗
-date: "{{date:YYYY-MM-DD}}"
+date: 2025-06-17
 tags:
   - log
 draft: false
