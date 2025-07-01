@@ -190,6 +190,7 @@ But in this multiplicity—this messiness of selves, influences, and uncertainti
 
 
 
+![[life of a scientist_tom gauld.webp]]
 
 ## My take
 
@@ -197,16 +198,16 @@ In a moment where AI tools seem to do _everything_, this conversation helped me 
 
 It also inspired me to value users' bodily experience as a core element of experimentation.
 
-We are rushing to develop the most powerful AI (system), but it's actually more important than ever to design _the context, the narrative_, in which we live with this AI.
+We are rushing to develop the most powerful AI (system), but it's actually more important than ever to design _the context, the narrative_, in which we live with AI.
 
 Some _how might we questions_ that we can start thinking about:
 - How to preserve the autonomy and self-reflection of the user? 
 
 More fundamentally,
-- What is the right distance between humans and AI, depending on different use cases, such as education, and, care?
-- What activities and roles can be entrusted to AI, and what should not (even if we can), taking into account both short and long-term consequence? 
+- What is the right distance between humans and AI (depending on different use cases, such as education, care) ?
+- What activities and roles can be entrusted to AI, and what should not (even if we can, taking into account short-/long-term consequence) ? 
 
-In the end of the day, every single question we have can be a valid question. It is therefore a valid question to pursue the most powerful, human-replacing AI, but it will never be a relevant question as a human being.
+In the end of the day, every single question we have can be a valid question. It is therefore a valid question to pursue the most powerful, human-replacing AI. However, it will never be a relevant question for human kind moving forward.
 
 
 
