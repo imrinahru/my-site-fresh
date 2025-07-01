@@ -19,7 +19,7 @@ It was also a rare and special occasion, reserved for students and young peopleâ
 
 The meetup revealed that even in an age shaped by technology, **the fearless exploration into our relationship with others** remain essential.
 
----
+
 
 ## Speakers
 
@@ -44,7 +44,8 @@ The meetup revealed that even in an age shaped by technology, **the fearless exp
 - Creator of [_TypeTrace_,](https://youtu.be/_ayY8Rx5mMY?si=j9DtETjKIAyB-Srs) recording the process information which is often times regarded redundant in modern context
     
 - Advocator for digital well-being, more in this [article](https://wired.jp/2019/03/14/well-being-dominique-chen/)
----
+
+
 
 
 ## Extended insights

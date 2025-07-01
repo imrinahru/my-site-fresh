@@ -4,6 +4,7 @@ date: 2025-06-20
 tags:
   - event
   - linux
+  - open-source
 location: Fujitsu Yokohama Hub
 draft: false
 summary: Amid fast-moving developments in AI, this meetup provided a timely assessment of open-source infrastructure—linking broad trends to tangible implementation paths.
