@@ -1,5 +1,5 @@
 ---
-title: Design the context in which AI is designed
+title: Designing the Ground Where AI Grows
 date: 2025-06-29
 tags:
   - essay

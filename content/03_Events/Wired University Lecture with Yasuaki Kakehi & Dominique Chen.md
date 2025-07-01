@@ -126,7 +126,7 @@ Ultimately, it’s not just about what the technology does, but about the **expe
 
 The relationship between tool, user, and the world must include entrustment, breathing room, and gentle drift—a dynamic triad of transformation.
 
----
+
 ### About our existence: Identity, and belonging
 
 Beyond the scholars’ themed talk, the Q&A session with students—mostly undergraduates and a handful of high-school participants—created a rare moment for self-reflection. It recalled the turbulence of our twenties, a time when our sense of identity rapidly expands yet belonging often feels elusive. The challenge now is to channel that sensitivity in our age: how can we cultivate connection and purpose without losing ourselves in the process?
@@ -189,7 +189,7 @@ Both professors acknowledged that our twenties are a particularly turbulent time
 But in this multiplicity—this messiness of selves, influences, and uncertainties—there is also the foundation for a more open, relational self. A self that is not defined by boundaries, but by its connections.
 
 
----
+
 
 ## My take
 
