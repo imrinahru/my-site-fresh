@@ -5,7 +5,7 @@ tags:
   - essay
 summary: |
   One-sentence teaser that will show on the card and in RSS feeds.
-draft: true
+draft: false
 cover: /assets/img/cover_new scientist_tom gauld.webp
 ---
 

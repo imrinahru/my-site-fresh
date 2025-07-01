@@ -4,10 +4,10 @@ date: 2025-06-30
 tags:
   - event
 location: 
-draft: false
+draft: true
 summary: |
   Key takeaway in 20 words.
-cover: cover_new scientist_tom gauld.webp
+cover:
 ---
 
 ## Overview  
