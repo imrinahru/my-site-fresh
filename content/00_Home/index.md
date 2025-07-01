@@ -1,15 +1,15 @@
 ---
 title: Home
-sidebar: false            # keep the left nav clean on the front page
-summary: Rina Chen’s living notebook on building an AI Commons.
+sidebar: false
+summary: Rina Chen’s living notebook on designing sensible narrative around technology and especially, AI.
 draft: false
 ---
 
 > **Welcome!**  
-> This site collects essays, projects, event notes and reading highlights about treating AI as a shared global resource—an **AI Commons**.
+> This site collects essays, projects, event notes and reading highlights about _designing the context_ in which AI technology should be designed.
 
 ### Start here
-- [[why_ai_commons|Why AI Commons?]]
+- [[Designing the Ground Where AI Grows]]
 - ✍️ [[01_Essays/index|Essays]]
 - 🛠️ [[02_Projects/index|Projects]]
 - 📅 [[03_Events/index|Events]]
