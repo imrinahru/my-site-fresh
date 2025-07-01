@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Design the context in which AI is designed
 date: 2025-06-29
 tags:
   - essay
@@ -48,7 +48,7 @@ Recently there have been a rise in what I saw as a drive towards "AI first".
 How to design the context in which LLMs are designed?
 検証可能性
 Now is consumer-designer relationship
-How it can be 
+
 
 
 ## Next steps  
