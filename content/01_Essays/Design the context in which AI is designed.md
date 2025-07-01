@@ -9,6 +9,7 @@ draft: true
 cover:
 ---
 ![[/assets/img/cover_new scientist_tom gauld.webp]]
+
 ## TL;DR  
 *Two-sentence executive summary.*
 

@@ -47,7 +47,7 @@ The meetup revealed that even in an age shaped by technology, **the fearless exp
 ---
 
 
-## **Extended Insights**
+## Extended insights
 
 ### Artificial intelligence vs. Natural intelligence
 

@@ -3,6 +3,9 @@ title: Facing the Usability Gap in Open Source AI
 date: 2025-06-24
 tags:
   - essay
+  - usability
+  - ux-design
+  - process
 summary: "From UX to AI: reflections after a Linux Foundation meetup."
 draft: false
 cover:
