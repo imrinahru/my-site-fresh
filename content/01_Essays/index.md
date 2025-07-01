@@ -1,10 +1,9 @@
 ---
 title: Essays
-layout: folder            # ← Quartz turns sub-notes into a card grid
+layout: folder
 sidebar: true
-summary: Long-form reflections on AI governance, ethics, and commons theory.
+summary: Long-form reflections on life, design, and technology
 draft: false
 ---
 
-Below you’ll find every polished essay, newest first. Each card shows the date,
-tags and a one-sentence summary.
+These essays capture what’s been on my mind lately and where I stand, newest ones first. 
