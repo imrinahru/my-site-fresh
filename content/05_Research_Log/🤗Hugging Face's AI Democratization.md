@@ -17,7 +17,7 @@ link: https://huggingface.co/learn/computer-vision-course/unit12/conclusion
 - As of 2025 June, most of the spaces related to ethical experimentation/scrutiny are no longer running.
 
 - ~~Updating and maintaining the ethics related spaces, such as examination, benchmarking tools, can be a valid starting point.~~
-(Updated July 1, 2025: Ethics and values are among the most difficult things humans can precisely agree on ([[New Context Conference 2025 Summer]], Tenzin). Based on this assumption, focusing on actual, experiential product that can naturally instil self-reflection, and alignment with ethics, should be prioritised.)
+(Updated July 1, 2025: Ethics and values are among the most difficult things humans can precisely agree on ([[New Context Conference 2025 Summer]], Tenzin Priyadarshi). Based on this assumption, focusing on actual, experiential product that can naturally instil self-reflection, and alignment with ethics, should be prioritised.)
 
 ## Further reading  
 
