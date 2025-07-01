@@ -72,6 +72,7 @@ Then how should we live with AI? How should we design a context with AI?
 
 The key lies in balance—or as Yasuaki Kakehi repeatedly emphasized, in _anbai_ (塩梅), a Japanese term meaning the right mix, harmony, or proportion.
 
+___
 #### Importance of taking actions (and sweating)
 
 In practical tasks, AI agents are already embedded in workflows—there’s a sense that everything—hardware and software—can now be made with AI. 
@@ -128,6 +129,8 @@ The relationship between tool, user, and the world must include entrustment, bre
 ### About our existence: Identity, and belonging
 
 Beyond the scholars’ themed talk, the Q&A session with students—mostly undergraduates and a handful of high-school participants—created a rare moment for self-reflection. It recalled the turbulence of our twenties, a time when our sense of identity rapidly expands yet belonging often feels elusive. The challenge now is to channel that sensitivity in our age: how can we cultivate connection and purpose without losing ourselves in the process?
+
+___
 #### The Student's Reflection
 
 One student began by reflecting on their high school experience, where many peers did not seem overly concerned with how others perceived them. In contrast, university life felt more complex—requiring greater awareness of how one fits into various communities and perspectives.
@@ -184,6 +187,8 @@ Both professors acknowledged that our twenties are a particularly turbulent time
 
 But in this multiplicity—this messiness of selves, influences, and uncertainties—there is also the foundation for a more open, relational self. A self that is not defined by boundaries, but by its connections.
 
+
+---
 
 ## My take
 
