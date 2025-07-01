@@ -6,7 +6,7 @@ tags:
 summary: |
   One-sentence teaser that will show on the card and in RSS feeds.
 draft: true
-cover:
+cover: /assets/img/cover_new scientist_tom gauld.webp
 ---
 
 ## TL;DR  
@@ -14,19 +14,28 @@ cover:
 
 ## Context  
 
+The following remarks and slogans are increasingly making me feel unease:
+
 > - **AI Scientists** who keep exploring and making discoveries around the clock
 > - **AI Artists** who create new kinds of music, art, and stories we’ve never seen before
 > - **AI Engineers** who design buildings, spaceships, and even new types of computers
 > - **AI Teachers** who help every student learn in the way that works best for them
 > - **AI Doctors** who find new treatments and maybe even help people live longer
+> A blogger 
 
-> There won't be enough people, so we need AI to fill up
+> There won't be enough people, so we need AI to fill up.
 > An AI startup aiming to provide digital workforces for enterprise
 
 > AIファーストで、人々が「人生」に使える時間をつくる
-> Now, so few, but one years, two years in future half 50% AI do. AIs provide new resource to client. Don’t notice client. (correction: Clients don't notice)
-> Human have mistake. AI is a not have mistake. We can train AI and not do a same mistake. AI can’t lie.
 > An AI startup aiming to provide digital workforces for enterprise
+
+The CEO of this startup also revealed in an interview:
+
+> (...) one years, two years in future half 50% AI do. AIs provide new resource to client. Don’t notice client. (correction: Clients don't notice)
+> Human have mistake. AI is a not have mistake. We can train AI and not do a same mistake. AI can’t lie.
+
+> That is too philosophical for me to answer. (An AI researcher interested in continuous-learning AI, in response to my question on how we should live with it)
+
 
 ## Main argument  
 

@@ -1,278 +1,206 @@
 ---
-title: 2025-06-25 — Untitled 1
+title: 2025-06-25 — Wired University with Yasuaki Kakehi, Dominique Chen
 date: 2025-06-25
 tags:
   - event
-location: 404 Not Found
-draft: true
-summary: |
-  Key takeaway in 20 words.
+  - natural-intelligence
+  - embodiment
+location: 404 Not Found Shibuya
+draft: false
+summary: Technology should deepen embodied awareness, preserve human agency, and foster relational balance, empowering people to co-create humane, thoughtful futures.
 ---
-## **Why This Meetup Mattered**
-
-This event offered a rare and valuable space for reflecting on **how we live, create, and feel with AI technology**. Beyond technical advances, the speakers explored how _bodily experience, critique, and curiosity_ can guide the design of tools and systems that remain humane—and humane in their balanced design. It is also a rare occasion reserved only for students and the youths, who have the ability to raise pure, deep, difficult, and even scary concerns and questions that encouraged inspiring discussions. The meetup illuminated that even in the era of technology, **others and interdependence** remain as the ley for a better future.
-
----
-
-## **Summary**
-
-This interdisciplinary session featured two leading thinkers bridging engineering, media art, human science, and digital culture.
-
-- **Yasuaki Kakehi** spoke about _Material Experience Design Lab_ which he leads, Creative Futurists Initiative with Sony, and how universities must foster environments where curiosity is encouraged (even with a critical mind).
-    
-- **Dominique Chen**, as the only "maker/tinkerer" in a Human Science department, delved into thoughts behind Nukabot that he's been improving for 5 years, the joy of actively growing own tools, the importance of process that's often ignored in modern world.  
-
-Together, they explored how **technology, when critically engaged, can deepen rather than replace human sensibility**.
-
----
-
-## **Speakers**
-
-### **Prof. Yasuaki Kakehi**
-
-- Professor in engineering and design
-    
-- Key person behind YCAM divisual place, designed augmenting experience for dancer Ando Yoko
-	
-- Currently leading _Material Experience Design Lab_ at Tokyo University
-    
-- Explores biosignals, wet intelligence, and the creative potential of materials
-    
-- Collaborates with Sony and other industry-academic initiatives to promote transboundary discussions
-
-### **Prof. Dominique Chen**
-
-- Professor in human science research, engineering and design
-    
-- Creator of **Nukabot**, translating natural intelligence (fermentation process) to natural language
-    
-- Creator of TypeTrace,
-    
-- Advocates for digital well-being, more in this [article](https://wired.jp/2019/03/14/well-being-dominique-chen/)
----
-
-## **Extended Insights**
-
-### 1. **Beyond Intelligence: Embodied, Material, and Microbial Knowledges**
-
-- Kakehi described a future where **materials themselves participate in intelligence**—biosignals, fermentation, and responsive substances as co-creators.
-    
-- Chen emphasized **microbes and ecosystems** as models for **natural intelligence**, challenging anthropocentric and data-centric AI norms.
-    
-
-### 2. **Reclaiming Curiosity in an Age of Optimization**
-
-- Both speakers critiqued how **goal-oriented output** culture undermines exploration.
-    
-- Universities should **protect spaces where the hands keep moving**—where not knowing is a strength, not a weakness.
-    
-- Chen’s concept of “interesting answers over correct ones” was echoed throughout.
-    
-
-### 3. **AI, Surprise, and the Value of Misalignment**
-
-- While ChatGPT’s refinement has made it safe and polished, Chen noted it has **lost the thrill of unpredictability**.
-    
-- Creativity arises in **misalignments**—the “slippage” between user and system, between human and microbial collaborators.
-    
-- The idea of “intelligence” must expand to include **sensation, joy, confusion, and bodily improvisation**.
-    
-
-### 4. **Responsibility, Bias, and Shared Agency**
-
-- AI systems function within **boundaries set by humans**, yet **who takes responsibility** when they fail is an open question.
-    
-- Kakehi compared AI's development to **nukadoko (fermentation beds)**—shaped by environment, aging, and user interaction. The joy lies in **shared, uncertain authorship**.
-    
-- Both speakers emphasized **designing technologies that don’t addict**, but **support autonomy and reflection**.
-    
-
-### 5. **Auto-ethnography and AI-Assisted Inquiry**
-
-- Chen demonstrated how generative AI enhances **auto-ethnographic practice**: surfacing unnoticed patterns in our own diaries, behaviors, and data.
-    
-- The method becomes a **loop of noticing**—the human reflects, AI reframes, the human re-questions.
-    
-
----
-
-## **Q&A with Students**
-
-The student questions revealed a generational tension:
-
-- Many voiced anxiety over **AI’s encroachment** on creativity and identity.
-    
-- Others asked how to **build trust** in themselves when “everything can be made” by machines.
-    
-- One question addressed the **mental health impacts of algorithm-driven platforms**, to which Chen responded with sharp critique of companies like Meta and X (formerly Twitter), noting their **neglect of long-term user wellbeing**.
-    
-
----
-
-## **My Take**
+## Why this event mattered
 
 This event offered not just information, but **a vocabulary and sensibility** for thinking-with-tech, not just about tech.
 
-What stood out:
+The speakers explored how our experience can guide the design of tools and systems that remain humane—and humane in their balanced design. 
 
-- The metaphor of AI as **fermented substance**, something to be nurtured, aged, and shaped with care.
+It was also a rare and special occasion, reserved for students and young people—those who brought forth sincere, profound, and at times unsettling questions that sparked truly inspiring conversations.
+
+The meetup revealed that even in an age shaped by technology, **the fearless exploration into our relationship with others** remain essential.
+
+---
+
+## Speakers
+
+### Yasuaki Kakehi
+
+- Professor in social experimentation, engineering, and design
     
-- The call to **remain in process**, to resist premature optimization, and to keep space open for slowness, detour, and wonder.
+- Key person behind _[YCAM Divisual Plays](https://special.ycam.jp/ram/event/)_, designed augmenting experience for dancers and audiences
+	
+- Currently leading _[Material Experience Design Lab](https://xlab.iii.u-tokyo.ac.jp/about/)_ at Tokyo University
     
-- The insight that **intelligence isn't owned—it’s shared**, between microbes, materials, machines, and people.
+- Exploring material intelligence, wet intelligence, bio intelligence
     
+- Industry-academic initiatives to promote transboundary discussions
+
+### Dominique Chen
+
+- Professor in human science research, engineering, and design
+    
+- Creator of [_Nukabot_](https://ephemere.io/nukabot), translating natural intelligence (fermentation process) to natural language
+    
+- Creator of [_TypeTrace_,](https://youtu.be/_ayY8Rx5mMY?si=j9DtETjKIAyB-Srs) recording the process information which is often times regarded redundant in modern context
+    
+- Advocator for digital well-being, more in this [article](https://wired.jp/2019/03/14/well-being-dominique-chen/)
+---
+
+
+## **Extended Insights**
+
+### Artificial intelligence vs. Natural intelligence
+
+In the labs offered by Kakehi and Chen, students come with wide range of research themes. Some are interested in achieving AGI, or creating AI with body embodiment; Others are interested more in biology and natural intelligence, while using AI technology when necessary.
+
+Not having a unified direction is good, what seems important is to have people with different interests physically in the same space. The haphazard connection promotes curiosity and critical thinking.
+
+### Human quality to live with AI
+
+Humans’ innate flexibility is a **double-edged sword**（諸刃の剣）.
+
+In today’s _addiction economy_, our behaviors are increasingly shaped by systems designed to capture and exploit our attention. As highly adaptable beings, we are plastic enough to take traits from AI agents. But in doing so, we risk dulling our own sensitivity and losing a sense of agency. That’s not a future we should aspire to.
+
+At the same time, humans already possess the ability to coexist with systems that defy our understanding—like the self-sustaining forces of climate change or the opaque logic of AI black boxes. We’ve learned to live alongside such autonomous processes, even when we cannot fully comprehend them.
+
+In this context, **meta-cognition**—the ability to reflect on our own thoughts and actions—becomes essential. While AI can accelerate us toward outcomes, it’s equally important to remain aware of the **process**. Treating sequences of results not just as end points, but as parts of a broader pattern of meaning-making, is what allows us to engage with AI thoughtfully rather than passively.
+
+
+### How to achieve a balance 
+
+Then how should we live with AI? How should we design a context with AI?  
+
+The key lies in balance—or as Yasuaki Kakehi repeatedly emphasized, in _anbai_ (塩梅), a Japanese term meaning the right mix, harmony, or proportion.
+
+#### Importance of taking actions (and sweating)
+
+In practical tasks, AI agents are already embedded in workflows—there’s a sense that everything—hardware and software—can now be made with AI. 
+
+But if we rely too heavily on it, we risk surrendering our need to be “ourselves.”  In the long term, while we may avoid failure, we also risk losing the personal experience of meaningful achievement.
+
+Drawing on his research into artistic creativity, Kakehi stressed the value of _deviation_ and _displacement_ as paths to novel creation. AI can provide great answers, but they’re not always _interesting_. The “interesting” emerges when humans intentionally shift and misalign their perspectives. That requires **effort, bodily engagement, and facing AI not passively but through action—through sweat**. 
+
+As an example, _auto-ethnography_ was presented as a form of self-driven research rooted in daily life. Unlike traditional observation of external others, this method involves documenting and analyzing the unknown aspects of oneself. With AI, it’s now easier to surface unnoticed patterns in our own diaries, behaviors, and data. Because the data is self-produced,  requiring efforts, and deeply personal, it opens up new relational and analytical possibilities with AI. The method becomes a loop of noticing—**the human reflects, AI reframes, the human re-questions**.
+
+The insights that matter most are those we gain by doing. In the world we now share with AI, action is a distinctly human responsibility. AI only acts within the parameters humans define. It lacks _feeling_—joy and pain don’t arise from its internal experience. Perception and embodied sensation are not just currently impossible for AI, they may be fundamentally unreachable.  
+
+Referencing Yann LeCun, who reminds us that current LLMs are sophisticated forms of make-believe. What makes us human is _resonance_, _emotion_, _relationality_, and _responsibility_—dimensions AI cannot replicate.
+
+A research theme is especially interesting when it includes the very question of human existence: _the otherness_ and _connection_.
+
+___
+#### Shared responsibility
+
+Agents may spread misinformation, there’s a growing need for safety guards and regulations. 
+
+But regulation can also **widen the gap between creators and users.**
+
+**A metaphor from fermentation:**  
+Nukadoko (fermentation bed) changes depending on who touches it and the surrounding environment. While this could be seen as a source of problem (as a product), it can also be a source of joy—like the pride of owning _my nukadoko_ that is shaped by individual interaction and environment. In this case, responsibility becomes something shared.
+
+In research as well, acknowledging uncertainty when publishing is important. Sharing what is not known helps others proceed with informed, shared responsibility.
+
+___
+#### Right distance
+
+In the context of human-nature engagement, the crucial task is to design technologies that sharpen our capacity to notice. Rather than fusing us completely with nature—or cutting us off from it—they should keep us at just the right distance, striking a harmonious balance.
+
+As well, In human–technology interaction, we should design technologies that help us maintain the right distance with technologies.
+
+___
+#### In the end, what matters is "our" experience
+
+**Chen** proposed _graduatable technologies_—not those designed to create permanent dependency. Current subscription-based models promote addiction. In contrast, he proposed a supportive design that helps users become self-sufficient—like someone who learns to make their own nukadoko even after turning off the Nukabotto.  
+
+Chen's design philosophy emphasizes physical awareness and dialogical interactions that _leave space for imagination_, rather than having AI supply all the answers. It’s about designing systems that **walk alongside** people, not pull them in.
+
+Referring to an improvisational performance by Yoko Ando, for which he contributed digital projections, Kakehi emphasized a form of technology that transcends surface aesthetics. Rather than simply decorating, it enables people to **feel parameters through their bodies**. He proposed a multisensory approach to perception—engaging the body, sensors, voice, and a fusion of the five senses—to deepen our awareness of technological experiences.
+
+More importantly, technology **changed with the dancer, forming part of a dynamic, improvisational flow**.
+
+Ultimately, it’s not just about what the technology does, but about the **experience it enables**—what the body gains, how it changes.
+
+> ゆだね、ゆとり、ゆらぎ — Dominique Chen
+
+The relationship between tool, user, and the world must include entrustment, breathing room, and gentle drift—a dynamic triad of transformation.
+
+---
+### About our existence: Identity, and belonging
+
+Beyond the scholars’ themed talk, the Q&A session with students—mostly undergraduates and a handful of high-school participants—created a rare moment for self-reflection. It recalled the turbulence of our twenties, a time when our sense of identity rapidly expands yet belonging often feels elusive. The challenge now is to channel that sensitivity in our age: how can we cultivate connection and purpose without losing ourselves in the process?
+#### The Student's Reflection
+
+One student began by reflecting on their high school experience, where many peers did not seem overly concerned with how others perceived them. In contrast, university life felt more complex—requiring greater awareness of how one fits into various communities and perspectives.
+
+> “It’s hard to fully invest yourself when people are scattered across so many places and contexts. You realize you yourself become an object of critique.”
+
+And asked:
+
+> _How can we maintain the things we find truly interesting? How can we live in a way that sustains those feelings over time?_
+
+---
+
+#### The limits of knowing
+
+Chen emphasized the continuous process of learning.
+
+> “I’ve been studying about others. I read works written in the first person—but I never understand them 100%. That’s impossible. Even with people who seem homogeneous to me, full understanding never comes.”
+
+The key, he noted, is **not to mistake partial understanding for completion**. We live in relation to others, and our task is not to grasp people fully, but to engage _empathetically_ with what we can never fully comprehend.
+
+---
+
+#### Identity through connection
+
+Kakehi cited the designer Kashiwa Sato:
+
+> “Ideas are not inside you—they’re out there. The strength lies in the ability to take in what’s outside and shape it into design.”
+
+This, he suggested, is a form of liberation. If you believe ideas only come from within, you risk getting stuck. But if you learn to **draw from the outside world**, to collaborate and co-create, then identity can emerge not from isolation but from interaction.
+
+> “Through collaboration, you feel more at ease. You start to live within relationships, and your own sense of self rises up from those connections.”
+
+He described how Chen’s perspective had become part of his own thinking—an example of how identity can _multiply_, not dilute.
+
+> “That joy of having more identities… it's like you’re being created in a meta-level way, through the process.”
+
+---
+
+#### On being influenced: “falling” into resonance
+
+Chen built on this by describing how **influence doesn’t begin with studying (he used the word previously but corrected himself), but with affection**.
+
+> “You’re not studying someone in order to understand them. You _fall for them_. And then, before you know it, they’ve become a part of you.”
+
+In his view, we are made up of **many parts**, absorbed through admiration, resonance, and shared experience.
+
+> “You’re not trying to know someone—you empathize, and you naturally come to know.”
+
+---
+
+### A word on our twenties
+
+Both professors acknowledged that our twenties are a particularly turbulent time.
+
+But in this multiplicity—this messiness of selves, influences, and uncertainties—there is also the foundation for a more open, relational self. A self that is not defined by boundaries, but by its connections.
+
+
+## My take
 
 In a moment where AI tools seem to do _everything_, this conversation helped me ask: _What is it that only I can feel? notice? imagine?_ And how might I keep that flame alive—without outsourcing it too soon?
 
+It also inspired me to value users' bodily experience as a core element of experimentation.
 
-## Overview  
-**What / When / Where / Who**  
-Who
-Yasuaki Kakehi 筧 康明
-工学、Science、Arts 
-Material Experience Design, eg. using anything, any material, material intelligence, wet intelligence and function, such as biosignals
-産学連携、with Sony, Creative Futurists Initiative, 批評と創造をつなぐ、transboundary, last year 人文学、アート、サイエンス、about tech bias、can it overcome bias, is it a source of bias?
-大学院
-斎藤花さん、粘菌
-テクノロジーに批評的視点を持たざるおえない人がいる
-好奇心が赴くままにやれる空間が大学の重要な所、作る手が止まらないようにすることは引き続き重要
+We are rushing to develop the most powerful AI (system), but it's actually more important than ever to design _the context, the narrative_, in which we live with this AI.
 
-ドミニク・チェン（_Dominique Chen_
-人文学
-文系の学部150人の中唯一モノづくり
-5年進化させてきたのはnukabot,前はデータを読んで回答する、今はGPT2で回答生成
-ChatGPTは進化して、手名付けられ、面白みがなくなっている？前は嘘しか言わない、サプライズ、新奇性が生まれるのは、調整されていないGPT。経験から生まれる違い
-美術館で、1年半長期展示し、Nukabot、ecosystemを運び込んでみた
-artificial intelligence/AIを軸にしたい、AIに身体性を持たせる
-微生物を軸にしたい、必要に応じてテックを使う
-natural intelligence
-学部は就職（105の卒論、主査5大学院卒論）
-ウェルビーイングをやりたい半分、メディアアートを昇華したい
-エスノグラフィ調査、質的研究、高度生物学など、修士に１年入ってから
+Some _how might we questions_ that we can start thinking about:
+- How to preserve the autonomy and self-reflection of the user? 
 
-Wiredもみんな文系、社会、文化、哲学をどう変えるかに焦点がある。
+More fundamentally,
+- What is the right distance between humans and AI, depending on different use cases, such as education, and, care?
+- What activities and roles can be entrusted to AI, and what should not (even if we can), taking into account both short and long-term consequence? 
 
-Chenと20代のもやもやを感じるギャップがない
-メンタルヘルス、心理的安全性など
-リアルタイムでインターネットに接続している世代と今は違いがあるが、
-今リアルタイムでデジタルネイティブは、違和感を感じるのは沢山いる
-X,Metaの経営者が本当に嫌い、ふざけるな、ユーザーの長期的なメンタルヘルスの問題をわかっているのに、表層的な対策しかやらない。あからさまに好き勝手にする。今は本を読んでいる、毎月新刊を10冊読む。心が乱れる瞬間が減った。
-BlueSkyでフォローしてくれている、興味ある人は検索してくれる
-ゼミの学生さん、Podcastがある
-
-翻訳の精度が上がった、本一冊はまだまだ足りない。業務実務では恩恵がある、翻訳、IDECursor,半分以上AIAgentが常駐して作っている。ハード、ソフト、もう作れないものはもうない。
-これ以上委ねたらやばいとは思う、自分が自分である必要性を譲渡している
-中長期的に、失敗はしないけれど、自分の達成だと感じる経験が今後できなくなってしまう危険性がある。
-
-Kakehi
-アーティストの創造性の研究、ずれとずらし、が新しい創造性につながる。その塩梅と作り方が大事、素晴らしい回答はあるけど、面白い回答はない。どうずれていくか、ずらしていくか。
-ずれるのは、自分が変わっていかないとだめ、ずれる能動性を人間が持っていて、汗をかいて、AIと向き合うと、面白い
-
-Chen
-Auto-ethnography、自分と異質な他者の観察と違い、自分の社会的に知られていないものを問いににかけ、生活に根差したジャーナルを書く、溜まったデータ、記述データをコーディング、分類して、分析し、いままで客観性が難しかったのが、生成AIを使うと、細かなことに気づいて、問いが投げられる。頑張って作ったデータだからこそ、面白い関係が生まれる
-関係性、他者性を入れると、面白い研究ができる
-
-人類に残された最後の資源はimagination
+In the end of the day, every single question we have can be a valid question. It is therefore a valid question to pursue the most powerful, human-replacing AI, but it will never be a relevant question as a human being.
 
 
 
-Kakehi
-Actionを取ること。常に接続しながら、動くことが大事。わかった気になる、そこから変化することが大事。動くことによって見えることが大事。AIとともに生きる中、アクションを取るのは人間
-
-Chen: 人間が指定した範囲内でAIはアクションをする
-感情を持っていない：喜びと痛みがどう生まれているのか、自分、他者の中で
-知覚、モノを感じることがAIに原理的にできないし、できる見込みもない
-ヤン/ルカン
-今のLLMは超高度なごっこ遊び、
-Addiction economy, 人間は可塑的で、AIのようにふるまえちゃう、そして自分の感覚を失っていってしまう、それは面白くない未来
-共鳴、感動、アクションしあう、関係性、responsibility(責任、応答可能性)
-
-
-慶応SFC
-AIで何でも作れるー＞結果にばかり目が行くようになるー＞プロセスの好奇心を持ち続ける？
-
-kakehi
-結果の積み重ねになるプロセスに意識を置けるようになる。プロセスを見ることで、マルチになる
-ただ、結果だけ見る意識は確かに問題
-
-Chen
-テキストをタイプして、送る
-手書きはリッチな情報がある、デジタル時代の手原稿
-お互いのプロセスに対する関心が少ない
-時間をかけて回答しないといけない、雑談、プロセスを見る、注意を払う時間をどうデザインするかは大事
-
-TNXRの運営
-自動運転の普及、だれが責任を取る？リスクに関して：限定不能性、軌跡不能性、責任概念がどう変容すればよいのか？AIがもっと関与した時、責任はどうする？
-
-Chen
-微生物、ボット、人間
-ボットが嘘を言いすぎ、DeepFake、モダリティごとのSafetyGuard、規制が必要になる,でも規制ができると、
-一般ユーザーと作り手の溝も増える
-環境の違い、手の違いでぬか床が変わる、AIテクノロジーを発酵される、インタラクションの歴史に影響を受けてagingする、それは訴訟リスクじゃん、でも頃は私のぬか床を持っていることに喜びを感じる、責任の分有に喜びを感じる
-
-筧
-作りて自身がリミットについて言い添える論文を書く時、分からないものも共有することがいい。他の人もその認識で進められる。責任の分担＝わからないことを共有する。失敗に対して寛容な研究は大事
-Discussionpart査読、こういう実験をしたら全くダメだった、一方でこれが重要、一方で意味ない、最後採読された。プロセスが大事なのは、失敗が入っているから
-
-Chen
-人類が認知しえないものとして、気候とか、AIがブラックボックスになって、自律的に動くものと共存するスキルはすでにあるのではないか？ニュージーランドの川で、法人格を持たせる、人間代理人がいるが、川を代表して、訴訟で戦える。自然の権利を守る
-US、私道問題、毎年１００人に訴えられる、凸凹だから、責任の所在をちゃんとすると、人間がまた変なことをし始める。分有は難しい
-
-Kakehi
-Human nature engagement, more than human, noticing気づく方法が重要（技術）自然と密接ではなく、近づきすぎず、遠からずを技術で達成していく、良い塩梅を作るテクノロジー
-
-（ピュア！）作ることによって、バイアスをぬかに投影することが怖くて、物が作れない。
-
-Chen
-卒業できるテクノロジーー＞サブスク方式のビジネスモデルがビジネス利益のためになっている、中毒状態にさせたくないカウンターいつかぬか床をオフにしても自分でぬか床を作れる人の伴走ができるシステムデザイン、身体的気づき、正解を言わせず、使う側に想像を残す会話を設計している、依存させない
-松茸の本
-
-Kakehi
-即興的にあんどうようこさんdvisualプレイス、装飾的テクノロジーではなく、パラメーターを人の身体に感じさせる、相互に変化していく、最後は身体の関係、==得た体験だけを見せる==。自分が変わっていく中で、テクノロジーを作るか、即興的な流れの中に、どうテクノロジーを置くか、
-体だけで自然と接する、センサーで、音声で、いろんな気づきの方法がある、五感＋ハイブリッド、組み合わせた気づきの仕方
-ゆだね（どれだけツールにゆだねるか）、ゆとり、ゆらぎ（媒介対象、ツール、私、の三人がどう変化していくか
-
-
-哲学、知恵を愛し求めるもの。本当に人間にしかない知能を知りたい、（ピュア！）
-人間中心的な問いに自信がない。斎藤はんなさん
-粘菌の知性を問う、作品を通して、説明を試みる、人間との違い、知性とは何か
-サピアウォルフ仮説、multicultural背景、言語的相対論の世界、違う文化背景をもっていて、優劣はない、賢い道具、文化を作れば、最強になれる
-
-筧
-資質、自分のアクションのメタ認知を持っている人
-
-My take
-自分の身体的変化を重要視した、実験をやっていきたい
-
-
-高校は人の目を気にしないひとが多かった
-自分がちづのどこに所属しているかをわかる必要がある、自分全部投じるのが難しい、いろんな人が色んな所にいるの意識しないとだめなので、自分のことも批評の対象になる、自分が面白いと思うことを保つ生活、持続的に保つ態度をどのように持つべきか
-
-Chen：勉強をずっとしている、一人称で書かれた作品を読む、１００％分かることはあり得ない、自分と均質的な人とですらそう、分かった気には永遠にならない
-
-Kakehi
-佐藤可士和さん、アイデアは外にある、外にあるものをインプットして、デザインを出せるのが特技、自分の中にしかアイデアがないのは違う、外のものを使えるのが救いに感じる
-誰かとコラボしてアイデアが生まれることを捉えると、楽になる、つながりの中で生きていき、自分らしさが立ち上がる感覚、コラボする感覚がインストールされる、Chenの感覚が自分の中で立ち上がる、アイデンティティが増えていく喜び、その中に自分がメタ的に作られる
-
-Chen
-影響を受ける。惚れるー＞気が付いたら惚れている
-自分の一部にあの人が入る、マルチパーツで構成される自分を作っている。
-相手を知らなきゃではなく、共感して、おのずと知る
-
-２０代は、自分のアイデンティティが膨れ上がって、一番難しい時期
-
-
-
-1. **Preserving the body’s role** in perception, interaction, and meaning-making.
-    
-    - A contrast to purely virtual or overly optimized AI tools that remove friction or physicality (e.g., instant responses without emotional depth).
-        
-2. **Embedding intelligence within lived environments**, not isolating it in black-box systems.
-    
-    - Embodied AI might sense its environment, change with it, and be affected by its user’s body or behavior—not just serve pre-programmed outputs.
-        
-
-The grounding of technology, intelligence, or experience in the physical, sensory, and relational dimensions of being human.
-The speakers were urging us to stay connected to our sensory, emotional, and social selves, even as we build or use increasingly intelligent tools. Technologies that are embodied support creativity, agency, and relationality—key themes in Tools for Conviviality as well.
-
-Balance 塩梅

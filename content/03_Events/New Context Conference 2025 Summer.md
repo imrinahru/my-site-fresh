@@ -4,9 +4,10 @@ date: 2025-06-30
 tags:
   - event
 location: 
-draft: true
+draft: false
 summary: |
   Key takeaway in 20 words.
+cover: cover_new scientist_tom gauld.webp
 ---
 
 ## Overview  
@@ -107,11 +108,15 @@ Large employment rate, mental illness rate, that's what we should look into.
 #### Ignorance is pervasive
 
 We tend to conflate expertise with omniscience. 
-Experts by defniiton are adepts in narrowness of thinking tied to a particular domain.
+Experts by defnition are adepts in narrowness of thinking tied to a particular domain.
 But that's how our engineers, scientist expertes,  are trained. With echochamber, policy makers, the powerful as well.
 Reach disillusionment first, then enlightenment.
 
-![[Pasted image 20250630151016.png]]
+
+
+
+
+![[disillusionment_tenzin priyadarshi.png]]
 
 
 #### Do we have a sensible narrative of AI? that we can relate to?
@@ -120,14 +125,104 @@ Reach disillusionment first, then enlightenment.
 
 We will sit on a couch, entertain and do nothing more.
 
-![[Pasted image 20250630150723.png]]
+![[couching_sipress_tenzin priyadarshi.png]]
 
 #### Zen frankness
 
 The pendulum is swinging from techno-optimism to where we are right now. But bhudist optimism is, this too shall pass, but we need to take charge of it.
 
-![[Pasted image 20250630151146.png]]
+![[buddhist seagul_tenzin priyadarshi.png]]
 
+### Robert Bench MIT Media Lab
+
+#### About Incentives
+Why are we driven to do something? both conscious and sub
+How has the past 30 years of opennet dev and value system has caused us to change our rela
+man in charge of machines to machine driving the time of men
+Origin
+In 90s, funded by govenment, MIT DOD can fund themselve
+In mid 90s, we imagined medium of exchange would pay for data and compute
+HTTP 402 is meant ro serve payment on the open internet failure of micropayments
+Commercial use of internet was then run by Subsciption models failed. (AOL, Prodigy)
+Pay walls are attempted by NY Times, but struggled.
+What persisted was advertising based internet
+
+Google, Meta, are ad platform in their core
+Sale ad, need data, need your time
+You in service to the machine
+
+> Charlie Munger, if you show me the incentive, I will show you the outcome
+
+
+![[attention economy_robert bench.png]]
+
+#### Attention to attention
+
+Attention means a different thing in AI age.
+2017 Attention is all you need paper by Google, neural network attention. 
+
+- Power by Tepco/Dominion
+- Data centers run by Goolge, Microsoft, AWS
+- New chips by Nvidia
+- AI agent and new ways to experience the Interneyt by Anthropic OpenAI 
+
+no longer swipes, eyeballs, clicks likes are eroding, so who pays for Google
+
+Agents will be the de facto interface for the user
+
+![[structure agent_robert bench.png]]
+
+
+Agents are empowered to act, to sense, but can't incentivise themselves to do so.
+Find ways to send adevertising to sell to AI
+Advertising sales will continue, find ways to work, much to detriment to our time.
+If advertising still serves the agentic internet.
+Men in service of machine, more powerful machine, at a cost of our time
+
+#### Stable coin
+
+
+![[structure stablecoin_robert bench.png]]
+
+Stable coin Value system does not need intermediary.
+But Agents will be same number as API call in open internet
+Stable coins are too slow and expensive to be a medium of exchange to replace ads
+
+#### Can we scale stable coin network?
+Radius  main goal
+Structured like TCP/IP, more needs will icnrease speed and lower cost and faster
+The only way to replace ads is to have a medium of exchange that scales with internet
+
+To change incentive system, 
+we need a stable coin network that uses internet, millions of transaction, have latency less then the current system
+
+#### Men must in control of out time
+
+We must remove ourselves from ads based internet
+to buy our time back literally
+
+### Eric Lagier
+
+Be educated to become a shepherd,
+taking care of the sheeps
+vs
+Be educated as wolves
+Eats as many sheep as possible before found
+
+learn from nordic 
+as a small region,
+Think global from day one
+Define the category, not new fetures
+
+#### Lovable
+
+Started from GPT enginerr
+AI softeware engineer, lovable makes it possible to build high quality softeware without writing code.
+Anyone can write code now. 
+
+### Ujjwal Deep Dahal
+
+Trying to help, have a place in the the AI landscape, but lack of autonomous, active research, want collaboration, make people come, but don't know if it can work.
 ## Slides & media  
 - ![Slide thumbnail](./img/slide.png)  
 - Recording: <https://youtu.be/…>  
