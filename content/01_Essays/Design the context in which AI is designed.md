@@ -6,9 +6,9 @@ tags:
 summary: |
   One-sentence teaser that will show on the card and in RSS feeds.
 draft: false
-cover: /assets/img/cover_new scientist_tom gauld.webp
+cover:
 ---
-
+![[/assets/img/cover_new scientist_tom gauld.webp]]
 ## TL;DR  
 *Two-sentence executive summary.*
 

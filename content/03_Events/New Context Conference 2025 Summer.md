@@ -7,7 +7,6 @@ location:
 draft: true
 summary: |
   Key takeaway in 20 words.
-cover:
 ---
 
 ## Overview  
