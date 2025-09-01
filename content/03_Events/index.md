@@ -6,4 +6,4 @@ summary: Conferences, talks and meet-ups I’ve attended.
 draft: false
 ---
 
-Recaps usually include key take-aways, my takes and links when available.
+Recaps usually include key insights, my takes and links when available.

@@ -3,228 +3,195 @@ title: 2025-06-30 — New Context Conference 2025 Summer
 date: 2025-06-30
 tags:
   - event
-location: 
-draft: true
-summary: |
-  Key takeaway in 20 words.
+  - context
+location: Online
+draft: false
+summary: How should we give context to AI development? The event draws ideas from Eastern ethos, Buddhism, Nordic design, Stable coins, and much more.
 ---
 
-## Overview  
+## Key Takeaways from Multispeaker Reflections on AI, Society, and Human Values
 
+### Joichi Ito: Rethinking Progress through Eastern Perspectives
 
+#### A Narrative of Coexistence, Not Control
 
+Western culture, shaped by monotheistic hierarchies, tends to see technology as subordinate tools: God at the top, humans in the middle, and technology below—once slaves, now machines. In contrast, Eastern traditions, especially in Japan, present a worldview where humans and tools coexist. Technology is not something to dominate, but something to live with—integrated and respected.
 
-## Key takeaways  
+Capitalism, inherited from the West, predicates itself on constant growth: no expansion equals death. But Japan demonstrates a cultural capacity to maintain purpose and dignity even in economic stagnation. The centuries-long cyclical rebuilding of Ise Jingu Shrine and the dedication of craftspeople who preserve their trades without scaling or growth illustrates a different kind of meaningful continuity.
 
-### Joichi Ito
-
-#### Narrative of the East
-
-In Western culture, monotheism underlines the attitudes towards technology: there is one God, then humans, and under the humans there are tools (now, technology, before, slaves).
-In the East, there is more of a sense of living together with tools, rather than controlling. 
-
-Capitalism, introduced from the West, operates through economic expansion. If there is no expansion, then it's death.
-Japan has the ability to find a sense of purpose in life even without economic growth, with the maintenance of Ise Jingu, the craftsmanship, whose work has continued for generations without necessarily expansion.
-
-#### Pure experience
+#### The Concept of Pure Experience
 
 > 経験するというのは事実其儘に知るの意である...たとえば、色を見、音を聞く刹那、未だこれが外物の作用であるとか、我がこれを感じているとかいうような考のないのみならず、この色、この音は何であるという判断すら加わらない前をいうのである。それで純粋経験は直接経験と同一である。自己の意識状態を直下に経験した時、未だ主もなく客もない、知識とその対象とが全く合一している。これが経験の最醇なる者である。
 > 西田幾多郎　『善の研究』（1911年）ch.1 「純粋経験」
 
-Do you believe that:
-- you are only receiving information and the world is a simulation? or,
-- you are here, having experiences that are completely different from any single person?
+Kitarō Nishida’s concept of 純粋経験 (pure experience) highlights a state of unmediated perception—before subject-object division or judgment arises. At the moment of seeing a color or hearing a sound, there is neither "me" who perceives nor "thing" being perceived—just an undivided experience. This challenges the reductionist view of humans as merely information processors.
 
-It's not hard to understand that, people holding the first belief would come to the conclusion that, AI can replace humans even without body/embodiment.
-People who believe in pure experience won't buy into it. People experience differently, form different values, and see their own differences are not situationists.
+If you believe you're merely receiving information in a simulated world, then you might believe AI can replace humans. But if you believe you _experience_ the world—uniquely and bodily—then human subjectivity, values, and the irreducibility of experience cannot be replaced by AI. Pure experience resists simulation.
 
-#### What we can learn from tea ceremony
-一期一会
-和敬清寂
-Harmony-Humility-Purity-Tranquility
-利休、利から休む
-We can learn many things from Rikyu.
-He didn't manifest until around fifties, he suddenlt adopted bamboo as a flower vase. (mind the context in which bamboo was consumable item but never thought appropriate in a tea ceremony, where china, bronze were the norm) 
-What was amazing is that once he did that, everyone jsut went " oh, of course". So it's a remarkable transformation.
+#### Lessons from the Tea Ceremony
 
-Transformation means reading the current atmosphere of society and understanding all the systems that are happening now, then you can do something that's far-reaching and deeply transforamtive.
-
-#### Toyota's Kaizen:
-
-無駄、無理、斑をなくす
-Reduce  waste, unevenness, and stress.
-Reducing waste is a bit different from optimization.
-Top down and bottom up coexists.
-Top may decide why and what actions to take, but even if you apply the same rukes at another factoiry, they don't work on-site. 
-The factory managers would spend the whole day o  the floor, watching everyone's movements, indentifying waste or inefficiencies, understanding how it works at this factory. it's not like a single road or path, but when you actually spend an entire day at each site, there are thibngs that tou only notice for the first time, things that emerge from the sense of presence you experience there.
-So human experience on-site is as important as the top-down action list to achieve the best operation in world.
-
-#### AI should not be about optimization
+> 一期一会
+> 和敬清寂
+> Harmony-Humility-Purity-Tranquility
 
 
-Learning from Toyota, AI should be a tool for reducing waste, unevenness, and stress,  but never total optimization.
-One of the ideas, is to sandwich AI operation between our values, and human experience on-site. AI has no means to fully get any of those two.
+Sen no Rikyū’s legacy teaches subtle but radical transformation. In his fifties, he adopted bamboo—once seen as a humble, everyday material—as a flower vase in the formal tea ceremony, where porcelain and bronze had been the standard. His gesture redefined aesthetic value and social norms. The shift was so resonant that it felt immediately natural—“Oh, of course.”
+
+True transformation happens when one reads the atmosphere, understands the unspoken systems at play, and then introduces a change that feels both surprising and inevitable. Rikyū’s actions are a lesson in timing, presence, and cultural fluency.
+
+#### What Kaizen Teaches about Presence
+
+Toyota's philosophy of Kaizen is not simply optimization—it’s the removal of waste (無駄), overburden (無理), and unevenness (斑). This is done not just by following top-down orders but through continuous observation on the factory floor. Managers physically immerse themselves in the process, watching everyone's movements, identifying waste or inefficiencies, understanding how it works at this factory. When you actually spend an entire day at each site, there are things that you only notice for the first time, things that emerge from the sense of presence you experience there.
+
+Top down and bottom up coexist. Human experience on-site is as important as the top-down action list to achieve the best operation in world.
+
+This kind of situated knowledge cannot be abstracted. It's experiential and context-specific. AI, therefore, should learn from this model: not aim for abstract optimization, but support reduction of real-world friction through situated presence and human judgment.
 
 
-### The Venerable Tenzin Priyadarshi Rinpoche
+#### AI Should Serve Human Values, Not Replace Them
+
+Just like in Toyota's model, AI must be bounded by human values on one side and human presence on the other. It should not aim for total optimization. Instead, it should help remove stress and waste while remaining embedded in human environments and cultures. AI lacks access to values and lived experience—it must be constrained and grounded by them.
+
+```
++---------------------+
+|     OUR VALUES      |
++---------------------+
+          ↓
++---------------------+
+|   AI OPERATION      |
++---------------------+
+          ↑
++-----------------------------+
+| HUMAN EXPERIENCE ON-SITE    |
++-----------------------------+
+
+```
 
 
+---
 
-#### Empire builders vs. Universe builders
+### Venerable Tenzin Priyadarshi Rinpoche: Ethical Grounding Beyond Techno-Utopianism
 
-By George Bernard Shaw
-How the universe operates?
-How to create wholesome relationship with it
+#### Empire Builders vs. Universe Builders
 
-#### Find a relevant question, not a valid question
+Quoting George Bernard Shaw: 
 
-> The question is not, can they reason? nor Can they talk? but, can they suffer." By Jeremy Bentham
+“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.”  
+— _Man and Superman_ (1903) [Goodreads](https://www.goodreads.com/quotes/536961-the-reasonable-man-adapts-himself-to-the-world-the-unreasonable?utm_source=chatgpt.com)
 
-Mimicking emotion is not, feeling the emotion.
-Human life is dealing with suffering.
-How can a machine understand human suffering? 
-What we mean by saying machines are self-aware?
-- Reductionist self-awareness
-- Purposefulness
+Rinpoche distinguishes between those building empires—focused on control and domination—and those seeking to build meaningful, harmonious relationships within the universe.
 
-#### Move away from marketing slogans on democratising AI
+#### From Valid Questions to Relevant Questions
 
-We believed in technology utopia 30 years ago. 
-After 30 years, Internet is not democratic, in terms of infrastructure
-The game of AI development is skewed: 7 companies are controlling the research and resources already
-Even startups have aspirations to be acquired. A wonderful exercise of empire building
-Is democratization working in current framework? No.
+Citing Jeremy Bentham’s insight—“The question is not, can they reason? nor can they talk? but, can they suffer?”—Rinpoche argues that mimicking emotion is not the same as experiencing it. True understanding of human life requires grappling with suffering. Self-awareness in machines remains reductionist; it lacks the complexity of purposefulness rooted in human vulnerability.
 
-#### Challenge to democratic value
+#### Moving Beyond the Myth of Democratized AI
 
-Civic values: Trust-Compassion-Kindness-Fearlessness-Respect-Dignity
-We at least try to instill these values in us, and our children
-But we don't have good template to be ethical, we only have ok template for compliance.
-Ethical framing may subsume legality and compliance, but what is ethical may not be legal, what is legal may not be ethical.
+The early Internet was fueled by techno-optimism and dreams of a democratic information commons. Thirty years later, reality looks different. Infrastructure is monopolized. 
 
-Large employment rate, mental illness rate, that's what we should look into.
+So the game of AI development is already skewed. 
 
-#### Ignorance is pervasive
+AI research is dominated by seven companies. Startups aspire not to democratize, but to be acquired. Democratization under the current economic framework is a not working.
 
-We tend to conflate expertise with omniscience. 
-Experts by defnition are adepts in narrowness of thinking tied to a particular domain.
-But that's how our engineers, scientist expertes,  are trained. With echochamber, policy makers, the powerful as well.
-Reach disillusionment first, then enlightenment.
+#### Ethical Framing vs. Compliance
 
+We often mistake legal compliance for ethical behavior. True civic values—trust, compassion, kindness, fearlessness, respect, dignity—are instilled imperfectly, and we lack robust frameworks to teach ethics meaningfully. What is ethical may not be legal, and vice versa. We need frameworks that allow us to be _better_, not just compliant.
 
+#### Ignorance and the Echo Chamber of Expertise
 
-
+Experts are trained in narrow domains. Policymakers and engineers often exist in epistemic bubbles. Expertise is not omniscience, and we must start by acknowledging the limitations of knowledge. Only through disillusionment can we reach meaningful clarity.
 
 ![[disillusionment_tenzin priyadarshi.png]]
 
 
-#### Do we have a sensible narrative of AI? that we can relate to?
+#### Toward a Narrative We Can Live With
 
-> Universe is made up of stories, not atoms Muriel 
+Muriel Rukeyser wrote, “The universe is made of stories, not atoms.” Without meaningful narratives, we risk building tools we can’t integrate into our lives. The challenge is not just technical but philosophical: can we relate to AI in ways that deepen rather than flatten our experience?
 
-We will sit on a couch, entertain and do nothing more.
+If this question is not answered, we become no more than couch potatoes looking at the world from the outside.
 
 ![[couching_sipress_tenzin priyadarshi.png]]
 
-#### Zen frankness
 
-The pendulum is swinging from techno-optimism to where we are right now. But bhudist optimism is, this too shall pass, but we need to take charge of it.
 
-![[buddhist seagul_tenzin priyadarshi.png]]
 
-### Robert Bench MIT Media Lab
 
-#### About Incentives
-Why are we driven to do something? both conscious and sub
-How has the past 30 years of opennet dev and value system has caused us to change our rela
-man in charge of machines to machine driving the time of men
-Origin
-In 90s, funded by govenment, MIT DOD can fund themselve
-In mid 90s, we imagined medium of exchange would pay for data and compute
-HTTP 402 is meant ro serve payment on the open internet failure of micropayments
-Commercial use of internet was then run by Subsciption models failed. (AOL, Prodigy)
-Pay walls are attempted by NY Times, but struggled.
-What persisted was advertising based internet
+---
 
-Google, Meta, are ad platform in their core
-Sale ad, need data, need your time
-You in service to the machine
+### Robert Bench (MIT Media Lab): The Incentive Problem in the AI Age
 
-> Charlie Munger, if you show me the incentive, I will show you the outcome
+#### Incentives Drive Outcomes
 
+Why do we act—consciously or subconsciously? Over the past 30 years, the architecture of the Internet has shifted from open protocols to ad-driven ecosystems. Subscription models failed. HTTP 402 was designed for micropayments but never realized. Today, Google and Meta are advertising companies, not information companies.
+
+You don’t use the machine. The machine uses your time.
+
+As Charlie Munger said, “Show me the incentive, and I will show you the outcome.”
 
 ![[attention economy_robert bench.png]]
 
-#### Attention to attention
+#### The Erosion of Attention
 
-Attention means a different thing in AI age.
-2017 Attention is all you need paper by Google, neural network attention. 
+The “attention economy” used to mean likes and clicks. But in 2017, “Attention is All You Need” redefined it. Now AI agents (from OpenAI, Anthropic, etc.) will mediate most interactions. Soon, your assistant—not you—will decide what you see. The new interface is not a screen—it’s an agent.
 
-- Power by Tepco/Dominion
-- Data centers run by Goolge, Microsoft, AWS
-- New chips by Nvidia
-- AI agent and new ways to experience the Interneyt by Anthropic OpenAI 
-
-no longer swipes, eyeballs, clicks likes are eroding, so who pays for Google
-
-Agents will be the de facto interface for the user
+If agents control attention but can’t set their own incentives, advertisers will target them. Ads will continue, now optimized not for you, but for your agent. A new layer of mediation, potentially more efficient—and more invasive.
 
 ![[structure agent_robert bench.png]]
 
 
-Agents are empowered to act, to sense, but can't incentivise themselves to do so.
-Find ways to send adevertising to sell to AI
-Advertising sales will continue, find ways to work, much to detriment to our time.
-If advertising still serves the agentic internet.
-Men in service of machine, more powerful machine, at a cost of our time
 
-#### Stable coin
+#### Stablecoins and the Future of Internet Incentives
+
 
 
 ![[structure stablecoin_robert bench.png]]
 
-Stable coin Value system does not need intermediary.
-But Agents will be same number as API call in open internet
-Stable coins are too slow and expensive to be a medium of exchange to replace ads
+Most websites stay “free” by selling our attention to advertisers, because charging tiny amounts directly for each page view isn’t practical: ordinary payment networks are too slow and their fees swallow pennies. Stablecoins—digital tokens whose value stays pegged to real money—look like a solution because, in theory, they can move funds worldwide in seconds for a fraction of a cent, letting a site bill you two‑tenths of a cent per article instead of showing ads. The problem is that today’s blockchains still confirm only a few hundred—or at best a few thousand—transactions per second (Visa handles tens of thousands), and their fees spike when demand surges. Until a stablecoin network can process vast numbers of payments almost instantly, at near‑zero cost and without gatekeeping intermediaries, advertising remains the cheaper, simpler way for platforms to earn money.
 
-#### Can we scale stable coin network?
-Radius  main goal
-Structured like TCP/IP, more needs will icnrease speed and lower cost and faster
-The only way to replace ads is to have a medium of exchange that scales with internet
+Stablecoins offer a tantalizing alternative: a way to transact without ads. But current networks are too slow and costly to compete. To replace ad revenue, stablecoins must process microtransactions at internet scale—low cost, high speed, no intermediaries.
 
-To change incentive system, 
-we need a stable coin network that uses internet, millions of transaction, have latency less then the current system
+Bench proposes a protocol-level solution akin to TCP/IP: a system built for millions of fast, small transactions that can underwrite an alternative value system on the web.
 
-#### Men must in control of out time
+We must literally _buy back_ our time.
 
-We must remove ourselves from ads based internet
-to buy our time back literally
+---
 
-### Eric Lagier
+### Eric Lagier: Nordic Perspectives on AI Culture
 
-Be educated to become a shepherd,
-taking care of the sheeps
-vs
-Be educated as wolves
-Eats as many sheep as possible before found
+Education shapes not only knowledge but disposition. In some cultures, people are taught to be shepherds—nurturing, responsible. In others, they are trained as wolves—maximizing extraction until they’re caught. The Nordic model is the former (it seemed Eric was aspiring to the latter, Americanization).
 
-learn from nordic 
-as a small region,
-Think global from day one
-Define the category, not new fetures
+Small countries like Denmark are forced to think globally from the start. They don't chase features—they define categories. Strategic design from day one, grounded in values and long-term thinking, offers a template for ethical innovation.
 
-#### Lovable
+#### Lovable: The Fastest Growing AI App Builder
 
-Started from GPT enginerr
-AI softeware engineer, lovable makes it possible to build high quality softeware without writing code.
-Anyone can write code now. 
+Lovable is a Swedish AI start-up that exploded onto the scene in late 2024. Founded by Anton Osika and a team of former Spotify and Klarna engineers, Lovable enables anyone—even non-coders—to build full-stack web and mobile apps simply by chatting with an AI assistant. 
 
-### Ujjwal Deep Dahal
+Lovable recently launched a major new product: “Agent Mode.” This feature empowers AI to edit entire codebases, call APIs, refactor logic, and generate interfaces with minimal user input. The platform isn’t just no-code—it’s agentic software engineering at scale, and emblematic of the shift toward AI as co-developer.
 
-Trying to help, have a place in the the AI landscape, but lack of autonomous, active research, want collaboration, make people come, but don't know if it can work.
-## Slides & media  
-- ![Slide thumbnail](./img/slide.png)  
-- Recording: <https://youtu.be/…>  
+[Lovable](https://lovable.dev/?gad_source=1)
+
+---
+
+### Ujjwal Deep Dahal: Bhutan’s Path to Sovereign Tech
+
+Ujjwal Deep Dahal is the CEO of Druk Holding and Investments (DHI), Bhutan’s sovereign investment and innovation authority. With a background in electrical engineering and energy policy (MIT SPURS Fellow, 2018), Dahal has led Bhutan’s efforts to build a sovereign, sustainable tech ecosystem that aligns with the country’s Gross National Happiness philosophy.
+
+Under his leadership, Bhutan has launched “Bhutanverse” in partnership with Sandbox, to showcase Bhutanese culture in the metaverse and train locals in Web3 creative skills. DHI has also partnered with Bitdeer to establish carbon-neutral cryptocurrency mining, leveraging Bhutan’s abundant hydropower. Meanwhile, a national rollout of 5G and blockchain-based digital identity systems aims to lay the groundwork for AI-driven public services.
+
+However, Dahal emphasizes that infrastructure alone is not enough. Bhutan still lacks autonomous research capacity and depends on international collaboration to build talent and open innovation pipelines. He continues to advocate for global partnerships rooted in sustainability and shared knowledge—rather than short-term extractive capital.
+
+## After thoughts
+
+Joi and Tenzin's ideas are very inspirational, in the sense that, the whole scientific hype on AI should be wrapped in a philosophical soundness that ensures it's aligned to our experiential world. Context making is as important as tool making. 
+
+There is a reason why PhD is Doctor of Philosophy, no matter the domain. I would seriously expect somebody to hold a PhD in AI, to be able to ponder and answer some of the philosophical concerns. Not only for yourself, but for other majority of people, who are outside of researching facilities, outside of resourceful labs, outside of Silicon Valley, outside of developed countries, outside of the privileges you take for granted. 
+
+I was once pissed off hearing an AI scientist saying "it's too philosophical for me to answer." There is such a division of audiences between engineering oriented conferences that are excited and optimistic about the race of reaching the superintelligence; and more philosophically oriented conferences that are confused and pessimistic yet lacking grounded operational knowledge and guidelines to help us moving forward. 
+
+Putting the anger aside, I'm interested in bridging the gap between science and philosophy. I think design and art are playing some roles in bridging the gap. As well, how stablecoins can enter the scene in shaping the future economy and context is an eye-opener.
+
+Another point that made me unease was the apparent weak positioning Bhutan has taken. The country wants a place in the AI landscape, but it lacks autonomous, active research. Even if it has some ideological attractor, which is already a resource unreachable by many under-developed, exploited nations, the speech sounded like a passive begging for collaboration, asking global engineers to come. I don't think it will work, and I think many other countries will do even worse as the global power accumulates. I'm interested in looking at how Bhutan's national policy turns our in the future, especially in the local community.
+
 
 ## Related notes  
 - Digital Garage
