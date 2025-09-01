@@ -473,7 +473,7 @@ Designing these standards and related interface are critical in shaping how we c
 - **How people choose between agents** based on these cards
     
 
-Model Card format implemented (albeit without enforcing power) by Hugging Face is a good point of reference, look at my note [[🤗Hugging Face’s Model Card]].
+Model Card format implemented (albeit without enforcing power) by Hugging Face is a good point of reference.
 
 Same with MCP tools, the compilation currently can be found [here](https://mcp.so/) but information on each tool seems too limited and not standardized to facilitate tool search.
 
