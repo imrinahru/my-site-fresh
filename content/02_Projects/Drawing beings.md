@@ -1,13 +1,13 @@
 ---
-title: "Untitled"
-date: "2025-07-31"
+title: Untitled
+date: 2025-07-31
 tags:
   - project
 summary: |
   Elevator-pitch description (appears on the card).
 status: idea
 cover: ./img/<image>.png
-draft: false
+draft: true
 ---
 
 ## Goal  
