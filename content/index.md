@@ -6,7 +6,7 @@ draft: false
 ---
 
 > **Welcome!**  
-> This site collects essays, projects, event notes and reading highlights about _designing the context_ in which AI technology should be designed.
+> I'm using this site to collect my essays, projects, event notes and reading highlights about shaping sensible, empowering narratives of technology that support people and communities.
 
 ### Start here
 - [[Designing the Ground Where AI Grows]]

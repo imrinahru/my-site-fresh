@@ -1,5 +1,5 @@
 ---
-title: 2025-07-25 — Baby AGI by Yohei Nakajima
+title: Baby AGI by Yohei Nakajima
 date: 2025-07-25
 tags:
   - log

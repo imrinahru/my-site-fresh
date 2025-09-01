@@ -1,9 +1,9 @@
 ---
 title: <Author> (<Year>) — <Work>
-date: "2025-08-01"
+date: 2025-08-01
 tags:
   - reading
-draft: false
+draft: true
 summary: |
   1-line statement of the author’s main argument.
 link: https://doi.org/...
