@@ -186,7 +186,7 @@ Joi and Tenzin's ideas are very inspirational, in the sense that, the whole scie
 
 There is a reason why PhD is Doctor of Philosophy, no matter the domain. I would seriously expect somebody to hold a PhD in AI, to be able to ponder and answer some of the philosophical concerns. Not only for yourself, but for other majority of people, who are outside of researching facilities, outside of resourceful labs, outside of Silicon Valley, outside of developed countries, outside of the privileges you take for granted. 
 
-I was once pissed off hearing an AI scientist saying "it's too philosophical for me to answer." There is such a division of audiences between engineering oriented conferences that are excited and optimistic about the race of reaching the superintelligence; and more philosophically oriented conferences that are confused and pessimistic yet lacking grounded operational knowledge and guidelines to help us moving forward. 
+I was angry hearing an AI scientist saying "it's too philosophical for me to answer." There is such a division of audiences between engineering oriented conferences that are excited and optimistic about the race of reaching the superintelligence; and more philosophically oriented conferences that are confused and pessimistic yet lacking grounded operational knowledge and guidelines to help us moving forward. 
 
 Putting the anger aside, I'm interested in bridging the gap between science and philosophy. I think design and art are playing some roles in bridging the gap. As well, how stablecoins can enter the scene in shaping the future economy and context is an eye-opener.
 
