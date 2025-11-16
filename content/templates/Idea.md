@@ -1,6 +1,6 @@
----
+﻿---
 title: "{{title}}"
-date: "{{date:YYYY-MM-DD}}"
+date: 2025-11-16
 tags:
   - idea
 draft: true

@@ -1,6 +1,6 @@
----
+﻿---
 title: "{{title}}"
-date: "{{date:YYYY-MM-DD}}"
+date: 2025-11-16
 tags:
   - essay
 summary: |
@@ -16,8 +16,8 @@ cover:
 Why this matters to the AI Commons conversation.
 
 ## Main argument  
-1. …  
-2. …  
+1. 窶ｦ  
+2. 窶ｦ  
 
 ## Next steps  
 - [ ] Action item 1  
@@ -25,3 +25,4 @@ Why this matters to the AI Commons conversation.
 
 ## References  
 - [[Reading_Notes/Ostrom1990-Governing_Common_Pool]]
+

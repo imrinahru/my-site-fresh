@@ -7,7 +7,7 @@ status: done
 tags:
   - TA-notes
 instructor: Peter Scott
-draft: false
+draft: true
 ---
 # TA Preparation & Teaching Framework
 

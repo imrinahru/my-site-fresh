@@ -1,6 +1,6 @@
----
+﻿---
 title: "{{title}}"
-date: "{{date:YYYY-MM-DD}}"
+date: 2025-11-16
 tags:
   - project
 summary: |
@@ -20,7 +20,8 @@ Describe the change this project aims to create.
 
 ## Stakeholders  
 - Community / partner 1  
-- …
+- 窶ｦ
 
 ## Log  
-<% tp.date.now("YYYY-MM-DD") %> — Kick-off note.
+<% tp.date.now("YYYY-MM-DD") %> 窶・Kick-off note.
+
