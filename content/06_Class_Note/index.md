@@ -1,6 +1,6 @@
 ---
 title: Class Notes
-layout: page
+layout: default
 summary: Week-by-week notes across courses (Creation & Computation, Digital Fabrication, Digital Theory, etc.).
 ---
 

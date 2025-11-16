@@ -1,6 +1,6 @@
 ---
 title: Essays
-layout: page
+layout: default
 summary: Long-form reflections on life, design, and technology.
 ---
 

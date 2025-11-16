@@ -1,6 +1,6 @@
 ---
 title: Events
-layout: page
+layout: default
 summary: Notes and reflections from conferences, meetups, and workshops.
 ---
 

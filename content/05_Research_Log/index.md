@@ -1,6 +1,6 @@
 ---
 title: Research Log
-layout: page
+layout: default
 summary: Explorations notes.
 ---
 

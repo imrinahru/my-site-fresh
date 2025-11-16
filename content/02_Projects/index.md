@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: page
+layout: default
 summary: Hands-on initiatives—toolkits, prototypes, workshops—that bring ideas into practice.
 ---
 

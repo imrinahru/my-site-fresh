@@ -1,4 +1,4 @@
-﻿---
+---
 title: "{{title}}"
 date: 2025-11-16
 tags:
@@ -16,8 +16,8 @@ cover:
 Why this matters to the AI Commons conversation.
 
 ## Main argument  
-1. 窶ｦ  
-2. 窶ｦ  
+1.   
+2.   
 
 ## Next steps  
 - [ ] Action item 1  

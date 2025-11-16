@@ -1,6 +1,6 @@
 ---
 course: Course Name
-week: Week {{week-number}}
+week: Week
 instructor: Instructor Name
 tags:
   - class-notes
