@@ -1,4 +1,4 @@
-﻿---
+---
 title: Take Digital Craft Seriously
 date: 2025-09-24
 tags:
@@ -8,7 +8,7 @@ tags:
 summary: Take digital craft seriously
 status: in-progress
 cover: ./img/<image>.png
-draft: true
+draft: false
 ---
 ![display_quarter]({{ '/content/assets/img/display_quarter.jpg' | relative_url | uri_escape }})
 
