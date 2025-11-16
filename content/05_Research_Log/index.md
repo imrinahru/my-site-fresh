@@ -1,9 +1,18 @@
 ---
 title: Research Log
-layout: folder
-sidebar: true
-summary: Day-to-day experiments and lab notes—mostly raw, sometimes messy, always open.
-draft: false
+layout: page
+summary: Explorations notes.
 ---
 
-Entries are timestamped and may link to code snippets or datasets in **assets/**.
+Research logs documenting explorations, findings, and insights from various studies and investigations.
+
+<ul>
+{%- assign research = site.pages
+  | where_exp: "p", "p.path contains 'content/05_Research_Log/'"
+  | sort: "path" -%}
+{%- for p in research -%}
+  {%- if p.path != 'content/05_Research_Log/index.md' and p.draft != true -%}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a></li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>
