@@ -1,14 +1,15 @@
----
-title: "{{date:YYYY-MM-DD}} — {{title}}"
-date: "{{date:YYYY-MM-DD}}"
+﻿---
+title: "{{date:YYYY-MM-DD}} 窶・{{title}}"
+date: 2025-11-16
 tags:
   - log
 draft: false
 ---
 
-### Today’s questions  
-1. …
+### Today窶冱 questions  
+1. 窶ｦ
 
 ### Experiments / code  
 ```python
 # paste snippet
+

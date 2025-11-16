@@ -3,7 +3,7 @@ title: Digital Theory Journals
 date: 2025-10-26
 tags:
   - reading
-draft: false
+draft: true
 summary: 1-line statement of the author’s main argument.
 link:
 ---
