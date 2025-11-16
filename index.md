@@ -4,7 +4,7 @@ title: Home
 
 # Welcome
 
-> I'm using this site to collect my essays, projects, and notes about shaping sensible, empowering narratives of technology that support people and communities.
+> I'm using this site to collect my essays, projects, and notes on digital craft and design, and ways we can form a sensible relationship with technology.
 
 ## Start here
 
