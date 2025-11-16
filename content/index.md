@@ -1,6 +1,6 @@
 ---
 title: Content
-layout: page
+layout: default
 ---
 
 Choose a section:

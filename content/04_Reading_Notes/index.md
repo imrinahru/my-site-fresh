@@ -1,6 +1,6 @@
 ---
 title: Reading Notes
-layout: page
+layout: default
 summary: Highlights, critiques, and work-in-progress notes from books, essays, and articles.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
-title: <Author> (<Year>) 窶・<Work>
-date: 2025-11-16
+---
+title: <Author> (<Year>) ・<Work>
+date:
 tags:
   - reading
 draft: false
@@ -12,7 +12,7 @@ link: https://doi.org/...
 > *Direct quote that captures the essence.*
 
 ### Notes  
-- 窶ｦ
+- 
 
 ### Further reading  
 - [[04_Reading_Notes/xx]]
