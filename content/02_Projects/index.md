@@ -1,7 +1,6 @@
 ---
 title: Projects
-layout: folder
-sidebar: true
+layout: page
 summary: Hands-on initiatives—toolkits, prototypes, workshops—that bring ideas into practice.
 draft: false
 ---
