@@ -194,7 +194,7 @@ But in this multiplicity—this messiness of selves, influences, and uncertainti
 
 ## My take
 
-In a moment where AI tools seem to do _everything_, this conversation helped me ask: _What is it that only I can feel? notice? imagine?_ And how might I keep that flame alive—without outsourcing it too soon?
+In a moment where AI tools seem to do _everything_, this conversation helped me ask: _What is it that only I can feel? notice? imagine?_ And how might I keep that flame alive without outsourcing it too soon?
 
 It also inspired me to value users' bodily experience as a core element of experimentation.
 

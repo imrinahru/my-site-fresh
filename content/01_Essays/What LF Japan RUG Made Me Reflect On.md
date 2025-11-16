@@ -24,9 +24,9 @@ After all, the internet didn’t grow on its own. We’ve all contributed to sha
 
 We shouldn’t live in a world where the technologies shaping how we work, communicate, and make decisions feel closed off to most of us. I want to help build a world where people can use and understand AI—and, if they choose, help improve it—in a way that’s sustainable and empowering.
 
-That’s what I’m working toward. So where to begin?
+But where to begin?
 
-I appreciated the practical advice [[#Join the GenAI Commons Community]] shared by the speakers at the event, and conversation with [Leonard](https://www.linkedin.com/in/randomfoo/) afterward helped clarify a few things:
+I appreciated the practical advice [[#Join the GenAI Commons Community]] shared by the speakers at the event, and some conversation with the participants afterward helped clarify a few things:
 
 - Usability is a major bottleneck in open-source. Designers and non-technical users have a real role to play in making tools more accessible.
     
@@ -34,9 +34,9 @@ I appreciated the practical advice [[#Join the GenAI Commons Community]] shared 
     
 - As AI-native computing and composite-AI systems take shape, design can help make them transparent and usable—not just to developers, but to everyone. Without that, A2A-style architectures risk becoming black boxes layered on top of black boxes that distance people from the technology.
 
-I’m certainly feeling that distance myself: Switching to Linux takes immense mental effort; Failing to complete an IBM Coursera course on AI as I stuck on the terminal-based exercises. Despite the clear instructions, I couldn’t get the environment to work as expected, and eventually gave up.
+I’m certainly feeling that distance myself: Switching to Linux takes immense mental effort; Failing to complete an IBM Coursera course on AI as I stuck on the terminal-based exercises.
 
-That's after hours of searching GitHub issues and Reddit threads, hoping someone had the same problem. Each error seemed to depend on some obscure factor. The tools didn’t explain themselves, and the guidance online—though abundant—was scattered and often assumed a higher level of expertise. 
+That's after hours of searching GitHub issues and Reddit threads, hoping someone had the same problem. Each error seemed to depend on some obscure factor. The tools didn’t explain themselves, and the information online—though abundant—was scattered and often assumed a higher level of expertise. 
 
 Tools like ChatGPT and GitHub Copilot helped me make more progress (ironically proprietary), but only to a point. If the first suggestion didn’t solve the issue, subsequent attempts often led nowhere. This was especially true when using the command line. And each time I hit a dead end, I worried: what if I can’t get past this? (#vibecodingsyndrome, anyone can relate?)
 
