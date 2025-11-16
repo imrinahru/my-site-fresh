@@ -2,6 +2,10 @@ title: "My Notes"
 description: "Rina Chen’s living notebook on shaping sensible, empowering narratives of technology that support people and communities."
 theme: jekyll-theme-minimal
 
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Set your Pages URL (project pages)
 url: "https://imrinahru.github.io"
 baseurl: "/my-site-fresh"
