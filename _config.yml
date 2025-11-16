@@ -1,6 +1,6 @@
 title: "My Notes"
 description: "Rina Chen’s living notebook on shaping sensible, empowering narratives of technology that support people and communities."
-theme: minima
+theme: jekyll-theme-minimal
 
 # Set your Pages URL (project pages)
 url: "https://imrinahru.github.io"
