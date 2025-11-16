@@ -1,8 +1,8 @@
----
+﻿---
 course: Business & Social Innovation
 role: Teaching Assistant
 week: <% weekNum %>
-date: <% today %>
+date: 2025-11-16
 period: <% startDate %> to <% endDate %>
 status: planned
 tags:
@@ -10,7 +10,7 @@ tags:
 instructor:
 ---
 
-# Week <% weekNum %> – Business & Social Innovation  
+# Week <% weekNum %> 窶・Business & Social Innovation  
 
 ---
 
