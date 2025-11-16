@@ -4,11 +4,13 @@ title: Home
 
 # Welcome
 
-> I'm using this site to collect my essays, projects, event notes and reading highlights about shaping sensible, empowering narratives of technology that support people and communities.
+> I'm using this site to collect my essays, projects, and notes about shaping sensible, empowering narratives of technology that support people and communities.
+
 ## Start here
-- [[Designing the Ground Where AI Grows]]
-- ✍️ [[01_Essays/index|Essays]]
-- 🛠️ [[02_Projects/index|Projects]]
-- 📅 [[03_Events/index|Events]]
-- 📚 [[04_Reading_Notes/index|Reading Notes]]
-- 🔬 [[05_Research_Log/index|Research Log]]
+- [Designing the Ground Where AI Grows](./content/01_Essays/designing-the-ground-where-ai-grows.md)
+- [Essays](./content/01_Essays/index.md)
+- [Projects](./content/02_Projects/index.md)
+- [Events](./content/03_Events/index.md)
+- [Reading Notes](./content/04_Reading_Notes/index.md)
+- [Research Log](./content/05_Research_Log/index.md)
+- [Class Note](./content/06_Class_Note/index.md)
