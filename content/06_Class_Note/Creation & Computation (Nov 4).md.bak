@@ -1,4 +1,4 @@
-﻿---
+---
 course: Course Name
 week: Week {{week-number}}
 instructor: Instructor Name
@@ -15,7 +15,7 @@ date:
 draft: true
 ---
 
-# Creation & Computation (Nov 4) 窶・Week {{week-number}}
+# Creation & Computation (Nov 4) — Week {{week-number}}
 
 
 ## Lecture & Discussion Notes
@@ -102,7 +102,7 @@ Convention: treating the pins as data, taking external power source
 Use usb c to connect to an external power source
 - safer
 - ground to ground, power to power
-![2servoWithplug_bb-1]({{ '/content/assets/img/2servoWithplug_bb-1.png' | relative_url | uri_escape }})
+![[2servoWithplug_bb-1.png]]
 - add as many servos as needed
 ![[Pasted image 20251104093820.png]]
 
@@ -299,15 +299,15 @@ void updateServoAttachState(int servoIndex, String stateString) {
 }
 ```
 
-This code allows you to send data from P5 to Arduino to control between 1 - 4 Servos.(If you need more servos it can be easily updated). It uses the same comma separated value (CSV) format as the previous examples. It is important to remember that servos can only respond to values between 0 - 180 so the code needs to ensure it stays within that range.ﾂ
+This code allows you to send data from P5 to Arduino to control between 1 - 4 Servos.(If you need more servos it can be easily updated). It uses the same comma separated value (CSV) format as the previous examples. It is important to remember that servos can only respond to values between 0 - 180 so the code needs to ensure it stays within that range. 
 
 Sending Servo Angle Data
 
 ```
 function sendDataToArduino() {  
-ﾂ // Send comma-separated angles with newline  
-ﾂﾂlet dataString = servoAngle1 + "," + servoAngle2 + "\n";  
-ﾂ port.write(dataString);
+  // Send comma-separated angles with newline  
+  let dataString = servoAngle1 + "," + servoAngle2 + "\n";  
+  port.write(dataString);
 // serial divided by comma, return
 }
 ```
@@ -315,7 +315,7 @@ function sendDataToArduino() {
 Sending Servo Attach/Detach
 
 ```
-functionﾂsendAttachStateToArduino() {
+function sendAttachStateToArduino() {
 
 // Format attach states as CSV string with newline
 
@@ -516,19 +516,19 @@ function drawServoVisualizations() {
   
   // Servo 1 labels
   fill(255, 0, 0);
-  text(servo1Min + "ﾂｰ", 
+  text(servo1Min + "°", 
        width/4 + cos(servo1Min - 90) * 55,
        centerY - sin(servo1Min - 90) * 55);
-  text(servo1Max + "ﾂｰ",
+  text(servo1Max + "°",
        width/4 + cos(servo1Max - 90) * 55,
        centerY - sin(servo1Max - 90) * 55);
        
   // Servo 2 labels
   fill(0, 0, 255);
-  text(servo2Min + "ﾂｰ",
+  text(servo2Min + "°",
        3*width/4 + cos(servo2Min - 90) * 55,
        centerY - sin(servo2Min - 90) * 55);
-  text(servo2Max + "ﾂｰ",
+  text(servo2Max + "°",
        3*width/4 + cos(servo2Max - 90) * 55,
        centerY - sin(servo2Max - 90) * 55);
 }
@@ -545,8 +545,8 @@ function displayText() {
   noStroke();
   textAlign(LEFT);
   textSize(16);
-  text("Left Servo Angle: " + servoAngle1 + "ﾂｰ (Range: " + servo1Min + "ﾂｰ - " + servo1Max + "ﾂｰ)", 20, height - 40);
-  text("Right Servo Angle: " + servoAngle2 + "ﾂｰ (Range: " + servo2Min + "ﾂｰ - " + servo2Max + "ﾂｰ)", 20, height - 20);
+  text("Left Servo Angle: " + servoAngle1 + "° (Range: " + servo1Min + "° - " + servo1Max + "°)", 20, height - 40);
+  text("Right Servo Angle: " + servoAngle2 + "° (Range: " + servo2Min + "° - " + servo2Max + "°)", 20, height - 20);
 }
 
 function connectBtnClick() {
@@ -672,7 +672,7 @@ class Servo {
       
       // Use linear interpolation (lerp) to calculate current position
       // lerp formula: start + (target - start) * progress
-      // Example: If moving from 0ﾂｰ to 180ﾂｰ and progress is 0.5:
+      // Example: If moving from 0° to 180° and progress is 0.5:
       //   currentAngle = 0 + (180 - 0) * 0.5 = 90 degrees
       this.currentAngle = lerp(this.moveStartAngle, this.targetAngle, progress);
       
@@ -763,11 +763,11 @@ function drawVisualElements() {
   fill(255, 0, 0);
   textAlign(CENTER);
   text("Servo 1", centerX - 130, centerY - 60);
-  text(`Current: ${currentAngle1}ﾂｰ`, 
+  text(`Current: ${currentAngle1}°`, 
        centerX - 100 + cos(currentAngle1) * 65,
        centerY - sin(currentAngle1) * 65 + 15);
   fill(255, 0, 0, 100);
-  text(`Target: ${targetAngle1}ﾂｰ`,
+  text(`Target: ${targetAngle1}°`,
        centerX - 100 + cos(targetAngle1) * 65,
        centerY - sin(targetAngle1) * 65 + 30);
   
@@ -790,11 +790,11 @@ function drawVisualElements() {
   noStroke();
   fill(0, 0, 255);
   text("Servo 2", centerX + 70, centerY - 60);
-  text(`Current: ${currentAngle2}ﾂｰ`, 
+  text(`Current: ${currentAngle2}°`, 
        centerX + 100 + cos(currentAngle2) * 65,
        centerY - sin(currentAngle2) * 65 + 15);
   fill(0, 0, 255, 100);
-  text(`Target: ${targetAngle2}ﾂｰ`,
+  text(`Target: ${targetAngle2}°`,
        centerX + 100 + cos(targetAngle2) * 65,
        centerY - sin(targetAngle2) * 65 + 30);
 }
@@ -1095,19 +1095,19 @@ function drawServoVisualizations() {
   
   // Servo 1 labels
   fill(255, 0, 0);
-  text(servo1Min + "ﾂｰ", 
+  text(servo1Min + "°", 
        width/4 + cos(servo1Min - 90) * 55,
        centerY - sin(servo1Min - 90) * 55);
-  text(servo1Max + "ﾂｰ",
+  text(servo1Max + "°",
        width/4 + cos(servo1Max - 90) * 55,
        centerY - sin(servo1Max - 90) * 55);
        
   // Servo 2 labels
   fill(0, 0, 255);
-  text(servo2Min + "ﾂｰ",
+  text(servo2Min + "°",
        3*width/4 + cos(servo2Min - 90) * 55,
        centerY - sin(servo2Min - 90) * 55);
-  text(servo2Max + "ﾂｰ",
+  text(servo2Max + "°",
        3*width/4 + cos(servo2Max - 90) * 55,
        centerY - sin(servo2Max - 90) * 55);
 }
@@ -1134,11 +1134,11 @@ function displayText() {
   
   // Servo 1 info with attach state
   let servo1Status = servoAttach1 ? " [ATTACHED - MOVING]" : " [DETACHED - IDLE]";
-  text("Left Servo Angle: " + servoAngle1 + "ﾂｰ (Range: " + servo1Min + "ﾂｰ - " + servo1Max + "ﾂｰ)" + servo1Status, 20, height - 60);
+  text("Left Servo Angle: " + servoAngle1 + "° (Range: " + servo1Min + "° - " + servo1Max + "°)" + servo1Status, 20, height - 60);
   
   // Servo 2 info with attach state
   let servo2Status = servoAttach2 ? " [ATTACHED - MOVING]" : " [DETACHED - IDLE]";
-  text("Right Servo Angle: " + servoAngle2 + "ﾂｰ (Range: " + servo2Min + "ﾂｰ - " + servo2Max + "ﾂｰ)" + servo2Status, 20, height - 40);
+  text("Right Servo Angle: " + servoAngle2 + "° (Range: " + servo2Min + "° - " + servo2Max + "°)" + servo2Status, 20, height - 40);
   
   // Instructions
   fill(100);
@@ -1247,6 +1247,5 @@ Calibrate, change max/min of the value
 11/11 workflow by the end of today, scale back keep it simple, demonstrate ideas
 It can be facing passers by vs. wall
 11/14 Guest speaker from TMU and Concordia
-
 
 
