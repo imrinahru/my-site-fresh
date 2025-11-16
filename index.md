@@ -7,7 +7,7 @@ title: Home
 > I'm using this site to collect my essays, projects, and notes about shaping sensible, empowering narratives of technology that support people and communities.
 
 ## Start here
-- [Designing the Ground Where AI Grows](./content/01_Essays/designing-the-ground-where-ai-grows.md)
+
 - [Essays](./content/01_Essays/index.md)
 - [Projects](./content/02_Projects/index.md)
 - [Events](./content/03_Events/index.md)
