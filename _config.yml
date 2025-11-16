@@ -4,7 +4,7 @@ theme: minima
 
 # Set your Pages URL (project pages)
 url: "https://imrinahru.github.io"
-baseurl: "/my-site"
+baseurl: "/my-site-fresh"
 
 # Let Jekyll convert Markdown files even if they lack front matter
 plugins:
