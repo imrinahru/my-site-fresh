@@ -13,7 +13,7 @@ cover:
 ## What this is about
 
 Attending the Japan Regional User Group (RUG) meetup, hosted by the Linux Foundation AI & Data, gave me more than just technical updates—it offered a moment to reflect on where I stand in the rapidly evolving world of open-source AI. As someone still finding my footing in this space, the event surfaced both inspiration and discomfort: a sense of shared purpose, but also a reminder of how distant the tools and practices can still feel. This post gathers some of those reflections, drawn not just from the presentations but from the candid conversations that followed.  
-You can find a summary of the event itself here [[Linux Foundation Japan RUG]].
+You can find a summary of the event itself here [Linux Foundation Japan RUG]({{ '/content/03_Events/Linux%20Foundation%20Japan%20RUG.html | relative_url }}).
 
 
 ## My reflection
