@@ -88,7 +88,7 @@ The advancement of technology does not inherently bring about the negative impac
 I want to refer to Ben Schneiderman's _Designing the User Interface_ (1986, 2016), and more recent _Human-Centered AI_ (2022). His message is clear throughout, that tools should be designed to empower people. The idea has involved from balancing automation vs. human control, to ensuring human control while increasing automation. He proposed HCAI Framework, suggesting that there is a sweet spot before excessive automation or excessive human control, the are where the tool is reliable, safe, and feels like an extension of oneself, like digital cameras.
 
 
-![HCAIframework.png]({{ '/content/assets/img/HCAIframework.jpg' | relative_url}})
+![HCAIframework.png]({{ '/content/assets/img/HCAIframework.png' | relative_url}})
 
 In order to hit that sweet spot, we need to understand user needs, understand user actions, sometimes guardrails and interlocks are necessary for safety reasons, but it should not undermine human control, and also the sense of being in control. 
 
