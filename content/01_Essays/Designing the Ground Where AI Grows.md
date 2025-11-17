@@ -7,27 +7,27 @@ summary: AI hype is only a phenomenon embedded in current worrisome AI-centric c
 draft: false
 cover:
 ---
-![cover_new-scientist_tom-gauld.webp]({{ '/content/assets/img/cover_new scientist_tom gauld.webp' | relative_url | uri_escape }})
+![cover_newscientist_tomgauld.webp]({{ '/content/assets/img/cover_newscientist_tomgauld.webp' | relative_url }})
 
 
 ## Context  
 
-There has been a rise in what I saw as a drive towards "AI first". LLMs are starting to becoming the norm, people start to agitate towards either, the expanded application of LLMs in business contexts, or, shifting from LLMs for other models in pursuit of more advanced artificial intelligence (continuous learning/open-ended revolution, AGI).  I窶冦 interested in unpacking the discomfort I feel toward this trend, and uncover insights that might point toward a different, or supplementary approach to AI development.
+There has been a rise in what I saw as a drive towards "AI first". LLMs are starting to becoming the norm, people start to agitate towards either, the expanded application of LLMs in business contexts, or, shifting from LLMs for other models in pursuit of more advanced artificial intelligence (continuous learning/open-ended revolution, AGI).  I'm interested in unpacking the discomfort I feel toward this trend, and uncover insights that might point toward a different, or supplementary approach to AI development.
 
 
-> 窶弋here won't be enough people, so we need AI to fill up.窶・> 
->  窶忍duardo Gonzalez, Founder of Xpress.ai, an AI startup aiming to provide digital workforces for enterprise
+> There won't be enough people, so we need AI to fill up.
+> Eduardo Gonzalez, Founder of Xpress.ai, an AI startup aiming to provide digital workforces for enterprise
 
-> (...) one years, two years in future half 50% AI do. AIs provide new resource to client. Don窶冲 notice client. (correction: Clients don't notice)
-> Human have mistake. AI is a not have mistake. We can train AI and not do a same mistake. AI can窶冲 lie.
-> 窶納How AI employees are solving Japan窶冱 labor shortage](https://www.disruptingjapan.com/one-japanese-companys-deployment-of-ai-employees/)
+> (...) one years, two years in future half 50% AI do. AIs provide new resource to client. Don't' notice client. (correction: Clients don't notice)
+> Human have mistake. AI is a not have mistake. We can train AI and not do a same mistake. AI can't lie.
+> [How AI employees are solving Japan's labor shortage](https://www.disruptingjapan.com/one-japanese-companys-deployment-of-ai-employees/)
 
-> - **AI Scientists**ﾂwho keep exploring and making discoveries around the clock
-> - **AI Artists**ﾂwho create new kinds of music, art, and stories we窶况e never seen before
-> - **AI Engineers**ﾂwho design buildings, spaceships, and even new types of computers
-> - **AI Teachers**ﾂwho help every student learn in the way that works best for them
-> - **AI Doctors**ﾂwho find new treatments and maybe even help people live longer
-> 窶納The future of AI is open-ended](https://richardcsuwandi.github.io/blog/2025/open-endedness/?utm_source=chatgpt.com)
+> - **AI Scientists**: who keep exploring and making discoveries around the clock
+> - **AI Artists**: who create new kinds of music, art, and stories we've never seen before
+> - **AI Engineers**: who design buildings, spaceships, and even new types of computers
+> - **AI Teachers**: who help every student learn in the way that works best for them
+> - **AI Doctors**: who find new treatments and maybe even help people live longer
+> [The future of AI is open-ended](https://richardcsuwandi.github.io/blog/2025/open-endedness/?utm_source=chatgpt.com)
 
 
 
@@ -44,7 +44,7 @@ One thing is to increase the diverse population who are confident about and have
 Another aspect is even more difficult to enforce, since it's saying no to the temptation for unlimited optimization and advancement of AI tools. The reference here is Illich's _Tools for Conviviality_. 
 
 > Each environment has a corresponding set of naturally efficient tools. A tool is efficient when it is appropriate to the scale of the operator and to the limits within which this operator can act with autonomy. Tools that require more time, space, energy, or authority than is within the competence of the user are, by definition, non-convivial."
-> 窶祢van Illich, Tools for Conviviality
+> Illich, Tools for Conviviality
 
 Self-limiting is difficult, in the sense that nobody can legitimize the stopping of scientific research activities, including that of AI. However, once the more powerful intelligence is presented, people cannot refuse but use it, both on the individual and the societal level. Also, pure scientific research is hard to find these days. The academic institution is largely intertwined with the Capitalist system and has a strong interdependent relationship with the private sector. With abundant resources, many scientific research are also generated from the private sector.
 
@@ -88,7 +88,7 @@ The advancement of technology does not inherently bring about the negative impac
 I want to refer to Ben Schneiderman's _Designing the User Interface_ (1986, 2016), and more recent _Human-Centered AI_ (2022). His message is clear throughout, that tools should be designed to empower people. The idea has involved from balancing automation vs. human control, to ensuring human control while increasing automation. He proposed HCAI Framework, suggesting that there is a sweet spot before excessive automation or excessive human control, the are where the tool is reliable, safe, and feels like an extension of oneself, like digital cameras.
 
 
-![[Pasted image 20250725194854.png]]
+![HCAIframework.png]({{ '/content/assets/img/HCAIframework.jpg' | relative_url}})
 
 In order to hit that sweet spot, we need to understand user needs, understand user actions, sometimes guardrails and interlocks are necessary for safety reasons, but it should not undermine human control, and also the sense of being in control. 
 
