@@ -7,7 +7,7 @@ summary: AI hype is only a phenomenon embedded in current worrisome AI-centric c
 draft: false
 cover:
 ---
-![cover_new scientist_tom gauld.webp]({{ '/content/assets/img/cover_new scientist_tom gauld.webp' | relative_url | uri_escape }})
+![cover_new-scientist_tom-gauld.webp]({{ '/content/assets/img/cover_new scientist_tom gauld.webp' | relative_url | uri_escape }})
 
 
 ## Context  
