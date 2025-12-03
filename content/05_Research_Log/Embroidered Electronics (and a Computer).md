@@ -70,8 +70,8 @@ https://www.stitchingworlds.net/
 http://ireneposch.net/the-embroidered-computer/
 
 ![[レコーディング 2025-10-11 210533.mp4]]
-![[Pasted image 20251011210616.png]]
-![[Pasted image 20251011210626.png]]
+![[assets/img/embroidered_computer.png]]
+![[assets/img/embroidered_computer_signal_diagram.png]]
 
 ![[2851581.2891101.pdf]]
 ![[StitchingWorlds_Book_Kurbak_Ed__1_May2019_PDF-A.pdf]]
@@ -86,7 +86,7 @@ https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all
 https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/
 https://blog.lessaworld.com/2025/03/09/running-a-perceptron-on-an-8-bit-computer/
 
-> ## **The Challenge: Teaching an Old Computer New Tricks**
+> **The Challenge: Teaching an Old Computer New Tricks**
 
 I decided to implement Perceptrons, the most fundamental type of artificial neural network. Perceptrons are a supervised learning algorithm used in machine learning to classify data with simple binary decisions – perfect for a machine with limited power!
 

@@ -7,7 +7,7 @@ tags:
   - AI
   - ux-design
 draft: false
-summary: Applying human-centered design principles to AI.
+summary: Human-centered AI allows more human control AND more machine automation.
 link:
 ---
 ## Background and Premise
@@ -101,7 +101,7 @@ To succeed, the **HCAI community must reframe its language and imagery**, away f
 
 Trust and safety are central to the HCAI vision. For example:
 
-> A car that blocks a driver with high blood alcohol levels improves public safety, but if it malfunctions during an emergency (e.g., rushing to a hospital), it undermines trust.
+> For consequential applications such as car driving, safety comes first. I might be willing to buy a car that would not let me drive if my breath alcohol was above legal levels. I would be even more eager to require that all cars had such a system so as to prevent others from endangering me. On the other hand, if that system made an incorrect measurement when I was excitedly getting in my car to drive my injured child to the hospital, I would be very angry, because the car was not trustworthy.
 
 Thus, the goal is not merely _control_, but **trustworthy systems** that serve _human intentions and contexts_ reliably.
 

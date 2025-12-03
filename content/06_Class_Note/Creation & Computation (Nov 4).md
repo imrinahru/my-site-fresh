@@ -1,4 +1,4 @@
-﻿---
+---
 course: Course Name
 week: Week {{week-number}}
 instructor: Instructor Name
@@ -15,7 +15,7 @@ date:
 draft: true
 ---
 
-# Creation & Computation (Nov 4) 窶・Week {{week-number}}
+# Creation & Computation (Nov 4) ・Week {{week-number}}
 
 
 ## Lecture & Discussion Notes

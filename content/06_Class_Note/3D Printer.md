@@ -119,3 +119,13 @@ Slicer software
 FDM: plastic
 SLA: resin upside down
 SLS: nylon powder
+
+
+Shortcuts
+
+S: depending on what you are doing, tool select window popup
+Q: Press pull
+
+![[Pasted image 20251120182954.png]]
+F: fillet
+![[Pasted image 20251120183349.png]]

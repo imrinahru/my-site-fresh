@@ -17,17 +17,17 @@ This research summary started with my readings on Hank Gerba's article in Invisi
 - **Moiré patterns** are not just technical glitches but starting points for rethinking the **oscillation between digital (discrete) and analog (continuous)** as a **fundamental aesthetic principle**.
 - Gerba frames this as an **aesthetics of automaticity**—the sense that images emerge on their own, without direct human intervention.
 
-![[Pasted image 20250810114910.png]]
-![[Pasted image 20250810114853.png]]
-![[Pasted image 20250814073339.png]]
-![[Pasted image 20250814073406.png]]
-![[Pasted image 20250815104313.png]]
-![[Pasted image 20250815104549.png]]
-![[Pasted image 20250815104418.png]]
+![[simple_moire.png]]
+![[moire_beats.png]]
+![[moire_gaussian_curves.png]]
+![[assets/img/moireoncover.png]]
+![[assets/img/moireofcircles.png]]
+![[assets/img/moireofidenticalcircles.png]]
+![[assets/img/fresnel-ringmoire.png]]
 
-![[Pasted image 20250815105322.png]]
-![[Pasted image 20250815105603.png]]
-![[Pasted image 20250815105701.png]]
+![[assets/img/moire_of_grid_circle.png]]
+![[assets/img/moire_of_grid_circle.png]]
+![[assets/img/moiredisorderlypatterns.png]]
 
 ---
 

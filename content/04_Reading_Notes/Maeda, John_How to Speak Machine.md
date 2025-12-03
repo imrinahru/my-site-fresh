@@ -8,10 +8,10 @@ tags:
   - tech
 draft: false
 summary: It's no longer design and UX, it's computation and AX.
-link:
+link: https://www.are.na/block/16090366
 ---
-
-John Maeda  is someone you cannot not know when you are in digital design. However I became especially interested in what he says recently, through his [2026 Design in Tech Report](https://designintech.report/), where he explores the shift from UX to Agentic Experience (AX): moving from crafting interfaces (UX) to orchestrating outcomes with zero visual affordances (AX).
+https://johnmaeda.medium.com/simplicity-and-agentic-experience-ax-0087553b73d8
+John Maeda  is someone you cannot not know when you are in digital design. However I became especially interested in what he says recently, through his [2026 Design in Tech Report](https://designintech.report/), where he explores the shift from UX to Agentic Experience (AX): _moving from crafting interfaces (UX) to orchestrating outcomes with zero visual affordances (AX)._
 
 It's a new idea and too early for me to make any judgement, but I'm noting down following sentence as a point of inquiry: 
 
@@ -77,14 +77,20 @@ Following is my note from the reading.
 
 ## Democratization of Style Through Computation
 
+>  It follows that, a century later, the old Bauhaus ways must be shed to usher in the new ways afforded by the new industrial revolution now under way, powered by computation. The new courage required is to steel oneself to take on the challenge of speaking machine, as you are doing right now. Consider yourself a member of the new Bauhaus of this century.
+
 - Silicon Valley’s capital and widespread computational power make high-quality design broadly accessible—as long as it is delivered digitally.
     
 - Anyone can now be “in style” via the latest computational products, and users themselves influence these designs.
     
 - As with the Bauhaus a century ago, old design philosophies must be shed.
     
-- Learning to “speak machine” is presented as the new Bauhaus ethos.
-    
+- Learning to “speak machine” is presented as the new Bauhaus ethos. 
+
+
+> [!NOTE] Replicating the power structure 
+> According to Maeda, he looks to replace the "Temple of Design" with a "Temple of Tech". The power never left a handful of elite, from the Bauhaus designers to the Silicon Valley techbros.
+
 
 ---
 

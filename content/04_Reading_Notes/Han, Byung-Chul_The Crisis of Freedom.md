@@ -9,7 +9,7 @@ draft: false
 summary: Under neoliberalism, freedom itself becomes the instrument of domination, as individuals voluntarily exploit and surveil themselves in the name of autonomy and transparency.
 link:
 ---
-## Core Ideas
+## Key Ideas
 
 - **Self-Exploitation as Absolute Slavery**  
     In neoliberalism, individuals willingly exploit themselves without an external master.

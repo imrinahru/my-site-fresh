@@ -5,30 +5,7 @@ tags:
   - idea
 draft: true
 ---
-- [ ] Barad, Karen. _Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning._ Duke University Press, 2007.
 
-- [ ] Bratton, Benjamin H. _The Stack: On Software and Sovereignty._ MIT Press, 2016. [ProQuest Ebook Central](http://ebookcentral.proquest.com/lib/oculocad-ebooks/detail.action?docID=4424500).
-
-- [ ] ———. “On Speculative Design.” _DIS Magazine._ [https://dismagazine.com/discussion/81971/on-speculative-design-benjamin-h-bratton/](https://dismagazine.com/discussion/81971/on-speculative-design-benjamin-h-bratton/)
-
-- [ ] Bridle, James. _New Dark Age: Technology and the End of the Future._ Verso, 2018.
-
-- [ ] Chun, Wendy Hui Kyong. _Programmed Visions: Software and Memory._ MIT Press, 2011.
-
-- [ ] Galloway, Alexander R. “The Unworkable Interface.” In _The Interface Effect_, 19–50. Polity Press, 2012.
-
-- [ ] Greenfield, Adam. _Radical Technologies: The Design of Everyday Life._ Verso, 2018.
-
-- [ ] Han, Byung-Chul. “The Crisis of Freedom.” In _Psychopolitics: Neoliberalism and New Technologies of Power_, 1–12. Verso, 2017.
-
-- [ ] Lovink, Geert. “After the Social Media Hype: Dealing with Information Overload.” _e-flux Journal_ 47 (September 2013).  
-- [ ] ———. “What Is the Social in Social Media?” _e-flux Journal_ 40 (December 2012).
-
-- [ ] Maeda, John. _How to Speak Machine: Computational Thinking for the Rest of Us._ Penguin Business, 2019.
-
-- [ ] Pasquinelli, Matteo. “Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space.” _e-flux Journal_ 101 (December 2019). [https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space](https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space)
-
-- [ ] Shneiderman, Ben. _Human-Centered AI._ Oxford University Press, 2022.
 
 
 Annotated bibliographies

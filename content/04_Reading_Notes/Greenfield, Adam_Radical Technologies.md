@@ -1,5 +1,5 @@
 ---
-title: Greenfeild, Adam (2018) — Radical Technologies
+title: Greenfield, Adam (2018) — Radical Technologies
 date: 2025-09-24
 tags:
   - reading
@@ -15,7 +15,7 @@ link:
 > “The Internet of Things,” in which a weave of networked perception wraps every space, every place, every thing, and every body on Earth.
 
 
->  It’s clear that the appeal of this is overwhelmingly to young workers in the technology industry itself, the control they harvest from the act of quantification intended to render them psychophysically suitable for performance in a work environ ment characterized by implacable release schedules and a high operational tempo.
+>  It’s clear that the appeal of this is overwhelmingly to young workers in the technology industry itself, the control they harvest from the act of quantification intended to render them psychophysically suitable for performance in a work environment characterized by implacable release schedules and a high operational tempo.
 
 >  a not-insignificant percentage of the population has so decisively internalized the values of the market for their labor that the act of re-sculpting themselves to better meet its needs feels like authentic self-expression.
 
@@ -98,9 +98,7 @@ link:
         
     - Companies harvest data on _time, place, frequency, and intensity_ of needs—turning everyday behavior into valuable predictive information.
         
-- **Underlying critique:**
-    
-    - The Internet of Things is not merely about connection but _capture_: the continuous conversion of daily life into machine-readable, monetizable data streams.
+
 
 
 ---

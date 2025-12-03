@@ -99,10 +99,8 @@ link:
 
 ## Empire and the Hostile Environment
 
-- Drawing from **Tiqqun**, Galloway situates today’s power as **ambient rather than confrontational**:
+- Drawing from **Tiqqun**, Galloway situates today’s power as **ambient rather than confrontational**.
     
-    - Empire does not face us as a subject, but as an _environment_ we inhabit.
-        
 - This aligns with Galloway’s conception of the interface: power is **environmental, embedded, and infrastructural**, not external or visible.
     
 

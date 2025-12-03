@@ -80,8 +80,8 @@ It’s an excellent read that examines open, emerging quality of technology and 
     
 - The modern period shifts the problem: technological speed increases exponentially, outpacing social, cultural, legal, and spiritual development.
     
-- Seeing the human as **“always already technological”** opens the possibility of extending Levinasian　ethics to what may be called _posthuman agencies_.
-    
+- Seeing the human as **“always already technological”** opens the possibility of extending Levinasian ethics to what may be called _posthuman agencies_.
+    **Levinasian ethics**: responding to the _Other_ with responsibility, care, and openness.
 
 ---
 
@@ -93,13 +93,9 @@ It’s an excellent read that examines open, emerging quality of technology and 
     
 - **Lister et al.:** new media = communicative and expressive practices emerging from networked digital computing, transforming older media forms.
     
-- Both highlight digitality but differ in framing:
+- Lister's concept of recombination contrasts with Manovich's substitution
     
-    - Traditional vs. digital media show distinct “temporal and affective performativity”—the way they act and produce affects over time.
-        
-    - Because “the content of media is always other media,” remediation is constant; thus studies must pair object analysis with process analysis.
-        
->  Yet, given that “the content of media is always other media” and that the process of remediation is ongoing, we need to do more to combine our knowledge of media objects with our sense of the mediating process that is continu- ally reinventing them
+>  Yet, given that “the content of media is always other media” and that the process of remediation is ongoing, we need to do more to combine our knowledge of media objects with our sense of the mediating process that is continually reinventing them
 
 ### Mediation as Process
 
@@ -115,7 +111,7 @@ It’s an excellent read that examines open, emerging quality of technology and 
         
     - Media remain open to what is not them: each medium delimits a portion of the technological “standing reserve,” never fully closing it.
         
->  Mediation “ describes the funda- mentally, but unevenly, dialectical process in which institutionalized media of commu- nication (the press, broadcast radio and television, and increasingly the world wide web), are involved in the general circulation of symbols in social life.” (p.20)
+>  Mediation “ describes the fundamentally, but unevenly, dialectical process in which institutionalized media of communication (the press, broadcast radio and television, and increasingly the world wide web), are involved in the general circulation of symbols in social life.” (p.20)
 
 #### Standing Reserve and Media Becoming
 

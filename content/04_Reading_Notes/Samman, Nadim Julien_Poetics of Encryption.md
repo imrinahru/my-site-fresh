@@ -17,13 +17,13 @@ link:
 
 ---
 
-## Summary of Argument
+## Summary
 
 The text contrasts **cryptography** (rational, lawful, scientific) with **poiesis** (imaginative, interpretive, creative), proposing that art can take a “left-hand path” to engage with encryption not by decoding it, but by aesthetically _working through_ its opacity. As technology proliferates, so does encryption—and with it, deeper layers of obscurity (_Mehr Dunkelheit_).
 
 ---
 
-## Key Ideas and Analytical Notes
+## Key Ideas
 
 - **Aesthetic response to opacity:**  
     When cryptographic decoding is impossible or intentionally withheld, artistic engagement offers an alternative mode of understanding. Rather than seeking to break the code, _poiesis_ explores the experience of not knowing.

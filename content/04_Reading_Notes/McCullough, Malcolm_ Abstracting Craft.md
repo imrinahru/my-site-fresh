@@ -13,20 +13,17 @@ summary: A sharp account of how digital technology has gradually eroded traditio
 link:
 ---
 
-Digital fabrication tools and communities have opened up possibilities for makers to act locally.
-
-- What does it mean to _act locally_?
-- How do we uphold _subjectivity_ and _personal skill_ when working with increasingly abstract, automated, and networked tools?
+Digital fabrication tools and communities have opened up possibilities for makers, but how do we uphold _subjectivity_ and _personal skill_ when working with increasingly abstract, automated, and networked tools?
 
 Below is my note on Chapter 3 of the book on _Tools_.
 
 ---
 
-## Acting Locally as Skilled Engagement
+## Skilled Engagement
 
 - Engaging with tools opens access to diverse domains (jewelry, plastics, fabrication).
     
-- It's a direct engagement_ with materials, processes, and decisions.
+- It's a direct engagement with materials, processes, and decisions.
     
 - “Workmanship of risk” (p. 202):
     
@@ -208,7 +205,7 @@ Below is my note on Chapter 3 of the book on _Tools_.
 
 - The 19th century: workers lost _first-hand artisanry_.
     
-- Today: workers lose _first-hand subjectivity_.
+- Today: workers lost _first-hand subjectivity_.
     
 - Automation affects both manual and mental labor:
     

@@ -118,3 +118,14 @@ I do not disagree that some of the platforms like Hugging Face is democratizing 
 So an educational program, platform, and community are likely one of the important elements in demystifying the AI technology. It helps to reshape the unhealthy narrative that we have now. 
 
 Another thing that I'd love to try is to rethink current agentic designs, especially through the HCD lens. The purpose here is not merely improving user interaction with AI agent, but in a meta-level, redefining what is the best design in reference to the human values (rights, justice, dignity), and individual goals (self-efficacy, creativity, responsibility, social connections, empowerment). In this sense, the AI model may not even need to be a big model, or LLM, some other model design can be considered from ground up. 
+
+---
+
+1. Be speculative
+2. Be non-human-centric 
+3. Community, solidarity, mutual aid
+4. Support Non-Profit
+5. Copyleft, Be Political
+6. Be a Robinhood
+7. Be an Educator
+8. Be a Maker
