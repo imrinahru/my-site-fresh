@@ -227,14 +227,6 @@ Below is my note on Chapter 3 of the book on _Tools_.
 
 - Uncritical enthusiasm for information technology is strongest among those who benefit from it.
     
-- We need a “right approach to tools” to avoid:
-    
-    - Confusion between tool and medium
-        
-    - Tool and machine
-        
-    - Manual and digital
-        
 - A tool requires:
     
     - Personal control of _scope_, _pace_, _focus_

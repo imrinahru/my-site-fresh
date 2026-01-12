@@ -16,6 +16,7 @@ draft: false
 The project is part of the experimentation I did in Creation & Computation class at OCADU, in fall 2025.
 
 
+
 # Haptic Kumihimo: Measuring Force in Braiding
 ## Concept
 

@@ -5,6 +5,33 @@ tags:
   - idea
 draft: true
 ---
+https://www.kobakant.at/DIY/?cat=179
+
+https://www.kobakant.at/DIY/?p=838
+
+https://www.kobakant.at/DIY/?p=6315
+
+https://www.kobakant.at/DIY/?p=4855
+
+https://www.kobakant.at/DIY/?p=4345
+
+https://www.kobakant.at/DIY/?p=1272
+
+1st project with LED
+https://www.kobakant.at/DIY/?p=7040
+https://beckystern.com/2012/06/02/sewable-led-sequins/
+
+https://beckystern.com/2013/01/02/10-tips-for-conductive-thread/
+
+Optional: with Adafruit
+https://beckystern.com/2015/08/26/how-to-sew-the-perfect-neopixel-circuit/
+https://beckystern.com/2014/08/06/flora-sensors/
+https://beckystern.com/2014/01/21/washing-wearable-electronics/
+
+[1-Bit Textile](http://etextile-summercamp.org/swatch-exchange/1-bit-textile/) swatch
+https://www.kobakant.at/DIY/?p=5915
+https://www.kobakant.at/DIY/?p=5878
+https://www.kobakant.at/DIY/?p=8059
 
 Project process plan
 1. Try different types of stitching on the translucent organza material
@@ -22,17 +49,17 @@ https://youtu.be/R5swa3C7OIY?si=-iNveK6-eR-3-K4t
 
 Shopping list:
 - [ ] Nail polish
-- [ ] double-sided iron on inner facing, or fusible web, paper-backed (not interfacing, which is one-sided)
-- [ ] tiny iron
-- [ ] heat proof mat
+- [x] double-sided iron on inner facing, or fusible web, paper-backed (not interfacing, which is one-sided)
+- [x] tiny iron
+- [x] heat proof mat
 - [ ] parchment paper
-- [ ] Sharp blade (for fabric)
+- [x] Sharp blade (for fabric)
 - [ ] https://www.ifixit.com/products/minnow-driver-kit
-- [ ] cutting mat (62.5 * 21.5cm)
+- [x] cutting mat (62.5 * 21.5cm)
 - [ ] bradawl (pick a thick foam board)
-- [ ] rotary cutter for fabric (straight line)
+- [x] rotary cutter for fabric (straight line)
 - [ ] Non-slip quilting ruler
-- [ ] aluminum foil
+- [x] aluminum foil
 - [ ] silk painting materials:
 	- [ ] dye-na-flow fabric paints
 	- [ ] water-soluble clear gutta
@@ -85,6 +112,7 @@ https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all
 
 https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/
 https://blog.lessaworld.com/2025/03/09/running-a-perceptron-on-an-8-bit-computer/
+https://medium.com/data-science/ultra-tinyml-machine-learning-for-8-bit-microcontroller-9ec8f7c8dd12
 
 > **The Challenge: Teaching an Old Computer New Tricks**
 

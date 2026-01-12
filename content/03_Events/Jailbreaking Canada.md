@@ -4,102 +4,293 @@ date: 2025-11-16
 tags:
   - event
 location:
-draft: false
+draft: true
 summary: |
   Key takeaway in 20 words.
 ---
+# Jailbreaking Canada — Event Notes Summary
 
-## Overview  
-**What / When / Where / Who**  
+OCAD University  
+(Event: _Jailbreaking Canada_)
 
-## Key takeaways  
+https://www.ocadu.ca/events-and-exhibitions/jailbreaking-canada
+---
 
-Enshitified system
-Phase1~4
-Theoretical, why??
-Wallet voting, let rich wins
-Shop cannnot end enshitification
+## 1. Overview
 
-Companies have made the choice, the job is the problem
+**What**  
+A talk on _enshitification_, anti-circumvention (AC) laws, intellectual property regimes, and how Canadian policy choices have enabled corporate control over technology, repair, competition, and culture.
 
-Policy-makers created enshitted system
-Specific policies can be pinpointed:
-Anti-circumvention law
-prohibitted to modify code, access control, changing the code is a felony
-DMCA, Sec 201: Serious crime
-Doesn't allow 
-HP printer, that you acquire, is a property in total exclusion of every other indiciduals
-HP printer, however, uses HP ink, in ink checking code, outsourcing law-making to corporation, it can then conjure up a new felony
-DMCA is enshitifier's charter, invisible privete law 
+**Focus**
 
-Bruce Layman is the author, Bill Clinton's IP law
-At Geneva, WICA, IP treaties, Internet treaties
+- Why enshitification is a _policy failure_, not a market accident
+    
+- How anti-circumvention laws criminalize repair, modification, and competition
+    
+- Why “consumer choice” and “wallet voting” cannot fix the problem
+    
+- What a “Jailbroken Canada” could look like politically, economically, and technologically
+    
 
-James Moore
-Tony Clement
-Stephen Harper administration
-Canada rejected AC law 3 times
-2006
-Do a consultation, 6138 people objected, only 53 liked
- Copyright modernization act
- 
-Initialization routine, has to be unlocked by corporate rep, it would be a crime to fix it 
-part-pairing, right to repair law, is useless, as it doesn't overwrite AC
+---
 
-30cents will be taken if App is on Apple store, the payment procedure is the same
-Etsy, .. all goes to Silion Valley
+## 2. Key Concept: Enshitification
 
-2024, Bill C94,inter-operability law: only allowed to reverse-engineer when there's no access control
+**Enshitification = a structural outcome, not bad design**
 
-Netflix, FB, due to AC law, Canada cannot block unwanted contents and show contents
+- Platforms evolve through **Phase 1 → Phase 4**, where:
+    
+    1. They serve users
+        
+    2. Then businesses
+        
+    3. Then shareholders
+        
+    4. Finally extract rent from everyone
+        
 
-Canada cannot seize the tool of competition
+**Why it persists**
 
-Iceblock, Apple removed from app store
-"Babish radical extremist"
+- “Wallet voting” doesn’t work → the rich always win
+    
+- Individual shopping choices cannot reverse structural lock-in
+    
+- Companies didn’t _accidentally_ enshitify — **they chose to**
+    
+- Therefore: _the job is the problem, not bad actors_
+    
 
-Failed at preventing enshitification
-Coalition with the most rich people, and we are losing.
+---
 
-Coalition partners
-Trump: racists, billionaires, getting things done
+## 3. Root Cause: Policy, Not Technology
 
-We need a coalition too.
-Trump tariffs
-Why canadian policy-makers want this law in the first place?
-Rogers earning is so much less than what is given to the US
+### Anti-Circumvention (AC) Laws
 
-US trade rep, threaten to slap export tariff (like insulin)-> AC law
- Trump, now tariff anyway
-We could have a company that allows jailbreaking app, 90% discount and we'll still have enough profits in Canada
+- AC laws **criminalize modifying, accessing, or repairing software-controlled devices**
+    
+- Based on **DMCA Section 1201** (US), exported globally
+    
 
-Elbows up is only tariff, which is letting Canadian pay more, and make US normal people to suffer
-Instead of tariffing, we could have sold jailbreaking app to him so that he doesn't need to pay John Deer, Tesla
+**Consequences**
 
-We could become the de-enshitification nation.
-But we didn't, only getting things more expensive
+- You may own the device physically, but not legally control it
+    
+- Changing code = felony
+    
+- Lawmaking is effectively outsourced to corporations
+    
 
-Trump: has adversaries,
-Can order the permanent immbilization, kill order to any app around the globe
-How about Huawei?
-Problem with a manufacturer that can control all the devices
+**Example: HP Printers**
 
-3rd Coalition
-National Security people
-Trump is crisis, crisis can bring change
+- You own the printer
+    
+- Printer checks HP ink via embedded code
+    
+- HP can update software → instantly create new criminal behavior
+    
+- This is **private, invisible law**
+    
 
-The ukraine war pushed forward energy policy in Europe by 10 years
+> DMCA = _the enshitifier’s charter_
 
-Jail-broken Canada: No need for redistribution, free redistribution
-Every country was arm-twisted to have AC law so far
-Billions as fuel to launch their tech world
+---
 
-Eurostack: US tax silos, which Canada can use, 
-FLOSS for everything, ventilatores, cars, should be running code people can see, test and change
+## 4. Who Built the System
 
-Science vs Alchemy
-Alchemy: secrecy
-analogy of drinking mercury with how we cannot find out the code works in our device
+- **Bruce Lehman** – architect of Clinton-era IP laws
+    
+- **WIPO (Geneva)** – Internet treaties exporting AC laws globally
+    
+- **Canada**
+    
+    - Rejected AC law **three times**
+        
+    - 2006 consultation:
+        
+        - 6,138 opposed
+            
+        - 53 supported
+            
+    - Still passed the **Copyright Modernization Act**
+        
+
+**Key political figures**
+
+- Stephen Harper administration
+    
+- Tony Clement
+    
+- James Moore
+    
+
+---
+
+## 5. Repair, Interoperability, and Their Limits
+
+### “Right to Repair” Is Toothless Without AC Reform
+
+- Initialization routines locked behind corporate authorization
+    
+- Fixing devices without approval = crime
+    
+- **Part pairing** blocks third-party repair
+    
+- Diagnostic tools = pure rent extraction
+    
+
+### Bill C-294 / Interoperability (2024)
+
+- Reverse engineering allowed **only if no access control exists**
+    
+- Access control = automatic disqualification
+    
+- Therefore: competition is still illegal
+    
+
+---
+
+## 6. Platform Rent Extraction
+
+- Apple App Store:
+    
+    - Flat 30% cut
+        
+    - Same payment process for every app
+        
+- Etsy, others → revenue flows to Silicon Valley
+    
+- Canada **cannot seize tools of competition** due to AC law
+    
+
+**Example**
+
+- _Iceblock_ app removed from App Store
+    
+- Labelled “radical extremist” content
+    
+- Canada legally unable to intervene
+    
+
+---
+
+## 7. Content Control & National Sovereignty
+
+- Netflix, Facebook:
+    
+    - AC laws prevent Canada from blocking unwanted content
+        
+- Manufacturers can:
+    
+    - Immobilize devices
+        
+    - Kill apps globally
+        
+- Huawei illustrates the danger of centralized manufacturer control
+    
+
+---
+
+## 8. Trade, Tariffs, and Missed Opportunities
+
+**Why Canada adopted AC laws**
+
+- US trade pressure
+    
+- Threats of export tariffs (e.g. insulin)
+    
+- Rogers earns far less than what flows to US platforms
+    
+
+**Irony**
+
+- Trump imposed tariffs anyway
+    
+
+**Missed alternative**
+
+- Canada could:
+    
+    - Legalize jailbreaking
+        
+    - Enable 90% cheaper app ecosystems
+        
+    - Still remain profitable
+        
+    - Undermine monopolies like John Deere, Tesla
+        
+
+Instead:
+
+- “Elbows up” = tariffs → higher prices for Canadians
+    
+- US working people suffer too
+    
+
+---
+
+## 9. Coalition Politics
+
+### The Winning Coalition
+
+- Billionaires
+    
+- Racists
+    
+- Corporate elites
+    
+- “Getting things done” regardless of harm
+    
+
+### The Missing Coalition
+
+- Repair advocates
+    
+- Open-source communities
+    
+- Privacy & security experts
+    
+- Artists, educators, users
+    
+
+**Third Coalition**
+
+- National security sector
+    
+- Trump as crisis → crises enable change
+    
+    - Ukraine war accelerated EU energy transition by 10 years
+        
+
+---
+
+## 10. Vision: Jailbroken Canada
+
+**Not redistribution — liberation**
+
+- Free redistribution via repair, modification, interoperability
+    
+- FLOSS everywhere:
+    
+    - Ventilators
+        
+    - Cars
+        
+    - Infrastructure
+        
+- Code that can be:
+    
+    - Seen
+        
+    - Tested
+        
+    - Changed
+        
+
+**EuroStack**
+
+- Alternative to US tech silos
+    
+- Canada could leverage this model
 
 Universal Transparent, softeware, it is less technology, more like a science
 
@@ -109,54 +300,117 @@ Carney as empty vessel that people can project their hope on
 
 Permanent procurement
 Repairability
-Diagnostic tools is pure rent extraction.
+>  Diagnostic tools is pure rent extraction.
 
-Enshitification is left unattended because peopledidn't give a shit in the first place
-Even if the jailbreaking app is created, and Canada set a new policy, leading the world in the policy-making sphere,  tech sphere, won't those apps still be controlled by a few?
+---
 
+## 11. Science vs Alchemy
 
-AI = plugin
-We are convinced that AI will become God and make us into paper clips
-The AI sector is not earning mony
+**Alchemy**
 
-Opensource community, investor doesn't understand AI, GPU data centers are too optimized, it's producing a diminishing return.
+- Secrecy
+    
+- Blind trust
+    
+- Like drinking mercury because you can’t test it
+    
 
-Free software
-Richard, likes word play
-Free as in speech, not beer
-business, open source, harness an army of crowd workers
-Open source = free source functionally equivalent
-but different moral proposition
-Software as a service came along, does it fall inside OS or software freedom
+**Science**
 
-Freedom: a lot more context 
-OS: Can we see the source code
-All the Google software can be seen, can make patches,
-but Google has software freedom, so we only get to use cloud that they designate
+- Transparency
+    
+- Verifiability
+    
+- Reproducibility
+    
 
-We lost both instrumental and ethical benefit
-Wikipedia is absolutely uncompromising, freedom software, is it free? it remained free
+> Software should behave like science.
 
-Careless people, Sarah, be a facebook executive, 
-Facebook was good to use in the early years
-Myspace is owned by evil billionnaires
-They locked in us, with IT circumbention law, 
+---
 
+## 12. Free Software & Its Meaning
 
+- Richard Stallman:
+    
+    - “Free as in speech, not beer”
+        
+- Open Source ≠ Software Freedom
+    
+    - Open source can still enable control
+        
+- SaaS breaks software freedom
+    
+- Google:
+    
+    - Source visible
+        
+    - But freedom restricted to Google-designated clouds
+        
 
+**Loss**
 
+- Instrumental benefit (control, repair)
+    
+- Ethical benefit (autonomy, commons)
+    
 
+**Counterexample**
 
+- Wikipedia:
+    
+    - Uncompromisingly free
+        
+    - Remains free
+        
 
+---
 
+## 13. AI Discussion
 
+- AI treated as a **plugin**, not a god
+    
+- AI sector not profitable
+    
+- GPU data centers over-optimized
+    
+- Diminishing returns
+    
+- Investors misunderstand AI
+    
+- Open-source AI highlights fragility of enclosure models
+    
 
+---
 
+## 14. Why Enshitification Persisted
 
-## Slides & media  
-- ![Slide thumbnail](./img/slide.png)  
-- Recording:
+- People didn’t care early enough
+    
+- Platforms were genuinely good at first
+    
+    - Facebook, early years
+        
+- Lock-in came later
+    
+- AC law made exit illegal
+    
 
-## Related notes  
-- 
+---
 
+## 15. Open Question (Unresolved)
+
+Even if:
+
+- Canada legalizes jailbreaking
+    
+- Leads globally in policy
+    
+- Enables new apps
+    
+- won't those apps still be controlled by a few?
+
+Also, the blame should be on everyone of us that enshitification is left unattended because people didn't give a shit in the first place.
+Is policy making enough to change this culture?
+No.
+Policy making is only a starting line.
+What we need to think about is long-term learning and cultural forming opportunities.

@@ -11,3 +11,6 @@
 > For me, I use randomness in the same way that artists got excited about randomness over one hundred years ago: as a way of getting around my biases, getting around my taste. When I see something unexpected, I know it; it just hits me. So randomness is a really good technique to get to something that's really unexpected.
 >  [Casey Reas](https://www.lerandom.art/editorial/casey-reas-on-the-history-of-generative-art-part-2)
 
+
+Recently, Juan, a graduate from OCAD University, has given a presentation on different "randomness" used in different coding languages and it was a fascinating detail to think about.
+

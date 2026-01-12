@@ -2,10 +2,11 @@
 title: Baby AGI by Yohei Nakajima
 date: 2025-07-25
 tags:
-  - log
+  - artificial-intelligence
+  - topics
 draft: false
 ---
-![[Pasted image 20250725151623.png]]
+![[Baby AGI.png]]
 ## Autonomous Task Management: BabyAGI
 
 Yohei Nakajima is recognized for developing **BabyAGI**, one of the first lightweight frameworks for autonomous AI agents. BabyAGI operates in a continuous loop: it generates tasks, prioritizes them, executes each one, and updates its knowledge base with the results. It leverages a large language model (LLM) along with a vector database (such as Chroma or Weaviate) to maintain memory and context across iterations. The framework is designed to simulate how a human assistant might manage and refine a to-do list, with the ultimate goal of automating end-to-end workflows.

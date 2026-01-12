@@ -5,13 +5,132 @@ tags:
   - idea
 draft: true
 ---
- >  Algorithms emerged from divisions of **space, time, labor, and social relations** — they are material before they are mathematical.
+
+#materiality #embodiment #care #speculativefutures #contingency
+
+Barad, Karen. _Meeting the Universe Halfway : Quantum Physics and the Entanglement of Matter and Meaning_. 1st ed. Durham: Duke University Press, 2007. doi:10.1515/9780822388128.
+- Reframes technology as **world-making**, not tool-making
+    
+- Undermines neutral design assumptions
+    
+- Provides a philosophical basis for practice-based research
+
+Mareis, Claudia, Greiner-Petter, Moritz and Renner, Michael. _Critical by Design?: Genealogies, Practices, Positions_. Bielefeld: transcript Verlag, 2022. [https://doi.org/10.1515/9783839461044](https://doi.org/10.1515/9783839461044)
+https://www.degruyterbrill.com/document/doi/10.1515/9783839461044/html#contents
+
+
+
+ >  Algorithms emerged from divisions of **space, time, labor, and social relations** — they are material before they are mathematical.
  >  (...)
  >  AI imitates, replaces, and emerges from an organized division of social space.
  >  (...)
  >  Perhaps these different spatial logics together can clarify the algorithm as an emergent form rather than a technological a priori.
 from [Matteo Pasquinelli, "Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space", e-flux](https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space)
 
+A Biography of the Pixel, Alvy Ray Smith
+https://ebookcentral.proquest.com/lib/oculocad-ebooks/reader.action?docID=6676817&c=RVBVQg&ppg=1
+
+The first part, fundamental concept of maths, sciences, engineering, about Alan Turing.
+
+Craft and the Digital (OCAD), [creation](https://craftandthedigitalturn.com/index.php/creation)
+- What are the affordances, if any, of digital technologies in the craft studio in relation, for example, to innovation, social practice, and alternative ways of learning and knowing?
+- What are the ways that makers work with digital technologies that are informed by craft methodology—a primary engagement with materials, process, tools and networks?
+
+> [!NOTE] Note
+> My research would be going the other way round, in drawing on the rich tradition and resource from craft, I want to strip computation of its aura of inevitability and opacity, repositioning it as a situated, constructed, and interpretable practice.
+
+Craft History Workshop, [past link]https://crafthistoryworkshop.com/schedule/#fall-2025)
+
+
+Modes of Craft and Digitality
+
+Here are **recognized modes** often discussed in design research, STS, and critical making:
+
+### 1. Craft _using_ Digital Tools
+
+Digital tools as aids to craft.
+
+- CAD for pattern-making
+    
+- CNC or laser cutting for textile components
+    
+- Digital embroidery machines
+    
+
+Craft remains primary; digital tools assist.
+
+---
+
+### 2. Craft _as Interface to the Digital_
+
+Craft mediates interaction with digital systems.
+
+- Soft circuits
+    
+- E-textiles
+    
+- Fabric-based sensors
+    
+
+Craft becomes a tactile interface to computation.
+
+---
+
+### 3. Craft _as Translation of Digital Logic_
+
+Digital systems are **reconstructed materially**.
+
+- Binary encoded in woven patterns
+    
+- Logic gates represented through stitch structures
+    
+- Machine learning feedback loops enacted physically
+    
+
+📌 This is where my work strongly sits.
+
+---
+
+### 4. Craft _as Critique of Digitality_
+
+Craft exposes assumptions embedded in digital systems.
+
+- Slowness vs. computational speed
+    
+- Error, repair, and variation vs. optimization
+    
+- Labor visibility vs. automation invisibility
+    
+
+📌 Often aligned with feminist, decolonial, and posthuman critiques.
+
+---
+
+### 5. Speculative Craft Futures
+
+Craft imagines alternative technological worlds.
+
+- Non-extractive computation
+    
+- Care-based infrastructures
+    
+- Situated, small-scale, communal systems
+    
+
+📌 Craft is used to speculate rather than solve.
+
+
+> The ways textile-based craft practices materially enact, translate, and critique computational logics, revealing digital systems as constructed, embodied, and value-laden rather than abstract or mystical.
+
+Broadband
+
+Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture, Lisa Nakamura, American Quarterly
+The Criitical Makers Reader: (Un)learning technology, edited by Loes Bogers
+
+Take half of brain they both need manual skill, depends on what finesse, sloppy craft, vs finess, how polished it will be, will indicate how difficult it will be, materiality, physicality, then it will be different
+Conceptual direction
+Material direction
+They will come together, material (craft process)
 
 ## Key word
 

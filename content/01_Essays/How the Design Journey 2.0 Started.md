@@ -1,11 +1,11 @@
 ---
-title: "Untitled"
-date: "2025-07-07"
+title: Untitled
+date: 2025-07-07
 tags:
   - essay
 summary: |
   One-sentence teaser that will show on the card and in RSS feeds.
-draft: true
+draft: false
 cover:
 ---
 
