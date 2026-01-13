@@ -12,6 +12,9 @@ status: completed
 date: 2025-11-18
 draft: false
 ---
+# Creation & Computation — Week 12-1 (Nov18)
+
+
 Below contents almost entirely comes from the class held by Kate Harman and Nicholas Puckett at OCADU.
 
 ## Lecture & Discussion Notes

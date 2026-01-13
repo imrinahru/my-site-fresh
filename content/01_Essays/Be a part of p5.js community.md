@@ -3,9 +3,10 @@ title: Be a Part of p5.js community
 date: 2025-11-09
 tags:
   - floss
+  - essay
 location:
 draft: true
-summary: Key takeaway in 20 words.
+summary: From the concept of FLOSS to knitty-bitties of how to start contributing to the p5.js community! woohoo!
 ---
 Below contents almost entirely comes from the information session held by p5.js editor, Rachel Lim. It was inspiring and beginner-friendly to say the least.
 ## Overview  
@@ -44,7 +45,7 @@ It can’t force other software distributed with it to be open source too.
 **10. License Must Be Technology-Neutral**  
 The rules can’t depend on any specific technology or interface type.
 
-![[Pasted image 20251109095157.png]]
+![[licenses.png]]
 Copyleft licenses require that any modified version of an open source project also be released under the
 same license as the original project.
 A strong copyleft license requires that any software
@@ -54,12 +55,12 @@ Weak licenses have no requirements for software that only use the licensed proje
 Permissive licenses do not put restrictions on people
 modifying or redistributing a project, as long as it's credited properly
 
-![[Pasted image 20251109091503.png]]
-![[Pasted image 20251109094033.png]]
+![[open-source software license types.png]]
+![[open-source eras.png]]
 From p5.js slideshow
 
-![[Pasted image 20251109093655.png]]
-![[Pasted image 20251109093731.png]]
+![[FLOSS history and a debate.png]]
+![[a debate.png]]
 From https://www.flickr.com/photos/fidelman/4523518468/in/photostream/, an argument frozen at 16 years ago 
 
 ### FLOSS: Free, Libre, and Open Source Software
@@ -115,6 +116,9 @@ Documentation
 ##### Forms of Contribution
 https://allcontributors.org/docs/en/emoji-key
 
+##### Setting up
+[https://github.com/processing/p5.js-web-editor/blob/develop/contributor_docs/installation.md](https://github.com/processing/p5.js-web-editor/blob/develop/contributor_docs/installation.md)
+
 ##### Creating an Issue
 A good issue should be as descriptive as possible.
 Include information like:
@@ -125,6 +129,7 @@ Include information like:
 - Supplementary Media (images, videos, links)
 [Example](https://github.com/processing/p5.js-web-editor/issues/3332)
 
+[Another example](https://github.com/processing/p5.js-web-editor/issues/3079)
 
 ##### Reviewing Contributions
 You can review contributions by "triaging issues",
@@ -140,10 +145,12 @@ repository's collaborators to review and give
 feedback on proposed code changes before they
 are accepted and merged into another branch.
 
+An example:
+[https://github.com/processing/p5.js-web-editor/pull/3497](https://github.com/processing/p5.js-web-editor/pull/3497)
 ##### Workflow for Contributing Code
 
 ![[assets/img/Github diagram1.png]]
-![[Pasted image 20251109101654.png]]
+![[github diagram.png]]
 
 1. Browsing through issues on Github to find an issue or open an issue.
 2. Forking the Repository.
@@ -201,47 +208,7 @@ Investigate improvements for File Management / Structure
 **Open New Issues for Styling Bug Fixes**
 
 
-Rachel Lim
-
-2:08 PM
-
-[https://www.munusshih.com/about/](https://www.munusshih.com/about/)
-
-[https://github.com/munusshih/p5.genzine](https://github.com/munusshih/p5.genzine)
-
-![](https://lh3.googleusercontent.com/a/ACg8ocLoRTTjfJcIjXbsfqBrV3htgfOtZXeFxPRqbjyMysZC1yDkrg=s88-c-k-no-mo)
-
-Rachel Lim
-
-2:11 PM
-
-kit kuksenok
-
-[https://github.com/processing/p5.js](https://github.com/processing/p5.js)
-
-2:15 PM
-
-[https://antiboredom.github.io/p5.riso/](https://antiboredom.github.io/p5.riso/)
-
-Hover over a message to pin it_keep_
-
-![](https://lh3.googleusercontent.com/a/ACg8ocLoRTTjfJcIjXbsfqBrV3htgfOtZXeFxPRqbjyMysZC1yDkrg=s88-c-k-no-mo)
-
-Rachel Lim
-
-2:40 PM
-
-[https://github.com/processing/p5.js-web-editor/issues/3079](https://github.com/processing/p5.js-web-editor/issues/3079)
-
-[https://github.com/processing/p5.js-web-editor/pull/3497](https://github.com/processing/p5.js-web-editor/pull/3497)
-
-![](https://lh3.googleusercontent.com/a/ACg8ocLoRTTjfJcIjXbsfqBrV3htgfOtZXeFxPRqbjyMysZC1yDkrg=s88-c-k-no-mo)
-
-Rachel Lim
-
-2:54 PM
-
-[https://github.com/processing/p5.js-web-editor/blob/develop/contributor_docs/installation.md](https://github.com/processing/p5.js-web-editor/blob/develop/contributor_docs/installation.md)
+##### Sample contribution routine in a command line
 
 ```
 PowerShell 7.5.4
@@ -516,6 +483,9 @@ Date:   Fri Nov 14 15:35:35 2025 -0500
 PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor>
 ```
 
+npm run test
+npm run dev
+
 
 ## Slides & media  
 -   ![[introduction-to-open-source.pdf]]
@@ -529,6 +499,3 @@ PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor
 - http://github.com/processing/p5.js-web-editor/discussions discussions
 
 
-npm run test
-
-npm run dev

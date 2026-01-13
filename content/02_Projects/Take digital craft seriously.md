@@ -10,7 +10,6 @@ status: in-progress
 cover: ./img/<image>.png
 draft: false
 ---
-![display_quarter]({{ '/content/assets/img/display_quarter.jpg' | relative_url | uri_escape }})
 
 
 The project is part of the experimentation I did in Creation & Computation class at OCADU, in fall 2025.
@@ -91,6 +90,3 @@ How it works:
 3. Brightness increases or decreases between 0窶・55 using `analogWrite()`. Direction flips at each limit for a smooth pulse.
 4. `millis()` timer updates brightness every 10 ms (`fadeInterval`).
 5. Prints raw and mapped sensor values for debugging purposes.
-## Log  
-<% tp.date.now("YYYY-MM-DD") %> 窶・Kick-off note.
-

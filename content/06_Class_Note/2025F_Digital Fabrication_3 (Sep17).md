@@ -12,7 +12,7 @@ date: 2025-09-17
 draft: false
 ---
 
-# Digital Fabrication — Week 3
+# Digital Fabrication — Week 3 (Sep17)
 
 
 > [!NOTE] Sampler

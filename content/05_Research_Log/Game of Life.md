@@ -3,7 +3,7 @@ title: Game of Life
 date: 2025-07-07
 tags:
   - log
-draft: true
+draft: false
 ---
 This is my research note on Conway's GOL. It is the simplest rule-based mechanism that mimics life of a colony and genuinely make you feel like something is alive in there.
 
@@ -61,7 +61,7 @@ _Quick reference for the 2D cellular automaton logic._
 
 ---
 
-# 🧠 Part III: The AI Brain (LifeNet)
+# Part III: The AI Brain (LifeNet)
 
 _Designing the "Actor" (FastAPI) and the "Learner" (Python Process)._
 
@@ -95,7 +95,7 @@ Instead of rewarding the AI for just "keeping cells alive," reward it for **Nove
 
 ---
 
-# 🛠️ Part IV: Technical Implementation Map
+# Part IV: Technical Implementation Map
 
 ### 1. Folder Structure
 
@@ -126,7 +126,7 @@ life_ai/
 
 ---
 
-# 🧘 Part V: Design Philosophy & Human Autonomy
+# Part V: Design Philosophy & Human Autonomy
 
 _Stepping outside a human-centric view to bridge AI and ALife._
 
@@ -155,3 +155,6 @@ Use this color-overprint logic for your physical prints or digital shaders to si
 |---|---|---|---|
 |**Simple**|[Yellow, Aqua]|[Aqua, Purple]|[Yellow, Purple]|
 |**Complex**|[Yellow, Aqua, Purple]|[Yellow, Purple]|[Aqua, Purple]|
+
+---
+The writing is based on my thoughts, numerous back-and-forth with ChatGPT, Copilot (Github), editing, questioning. It is a preliminary plan that needs to be tested.

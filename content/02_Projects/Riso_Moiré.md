@@ -7,7 +7,7 @@ summary: |
   Elevator-pitch description (appears on the card).
 status: idea
 cover: ./img/<image>.png
-draft: false
+draft: true
 ---
 
 ## Goal  

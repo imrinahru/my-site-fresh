@@ -10,7 +10,7 @@ status: completed
 date: 2025-09-18
 draft: false
 ---
-
+# Digital Theory — Week 2 (Sep17)
 
 ## Readings
 

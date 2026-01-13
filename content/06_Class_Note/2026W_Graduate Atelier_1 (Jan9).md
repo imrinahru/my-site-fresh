@@ -12,7 +12,7 @@ tags:
   - critique
 status: in-progress
 date:
-draft: false
+draft: true
 ---
 
 # {{title}} — Week {{week-number}}

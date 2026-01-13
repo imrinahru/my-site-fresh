@@ -1,5 +1,5 @@
 ---
-title: Galloway, Alexander et al (2004) ・Protocol, Control, and Networks
+title: Galloway, Alexander et al (2004) — Protocol, Control, and Networks
 date: 2025-10-26
 tags:
   - reading

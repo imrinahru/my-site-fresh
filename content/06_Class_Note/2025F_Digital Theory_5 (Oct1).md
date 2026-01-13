@@ -12,7 +12,7 @@ date: 2025-10-01
 draft: false
 ---
 
-# Digital Theory — Week 5
+# Digital Theory — Week 5 (Oct1)
 
 
 ## Lecture & Discussion Notes

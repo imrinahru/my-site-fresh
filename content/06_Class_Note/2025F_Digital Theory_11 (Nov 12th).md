@@ -11,16 +11,16 @@ date: 2025-11-12
 draft: false
 ---
 
+
+
+# Digital Theory — Week 11 (Nov12)
+
 end with a critical question
 or
 reiterate a position
 
 find your style
 want to see deficiencies, rather than perfectionism
-
-# Digital Theory (Nov 12th) — Week 11
-
-
 ## Lecture & Discussion Notes
 
 https://arts.cern/

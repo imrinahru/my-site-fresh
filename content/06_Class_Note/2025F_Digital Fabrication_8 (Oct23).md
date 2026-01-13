@@ -13,6 +13,8 @@ date: 2025-10-23
 draft: false
 ---
 
+# Digital Fabrication — Week 8 (Oct23)
+
 
 CNC
 

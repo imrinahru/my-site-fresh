@@ -11,7 +11,7 @@ status: completed
 date: 2025-11-05
 draft: false
 ---
-# Digital Theory (Nov 5th)
+# Digital Theory — Week 10 (Nov5)
 
 
 Be open to proposing your ideas

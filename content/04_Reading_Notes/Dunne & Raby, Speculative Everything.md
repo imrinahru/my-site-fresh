@@ -1,5 +1,5 @@
 ---
-title: Dunne & Raby (2013) ・ Speculative Everything
+title: Dunne & Raby (2013)  — Speculative Everything
 date: 2025-11-22
 tags:
   - reading

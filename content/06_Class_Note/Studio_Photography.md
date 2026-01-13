@@ -1,5 +1,5 @@
 ---
-course: Photography
+course: "Studio: Photography"
 week: "-"
 instructor: Joginder Singh
 tags:

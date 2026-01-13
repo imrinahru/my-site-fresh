@@ -5,7 +5,8 @@ week:
 date: 2025-09-08
 status: done
 tags:
-  - TA-notes
+  - essay
+  - teaching
 instructor: Peter Scott
 draft: true
 ---
@@ -21,8 +22,6 @@ On the one side, the narrative of how "business" is indispensable to their succe
 So the students thought the course will prepare them to better step into the business world, make them more marketable and one even said bluntly that they want to learn how "to be successful and rich".
 
 But the course provider was not looking to do that, but exactly proposing the opposite.
-
-
 
 
 ## Business as a Language, Not a Discipline

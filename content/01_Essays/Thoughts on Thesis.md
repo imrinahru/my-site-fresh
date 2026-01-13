@@ -6,6 +6,377 @@ tags:
 draft: true
 ---
 
+
+# Thesis Theme & Method Considerations
+
+**Core tags:** #materiality #embodiment #care #speculativefutures #contingency #digital-craft #ground-the-virtual
+
+---
+
+## 1. Core Orientation
+
+This thesis investigates **how craft-based, material practices can enact, translate, and critique computational logics**, revealing digital systems as **situated, constructed, embodied, and value-laden**, rather than abstract, inevitable, or opaque.
+
+Rather than asking how digital tools can enhance craft, the research **reverses the direction**:
+
+> Drawing on the rich traditions of craft, I aim to strip computation of its aura of inevitability and opacity, repositioning it as a practice that is materially grounded, historically contingent, and open to interpretation.
+
+This positions the work against virtual simulation and abstraction, and toward **material engagement, process visibility, and care-oriented making**.
+
+---
+
+## 2. Theoretical Foundations
+
+### 2.1 Materiality, Entanglement, and World-Making
+
+**Karen Barad — _Meeting the Universe Halfway_ (2007)**
+
+- Technology as **world-making**, not tool-making
+    
+- Meaning and matter are entangled, not separable
+    
+- Undermines assumptions of neutral or objective design
+    
+- Provides a strong philosophical grounding for **practice-based research**
+    
+
+This frames computation as something that _participates in reality_, not something that merely represents it.
+
+---
+
+### 2.2 Algorithms as Social and Spatial Formations
+
+**Claudia Mareis et al. — _Critical by Design?_ (2022)**  
+**Matteo Pasquinelli — “Three Thousand Years of Algorithmic Rituals”**
+
+Key ideas:
+
+- Algorithms emerge from divisions of **space, time, labor, and social relations**
+    
+- They are **material before they are mathematical**
+    
+- AI imitates, replaces, and reorganizes social space
+    
+- Algorithms are **emergent forms**, not technological a priori
+    
+
+This perspective situates computation historically and socially, aligning with craft’s attention to labor, process, and situated knowledge.
+
+---
+
+### 2.3 Pixel, Pattern, and Mathematical Mediation
+
+**Alvy Ray Smith — _A Biography of the Pixel_**
+
+- Historical and conceptual foundations of digital images
+    
+- Links between mathematics, engineering, and visual culture
+    
+- Alan Turing as a foundational figure in abstract computation
+    
+
+This supports an inquiry into how **mathematical abstraction becomes material surface**.
+
+---
+
+### 2.4 Craft, Labor, and Racialized Technology
+
+- **Lisa Nakamura — _Indigenous Circuits_**
+    
+- **_The Critical Makers Reader_ — (Un)learning Technology**
+    
+
+These works foreground:
+
+- Invisible labor behind electronic manufacture
+    
+- Gendered, racialized, and colonial dimensions of technology
+    
+- Craft as a site of resistance, care, and counter-narrative
+    
+
+---
+
+## 3. Craft and Digitality: Modes of Relation
+
+Recognized modes in design research, STS, and critical making:
+
+### 3.1 Craft Using Digital Tools
+
+- CAD for pattern-making
+    
+- CNC / laser cutting
+    
+- Digital embroidery
+    
+
+Craft remains primary; digital tools assist.
+
+---
+
+### 3.2 Craft as Interface to the Digital
+
+- Soft circuits
+    
+- E-textiles
+    
+- Fabric-based sensors
+    
+
+Craft becomes a tactile interface to computation.
+
+---
+
+### 3.3 Craft as Translation of Digital Logic (Primary Position)
+
+- Binary encoded in woven patterns
+    
+- Logic gates enacted through stitch structures
+    
+- Machine-learning feedback loops embodied physically
+    
+
+📍 **This is where my work strongly sits.**
+
+---
+
+### 3.4 Craft as Critique of Digitality
+
+- Slowness vs computational speed
+    
+- Repair, error, variation vs optimization
+    
+- Visible labor vs automation invisibility
+    
+
+Often aligned with feminist, decolonial, and posthuman critiques.
+
+---
+
+### 3.5 Speculative Craft Futures
+
+- Non-extractive computation
+    
+- Care-based infrastructures
+    
+- Situated, communal systems
+    
+
+Craft is used to **speculate**, not to solve.
+
+---
+
+## 4. Analog–Digital Oscillation
+
+### 4.1 Conceptual Distinction
+
+- **Digital**: discrete, countable, repeatable, formatted, mathematical
+    
+- **Analog**: continuous, perceptual, flowing, indivisible, shimmering
+    
+
+**Hypothesis:**
+
+Humans are (and were) inhabitants of the analog; machines are inhabitants of the digital. When a human practice is fully digitized and automated, it loses the capacity to speak meaningfully to human experience in the analog world.
+
+---
+
+### 4.2 Oscillation Rather Than Simulation
+
+The goal is not record-and-replay, but **oscillation**:
+
+- Digital materiality remains present
+    
+- Analog contours reintroduce ambiguity, perception, and variation
+    
+- Meaning shifts depending on how one looks, touches, or engages
+    
+
+This mirrors processes like:
+
+- Digital separation of CMYK → analog recombination via Riso printing
+    
+- Algorithmic generation → manual registration, misalignment, texture
+    
+
+---
+
+## 5. Material and Conceptual Keywords
+
+- #materiality
+    
+- #digital-craft
+    
+- #act-of-care
+    
+- #ground-the-virtual
+    
+- #speculativefutures
+    
+
+Examples:
+
+- Digital mending and repair using darning techniques
+    
+- “What if computers were engineered by mothers?”
+    
+- Fabric-based machine learning metaphors
+    
+
+---
+
+## 6. Pattern, Moiré, and Mathematical Texture
+
+### 6.1 Moiré as Oscillating Phenomenon
+
+- Moiré is **a pattern, not a material**
+    
+- Emerges from layered structures and interference
+    
+- Combines gloss/matte, motion/stillness, precision/perception
+    
+
+This makes moiré a powerful metaphor for:
+
+- Algorithmic pattern vs material emergence
+    
+- Digital precision vs analog shimmer
+    
+
+---
+
+### 6.2 Mathematical Patterning
+
+- Tiling, grids, repetition
+    
+- Algorithm-generated structures translated into textile or print
+    
+
+---
+
+## 7. Proposed Works and Experiments
+
+### 7.1 Digital Mending / Darning Electronics
+
+- Repair as care
+    
+- Slowness and attention
+    
+- Opposite direction of simulation: material-first computation
+    
+
+---
+
+### 7.2 Moiré Animation → Riso → Stop Motion
+
+Process:
+
+1. Generate smooth moiré animations in p5.js
+    
+2. Design 3 pattern variations
+    
+3. Output each frame as 4 grayscale CMYK stencils
+    
+4. Print via Riso (letter size)
+    
+5. Target: 12 FPS × 30 seconds = 360 prints
+    
+6. Compile into stop-motion film
+    
+
+This work explicitly materializes oscillation.
+
+---
+
+## 8. Rhizomatic Structure (Conceptual + Writing Method)
+
+- Non-hierarchical, networked organization
+    
+- Nodes connected through difference, not classification
+    
+- Influenced by Deleuze, hypertext, and complexity theory
+    
+
+> The thesis should read as a rhizomatic system: individual nodes form a new total image that is different from both the parts and their linear sum.
+
+---
+
+## 9. Additional Media, Tools, and Techniques
+
+### 9.1 Photographic & Optical Systems
+
+- Physical filters (polarization)
+    
+- Rotation-based capture
+    
+- Multi-channel compositing (RGB + polarization)
+    
+- CNC-controlled rigs for image capture
+    
+
+### 9.2 Material Output Systems
+
+- Cyanotype with digitally controlled UV
+    
+- Riso printing
+    
+- 3D printing as drawing agent
+    
+- CNC milling
+    
+- PCB fabrication
+    
+
+### 9.3 Time-Based Media
+
+- Stop motion
+    
+- Process documentation
+    
+- Film as material thinking
+    
+
+Showing **process** is as important as showing outcomes.
+
+---
+
+## 10. Media Ecology
+
+**Tools & media:**
+
+#riso #laser-cutting #3d-printing #cnc-milling #pcb #cyanotype #arduino #electronics #moire
+
+These are not neutral tools, but **participants** in meaning-making.
+
+---
+
+## 11. Open Questions
+
+- How can computation retain the ability to speak to embodied human experience?
+    
+- How can craft reframe AI and algorithms as care-based, contingent systems?
+    
+- How can material processes resist inevitability and abstraction?
+    
+
+---
+
+This organized structure is intended to support **reflection, iteration, and expansion**, rather than closure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #materiality #embodiment #care #speculativefutures #contingency
 
 Barad, Karen. _Meeting the Universe Halfway : Quantum Physics and the Entanglement of Matter and Meaning_. 1st ed. Durham: Duke University Press, 2007. doi:10.1515/9780822388128.

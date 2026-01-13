@@ -1,5 +1,5 @@
 ---
-title: Claudia Mareis, Moritz Greiner-Petter, Michael Renner (eds.) (2022) ・Critical by Design? Genealogies, Practices, Positions
+title: Claudia Mareis, Moritz Greiner-Petter, Michael Renner (eds.) (2022) — Critical by Design? Genealogies, Practices, Positions
 date: 2025-12-25
 tags:
   - reading

@@ -7,6 +7,9 @@ tags:
   - writing
 draft: false
 ---
+
+
+
 Below contents almost entirely comes from the class held by Inder Sidhu at OCADU.
 
 

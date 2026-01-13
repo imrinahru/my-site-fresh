@@ -12,8 +12,7 @@ date: 2025-11-19
 draft: false
 ---
 
-# Planetary — Week 12
-
+# Digital Theory — Week 12 (Nov19)
 
 ## Lecture & Discussion Notes
 

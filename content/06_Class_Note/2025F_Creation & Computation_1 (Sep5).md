@@ -11,7 +11,7 @@ date: 2025-09-05
 draft: false
 ---
 
-# Creation & Computation — Week 1
+# Creation & Computation — Week 1 (Sep 5)
 
 Below contents almost entirely comes from the class held by Kate Harman and Nicholas Puckett at OCADU.
 

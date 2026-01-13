@@ -10,9 +10,11 @@ status: completed
 date: 2025-09-11
 draft: false
 ---
+
+# Digital Fabrication — Week 2 (Sep11)
+
 Below contents almost entirely comes from the class held by Alda Escareno at OCADU.
 
-# Digital Fabrication — Week 2
 
 
 ## Lecture & Discussion Notes

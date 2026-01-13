@@ -10,7 +10,7 @@ date: 2025-09-03
 draft: false
 ---
 
-# Digital Theory — Week 1
+# Digital Theory — Week 1 (Sep3)
 
 
 ## Lecture & Discussion Notes

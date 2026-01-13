@@ -11,7 +11,7 @@ date: 2025-09-10
 draft: false
 ---
 
-# Digital Theory — Week 2
+# Digital Theory — Week 2 (Sep10)
 
 
 

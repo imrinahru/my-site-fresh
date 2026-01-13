@@ -3,6 +3,7 @@ title: Designing the Ground Where AI Grows
 date: 2025-06-29
 tags:
   - essay
+  - artificial-intelligence
 summary: AI hype is only a phenomenon embedded in current worrisome AI-centric context. Some thoughts on how it can be redefined.
 draft: false
 cover:

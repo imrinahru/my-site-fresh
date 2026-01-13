@@ -1,5 +1,5 @@
 ---
-title: "Riso: Experimenting Trace"
+title: "{{title}}"
 date: 2025-11-16
 tags:
   - project
@@ -11,13 +11,7 @@ draft: true
 ---
 
 ## Goal  
-Divide pixels into 2~3 color layers that's printable by Riso.
-
-In Photoshop, if my understanding is correct, color is divided by
-- either, shade (darkness)
-- or, tone (color, usually cmyk)
-
-pixelated color schemes based on an image, change the pigment size, print them and display in a series
+Describe the change this project aims to create.
 
 ## Milestones  
 | Date | Target | Done? |

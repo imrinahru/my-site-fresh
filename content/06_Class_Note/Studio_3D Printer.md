@@ -1,5 +1,5 @@
 ---
-title: 3D Printing Pre-Training
+title: "Studio: 3D Printing"
 tags:
   - 3d-printing
   - prusa

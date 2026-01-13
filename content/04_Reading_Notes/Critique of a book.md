@@ -26,7 +26,7 @@ B: Envisioned future
 from the book
 ```
 
-
+This is a critique.
 ## Against the illusion of frictionless progress: A response to technological optimism
 
 

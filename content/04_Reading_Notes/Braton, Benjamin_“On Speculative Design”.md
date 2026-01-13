@@ -1,5 +1,5 @@
 ---
-title: Braton, Benjamin (2016) ・On Speculative Design
+title: Braton, Benjamin (2016) — On Speculative Design
 date: 2025-10-26
 tags:
   - reading

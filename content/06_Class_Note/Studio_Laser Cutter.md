@@ -1,9 +1,10 @@
 ---
-title: XFab Laser Cutting Pre-Training
+title: "Studio: Laser Cutting"
 tags:
   - xfab
   - laser-cutting
   - training
+  - class-notes
 date: 2025-09-29
 draft: false
 ---

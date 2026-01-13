@@ -1,5 +1,5 @@
 ---
-title: Pasquinelli, Matteo (2019) ・“Three Thousand Years of Algorithmic Rituals”
+title: Pasquinelli, Matteo (2019)  — “Three Thousand Years of Algorithmic Rituals”
 date: 2025-10-26
 tags:
   - reading

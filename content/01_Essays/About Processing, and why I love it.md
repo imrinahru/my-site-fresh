@@ -7,7 +7,7 @@ summary: same as the title, and I discussed the conundrum of FLOSS
 draft: false
 cover:
 ---
-## TL;DR
+## Overview
 
 The modern FLOSS ecosystem is often co-opted by corporations that exploit unpaid labor for proprietary gain. Processing offers a radical alternative by focusing on **software literacy and community-led funding**, transforming code from a professional skill into a tool for personal and political autonomy.
 
@@ -104,14 +104,14 @@ https://ebb.org/bkuhn/blog/2013/11/13/unpaid-tradeoff.html
 >  This phenomenon is in my opinion an argument for why there is less risk and more opportunity for contributors to copylefted codebases. Copyleft allows for some level of opportunity to the volunteer contributor that doesn't necessarily exist with non-copylefted codebases (i.e., the contributor is assured equal access to later improvements), and certainly doesn't exist with proprietary software.
 
 
-## As a non-profit organization, fundraising
+### As a non-profit organization, fundraise
 
 https://medium.com/processing-foundation/processing-foundation-funding-update-94cddb25a3d9
 
 >  The majority of the donations in 2021 came from artists donating cryptocurrency to the Processing Foundation. Large donations were directed from Erick Calderon, Tyler Hobbs, Casey Reas, Michael Connolly, TAKAWO Shunsuke, Joshua Davis, Shvembldr, Aluan Wang, Monica Rizzolli, Matt DesLauriers, Joonas Toivenen, Jason Ting, and Lia. Donations were also made in other ways from Jared Tarbell, Dmitri Cherniak, Frederik Vanhoutte, and other anonymous donors. Many artists contributed to the Processing 20th Anniversary fundraiser through Hic et Nunc in August 2021, making it our most successful fundraiser to date. We also received many generous donations during our annual fundraiser in December. These individuals have allowed the Foundation’s work to become sustainable for the first time, and have enabled all of the changes we’re announcing through this letter.
 
 
-## and expand the talent base
+### and expand the talent base
 
 Even if a single person cannot borne too much, a mountain of people can share the burden, together the experience might even make it feel like worthwhile.
 
@@ -154,7 +154,6 @@ The Processing Foundation’s 2021 fundraising success—driven by the very arti
 
 
 ---
-
 
 
 ## Links

@@ -13,7 +13,7 @@ date: 2025-09-24
 draft: false
 ---
 
-# Digital Theory — Week 4
+# Digital Theory — Week 4 (Sep24)
 
 ## Lecture & Discussion Notes
 

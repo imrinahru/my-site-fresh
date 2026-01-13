@@ -1,10 +1,11 @@
 ---
-title: SGS Greet & Meet Follow-up
+title: SGS Greet & Meet
 date: 2025-08-30
 tags:
-draft: true
+  - welcoming
+draft: false
 ---
-
+The event marked the starting of my journey in OCAD, Digital Futures for the next 2 years. Here are some notes on the people I met and will be greatly influenced, as well as my initial thoughts before embarking on the graduate research.
 # Ashok Mathur
 
 ## Location

@@ -1,5 +1,5 @@
 ---
-title: Lingo & Tepper (2013) ・"Looking Back, Looking Forward"
+title: Lingo & Tepper (2013) — "Looking Back, Looking Forward"
 date: 2025-11-05
 tags:
   - reading
