@@ -1,16 +1,18 @@
 ---
-title:
+title: Risograph Workshop with Digital Futures Program
 date: 2025-11-16
 tags:
   - event
-location:
+location: OCAD 667 Studio
 draft: false
-summary: |
-  Key takeaway in 20 words.
+summary: This is a key memo for my workshop using Riso and p5.riso
 ---
 
 ## Overview  
-**What / When / Where / Who**  
+
+This is a key memo for my workshop for a beginner to learn about Risograph and how to prepare the design files and operate the Riso machine. I have also talked about p5.js open-source coding environment and its p5.riso library, where people can easily create print-ready files on its web-browser based IDE. I'd love to create more contents that contribute to the bridging of the digital community and the printmaking community. 
+
+The workshop has taken place twice in 2025, one to my Digital Futures cohort in OCAD, and one at InterAccess Creative Coding Community to spread the love for Riso!
 
 ## Key takeaways  
 
@@ -149,7 +151,7 @@ function setup(){
 
 
 ## Slides & media  
-- ![Slide thumbnail](./img/slide.png)  ![[667 Studio - Risograph workshop - October 2025 update.pdf]]
+The slide belongs to the 667 Studio.  ![[667 Studio - Risograph workshop - October 2025 update.pdf]]
 
 ## Related notes  
 
