@@ -1,7 +1,7 @@
 ---
-course: Course Name
-week: Week
-instructor: Instructor Name
+course: "Studio: Kniterate"
+week: "-"
+instructor: "-"
 tags:
   - class-notes
   - theory
@@ -11,123 +11,185 @@ tags:
   - seminar
   - critique
 status: in-progress
-date:
-draft: true
+date: 2025-12-17
+draft: false
 ---
+## Context & Facilities
 
-
-# {{title}} — Week {{week-number}}
-
-
-## Lecture & Discussion Notes
-
-XFab, more fluidity as compared to studios in 100 McCaul, having a textile area? 
-
-Kniterate, requires training, self-taught, contribute to the resources
-
-Out of touch with MAD
-
-DIY French knitting tubes
-Liza Stark, sensor knitting
-
-DIY Circular Knitting Machine
-
-Domestic Flatbed Knitting Machines
-Singer Chunky Knitter 151 
-
-Singer Chunky, all different gauges
-
-Flie Blanchard
-
-AYAB all yarns are beautiful
-Send different patterns 
-ayab-kniting
-specific to brother
-
-Open Knit
-
-Kniterate
-
-Industrial Kniterate
-
-TMU: two stoll knitting machines
-Swedish School of Textiles
-TU Delft
-RISD
-
-Practitioners and universities that use Kniterate
-Supersite, interviews, transcripts
-
-greta grip lee jones, HCD at Carlton, post doc at Queen's
-Resistant fibres, Ottawa, now?
-Hamilton, cotton factory
-
-https://support.kniterate.com/hc/en-us
-
-Sourcing yarn in Canada
-
-Single bed, stocknet 
-Double bed, can do ribs, double gicard, back will be the front
-
-o!jolly!m knitting in the fast lane, sharing the tutorial videos
-
-DAK Design an knit, the first reference 8
-
-Software login: editor.kniterate
-Casting on , roller has to grab the chunk, detach the waist, cast on,  body. cast off
-
-.kc file (compiled file)
-buck file (native file)
-json file, load as k command, ctack
-
-view: stitch tells you back/front
-
-Materials
-- SD card, file must be called command.kc
-- kniterate compatible yarn
-- 
-
-
-Speed is very important, know when to slow the machine down
-
-
-
-
-> *Quick summary of readings, slides, or discussions goes here.*
+Below is a quick memo on what I have learnt on the digital knitting machine that's housed in XFab. It was a precious occasion where I get to know people from the Material Art and Design (MAAD), including Dr. [Lynne Heller,](https://www.lynneheller.com/) who has her studio in the same building, and Carlson, class assistant from the Textile Studio. They are working on [Thinking Through Craft and the Digital Turn (CDT)](https://www.craftandthedigitalturn.com/)which resonated deeply with my interest in the digital craft. 
 
 ---
 
-## Practice & Studio Work
-- **Exercises / Demos:**  
-- **Process Documentation (sketches, images, links):**  
-- **Technical Notes (software, materials, tools):**  
+## Kniterate and Facility Overview (Kick-off)
+
+- **XFab**: Noted as having more _fluidity_ compared to studios at **100 McCaul**.
+    
+- Question of whether XFab includes or should include a textile area (of course it should!).
+    
+- Perceived distance from MAAD.
+    
+- **Kniterate** is an **industrial digital knitting machine**.
+    
+- Requires **training**, but many users are effectively **self‑taught**.
+    
+- Strong culture of **contributing back to shared resources** (tutorials, patterns, troubleshooting).
+    
+### Precedents & DIY Knitting Practices
+
+#### Hand / Low‑Tech
+
+- **DIY French knitting tubes**
+    
+- **DIY circular knitting machines**
+    
+#### Domestic Machines
+
+- **Domestic flatbed knitting machines**
+    
+- _Singer Chunky Knitter 151_
+    
+    - Available in **different gauges**
+        
+
+### Open & Experimental Knitting Communities
+
+- **AYAB (All Yarns Are Beautiful)**
+    
+    - Open‑source project
+        
+    - Pattern sharing
+        
+    - Hardware‑specific (e.g., **Brother machines**)
+        
+- **Open Knit** (open knitting initiatives)
+    
+- **Liza Stark** — sensor knitting
+    
+- **Flie Blanchard**
+    
+
+### From Domestic to Industrial: Kniterate
+
+- **Industrial Kniterate** as a step change from DIY/domestic machines
+    
+- Single machine, digitally controlled, rapid iteration
+    
+#### Bed Types
+
+- **Single bed**
+    
+    - Stockinette
+        
+- **Double bed**
+    
+    - Ribs
+        
+    - Double jacquard
+        
+    - Back can become the front (reversible structures)
+        
+
+### Software & File Workflow
+
+- Software login: **editor.kniterate.com**
+    
+#### File Types
+
+- **.buck** — native Kniterate design file
+    
+- **.kc** — compiled machine command file
+    
+    - Must be named **command.kc**
+        
+- **.json** — can be loaded as a knit command
+    
+#### Machine View
+
+- **Stitch view** indicates **front/back** structure
+    
+
+### Knitting Process (Operational Flow)
+
+1.  **Waste yarn + cast-on**
+    
+2. Knitting until the rollers take fabric and the waste section is complete
+    
+3. Knit the **body**
+    
+4. **Cast off**
+    
+
+### Materials & Hardware
+
+- **SD card**
+    
+    - File must be named **command.kc**
+        
+- **Kniterate‑compatible yarn**
+    
+- Importance of **yarn sourcing in Canada** (availability, specs)
+    
+
+### Speed & Machine Control
+
+- **Speed is critical**
+    
+- Knowing **when to slow the machine down** affects:
+    
+    - Yarn tension
+        
+    - Stitch quality
+        
+    - Machine safety
+        
+
+### Learning Resources & Community Knowledge
+
+- Official support documentation:
+    
+    - Kniterate Help Center (support.kniterate.com)
+        
+- **o!jolly!m —** _**Knitting in the Fast Lane**_
+    
+    - Shared tutorial videos
+        
+- Value of peer‑produced tutorials and informal knowledge
+    
+
+
+### Institutions Using Kniterate
+
+- **TMU** — two Stoll knitting machines (contextual comparison)
+    
+- **Swedish School of Textiles**
+    
+- **TU Delft**
+    
+- **RISD**
+    
+
+### Practitioners & Research Contexts
+
+- **Greta Grip & Lee Jones**
+    
+    - HCD at Carleton
+        
+    - Postdoc at Queen’s
+        
+- Research themes:
+    
+    - **Resistant fibres**
+        
+    - Ottawa (current?)
+        
+- **Hamilton cotton factory** — historical/industrial textile context
+    
 
 ---
 
-## Critique & Feedback
-- **Instructor Feedback:**  
-- **Peer Feedback:**  
+## Knit basics (during the holiday)
 
----
-
-## Reflection & Connections
-- **How does this link theory + practice?**  
-- **Personal Insights / Questions:**  
+One thing that struck me during the session was that, put aside kniterate, I had multiple words about knitting itself that I didn't quite follow. And the winter break offered a great vacant time for me to knit and learn about knitting.
 
 
----
 
-## To-Do & Follow-up
-- [ ] Reading for next class:  
-- [ ] Studio experiment to try:  
-- [ ] Concept to develop further:  
-
----
-
-## Links & Resources
-- Related notes:  
-
----
-
-## Tags
-#class-notes #theory #practice

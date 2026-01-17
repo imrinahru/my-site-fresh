@@ -15,17 +15,17 @@ Artist residencies are rare interruptions to the capitalist "grind," offering a 
 
 ## Context: Why I'm writing about residency and why it matters?
 
-When I first heard the word residency, it came to me as a mystery. Is it a living place? Is it a learning place? or is it a working place? Anyways, it sounded exclusive and highly competitive.
+When I first heard the word residency, it came to me as a mystery. Is it a living space? Is it a learning space? or is it a working place? is it a communal space? For someone who hasn't been exposed to it, they sounded more exclusive and competitive than approachable.
 
 Then I started to learn that there are a range of different residencies, with different budgets, competitiveness, and purposes. 
 
-Some residencies would pay the artists to come, while some would require the artists to pay for the program and stay (just like a vacation package).
+Some residencies would pay the artists to come, while some would require the artists to pay to come (just like a vacation package).
 
-Some would be quite open to emerging artists, and even set a cap on returning artists to make room for the first timers, while others seemed to be only interested in competitive, established artists.
+Some would be quite open to emerging artists, and even set a cap on returning artists to make room for the first timers, while others seemed to be more interested in competitive, established artists.
 
 Some are organized by big national parks and scientific institutions, while others are operated by a couple who happen to have acquired a lovely property and want some artists and friends to come over to make somethings together.
 
-I was surprised to learn that there are so many institutions and places, usually located in a very charming, historical places, seeking to receive artists and designers to stay over and make something during their stay. It's unheard of in any other professions that I have encountered so far. 
+I was surprised to learn that there are so many institutions and places, usually located in a very charming, historical place, seeking to receive artists and designers to stay and make something during their stay. It's unheard of in any other professions that I have encountered so far. 
 
 
 ### The Privilege of the "Productive Pause"
@@ -46,7 +46,7 @@ While residencies feel like neutral spaces of creativity, they carry a "shadow" 
 
 ## The Light
 
-Still, residency can be a hub that allows people to learn about its local culture deeply, such as the faunas around the area, the artistic practices, and the historical stories of the place. 
+Still, residency can be a hub that allows people to learn about its local culture deeply, such as the nature around the area, the artistic practices, and the historical stories of the place. 
 
 Art has always been supported by the rich and the powerful. And artists both suffer from insecure jobs and benefit from generous patrons. The privilege should not deter artists from taking advantage of it, but it is important to realize how privileged it is to be eligible for such an opportunity, and think about the meaning and implications behind the world that works like this.
 

@@ -8,7 +8,7 @@ tags:
 summary: Take digital craft seriously
 status: in-progress
 cover: ./img/<image>.png
-draft: false
+draft: true
 ---
 
 
@@ -90,3 +90,31 @@ How it works:
 3. Brightness increases or decreases between 0窶・55 using `analogWrite()`. Direction flips at each limit for a smooth pulse.
 4. `millis()` timer updates brightness every 10 ms (`fadeInterval`).
 5. Prints raw and mapped sensor values for debugging purposes.
+
+
+## Continued
+
+Later, after a few months, I made this prototype again hoping to achieve a final phases of prototype that's ready for the end of the year Digital Futures Open Show. It didn't go as planned.
+
+I was surprised to re-learn, that even though I thought I knew everything by then, I still stumbled, even if the process was updated, caution points were forgotten, and replacing the materials (and tools) added new considerations, 
+
+Next actions
+
+Some key points that I need to work on:
+
+
+How to keep the tension sensing capacity of the velostat?
+Every time I struggled to keep the pressure sensing range of the velostat when I started to stitch/glue things together. Below are some of the measurements I'm looking to experiment:
+
+1. Replace voltage-divided circuit's resistor with a **potentiometer** that can shift the resist to leave more room for calibration
+2. Update the Arduino code to add in a calibration sequence. So that initially, the lowest and highest value should be monitored and saved, then within that range, change in pressure should be measured
+
+Don't do things that'll add pressure onto the velostat. The fabric layer with some fillings to make a bump worked well in the second prototype when there was no tension on the fabric when it was adhered to the disc. However, in the latest prototype, as I look to "refine the look", which usually meant smoothing out the crease with fixing, it added too much stress to the velostat underneath. 
+
+3. As I learnt to use felt, which I used to just use it as a filling, I can directly make a piece of formed cover for my disc. I won't use glue, since it messed with the surface (which prompted me to paint over and it was a disaster), I want to drill some tiny holes on both outer and inner rims to thread the felted piece with the disc.
+4. Smooth out the edge of the disc, taper it using rotating bits
+5. Use a sew to clean out the thread holder
+
+For both thread holder and threading holes, it seems to be best done after the whole piece is assembled and glued together, since they are too small to be aligned properly. It requires hand, as it's too thick for laser cut, and there would be a arduino living inside.
+
+![[kumihimodisc_InkspaceFile.svg]]

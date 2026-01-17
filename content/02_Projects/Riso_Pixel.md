@@ -19,6 +19,8 @@ In Photoshop, if my understanding is correct, color is divided by
 
 pixelated color schemes based on an image, change the pigment size, print them and display in a series
 
+How can I bring a photo, then divide the color of each pixel into different colors that I'm printing using risograph.
+
 ## Milestones  
 | Date | Target | Done? |
 |------|--------|-------|

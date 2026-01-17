@@ -12,12 +12,31 @@ cover: ./img/<image>.png
 draft: true
 ---
 
-## Goal  
-Describe the change this project aims to create.
+## Context
+
+When making art using Riso, I like to print my things on a postcard size, since it is an easy format to carry an art (unlike a package), it can be one off (as compared to zine), it is semi-functional, and it always felt more accessible than a poster or an art piece that may require a frame or even a space on the wall of some sort. 
+
+So when I printed this poster for my program's Open Show, I was also more than tempted to create a postcard version of it (the very cute illustration came from [Melanie](https://www.melanieyan.com/)). 
+
+**Poster**
+
+![[WhatsApp Image 2026-01-15 at 11.18.11 PM.jpeg]]
+![[WhatsApp Image 2026-01-15 at 11.19.25 PM.jpeg]]
+The poster inundated the campus, thanks to classmates and professors spreading them.
+
+**Postcards!**
+
+![[WhatsApp Image 2026-01-15 at 11.19.14 PM.jpeg]]
+![[WhatsApp Image 2026-01-15 at 11.19.14 PM (1).jpeg]]
+![[WhatsApp Image 2026-01-15 at 11.19.14 PM (3).jpeg]]
+![[WhatsApp Image 2026-01-15 at 11.19.14 PM (2).jpeg]]
+
+While the posters are gone (I don't know where they went, there must be a cemetery for them), but I can still see many students have kept their postcards on their desk, which makes me happy. 
+
+
 
 
 ```
-
 #Syntax
 image(img, x, y, [width], [height])
 image(img, dx, dy, dWidth, dHeight, sx, sy, [sWidth], [sHeight], [fit], [xAlign], [yAlign])

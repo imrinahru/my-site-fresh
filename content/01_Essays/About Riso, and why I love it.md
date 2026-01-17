@@ -5,7 +5,7 @@ tags:
   - essay
   - risograph
 summary: An essay introducing risograph and why I love it
-draft: false
+draft: true
 ---
 
 

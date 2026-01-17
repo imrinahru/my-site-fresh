@@ -3,6 +3,8 @@ title: Game of Life
 date: 2025-07-07
 tags:
   - log
+  - research
+  - hypothesis
 draft: false
 ---
 This is my research note on Conway's GOL. It is the simplest rule-based mechanism that mimics life of a colony and genuinely make you feel like something is alive in there.
@@ -15,7 +17,7 @@ What if a machine is also working on our side? How do we want it to behave?
 
 ---
 
-# Artistic Vision 
+# Concept
 
 _“Using the Game of Life to simulate the act of working—a higher-order representation of human effort and emergent complexity.”_
 

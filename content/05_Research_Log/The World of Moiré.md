@@ -1,5 +1,5 @@
 ---
-title: Moiré
+title: The World of Moiré
 date: 2025-08-01
 tags:
   - project

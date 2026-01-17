@@ -8,7 +8,7 @@ tags:
   - human-machine
   - digitalfabrication
   - digitalcraft
-draft: false
+draft: true
 summary: A sharp account of how digital technology has gradually eroded traditional craft, paired with insights that point toward alternative, more thoughtful ways of making in a computational age.
 link:
 ---
