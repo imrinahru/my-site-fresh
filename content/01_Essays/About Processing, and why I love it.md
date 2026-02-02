@@ -18,12 +18,10 @@ This matters to the **AI Commons** conversation because as AI becomes the new "p
 ## Main Argument
 
 1. **The Extraction Trap:** Standard Open Source has been "softened" into a corporate training ground, where volunteer labor is redirected into building closed-source products.
-    
-2. **Autonomy through Education:** Processing’s success lies in its refusal to just "train workers"; it seeks to "liberate creators" by making the tools of production accessible to those outside the traditional tech pipeline.
-    
+
+2. **Autonomy through Education:** Processing’s success lies in its refusal to just "train workers"; it seeks to "liberate creators" by making the tools of production accessible to those outside the traditional tech pipeline.    
 
 ---
-
 ## Conundrum of Contributing to FLOSS
 
 https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
@@ -45,15 +43,10 @@ Free Software movement has been partially taken over by commercial interests. On
 Another form of cooption is that proprietary software companies have adopted the development practices that originally emerged in the Free Software world:
 
 - distributed version control workflows
-    
 - peer review and collaborative development
-    
 - open bug tracking
-    
 - rapid release cycles
-    
 - community-driven project organization
-    
 
 These practices used to be distinctive features of Free Software. Now they are widely used in companies that build closed, non-public, or secret software.
 
@@ -65,7 +58,6 @@ Originally, contributing was a way to strengthen and sustain the Free Software e
 
 
 ---
-
 ## Are we f$cked up?
 
 I personally feel like it's a pretty fucked up system and I was at my bottom when Linux Foundation demanded that I need to have my company to pay for my sandbox project if I want to contribute to the foundation. There are so many hurdles for it to happen.
@@ -154,18 +146,12 @@ The Processing Foundation’s 2021 fundraising success—driven by the very arti
 
 
 ---
-
-
 ## Links
 
 - [The Ethics of Unpaid Labor](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
-    
 - [Managing Against the Machine](https://medium.com/@shanley/managing-against-the-machine-f6ccd5a6c197)
-    
 - [The Unpaid Tradeoff (Ebb.org)](https://ebb.org/bkuhn/blog/2013/11/13/unpaid-tradeoff.html)
-    
 - [ml5.js: Friendly Open Source Machine Learning](https://itp.nyu.edu/adjacent/issue-3/ml5-friendly-open-source-machine-learning-library-for-the-web/)
-    
 - **Support the Foundation:** Contribute even a small amount to the [Processing Foundation](https://processingfoundation.org/support) to help maintain the "mountain."
 
 ## References

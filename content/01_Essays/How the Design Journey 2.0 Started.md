@@ -5,10 +5,10 @@ tags:
   - essay
   - artificial-intelligence
 summary: One-sentence teaser that will show on the card and in RSS feeds.
-draft: true
+draft: false
 cover:
 ---
-
+# How the Design Journey 2.0 Started
 ## What was wrong
 
 While technology is changing fast, I have been feeling a sense of isolation from the tools and work itself as a UX designer. This seemed like a strange feeling at first, since there were already so many tools to choose from, and there would likely be more in the following days and weeks. It's also more than possible to change jobs, do a different product or service.
@@ -134,8 +134,6 @@ This speculative diagram opens up our mind to a different societal context that 
 When all the identities are added up into one human actor, we want to make sure the person is maximizing the potential, satisfaction, and enjoyment as a human being. When the tool in this case is AI, we can use the diagram to start thinking about and visualizing our relationship with AI in multiple aspects of our life. 
 
 Moreover, I want to emphasize that the roles that I refer to is not limited to professions. It includes any role that we undertake across our life time: a student, a parent, a caregiver, a resident. Current social context values professions that have economic values, but historically devalued other activities that were difficult to attach market values, but nonetheless with unreplaceable intrinsic values. If we try to think about a different possible social context, it's important to recognize this bias in the first place. In a world where the environment suffers from our uncontrolled economic greed, **it's exactly these undervalued activities such as care that uphold the valuable insights in how we should redefine our relationship with work.** And then we will realize that, some work has no room for machine/digi, while others have abundant.
-
-
 
 Going beyond the individual diagram, people with similar social roles in the society as a collective, also has an ideal balance between AI (tool) and human input. Since as a practitioner of a similar activity, there is more often a common language and expectation. The collective diagram may be plotted close to the average of aggregated preferences. So a collective diagram may look something like this: 
 
