@@ -8,6 +8,7 @@ tags:
 draft: false
 ---
 
+# Experiment with Adafruit GEMMA2
 ## About GEMMA2
 https://youtu.be/R5swa3C7OIY?si=-iNveK6-eR-3-K4t
 
@@ -20,9 +21,15 @@ https://beckystern.com/2014/03/19/flora-vs-gemma-which-board-should-i-use/
 - switch
 - sound sensitive
 - vibration sensor: https://beckystern.com/2015/12/02/firewalker-2-0-sneakers-with-gemma/
-- ![[Pasted image 20260115121741.png]]
-- ![[Pasted image 20260115121759.png]]
+![[Pasted image 20260115121741.png]]
+![[Pasted image 20260115121759.png]]
+Source: Adafruit
+
 - doesn't have serial port, can't send data to computer (flora is better for debugging, you can debug in flora and comment out serial commands and load in gemma)
+
+## History
+
+https://www.sparkfun.com/about-lilypad
 
 ## Shopping list
 

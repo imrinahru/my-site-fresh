@@ -10,7 +10,7 @@ tags:
   - terraforming
 status: completed
 date: 2025-09-24
-draft: false
+draft: true
 ---
 
 # Digital Theory — Week 4 (Sep24)

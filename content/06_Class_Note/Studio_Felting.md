@@ -17,7 +17,7 @@ draft: true
 
 # Studio: Felting
 
-Week1
+### Week1
 
 wool
 - raw fibre: lanolin, the grease, moisture on natural wool, don't want to use for felting
@@ -78,6 +78,41 @@ definition, and pulling in of the fibre happens as you stub up and down on the f
 - make use of the loose fibre
 - then as building up, building the density, quite hard
 - Towards the end, you can add more detail by shaping the contour
+
+
+### Week 2
+
+染め for shapes
+- Tsukidashi kanoko
+	- spaced dots binding
+	- binging object into fabrics
+	- seabeed, smaller , bigger objects will give different results
+	- close, regular spacing can be interesting
+- 
+
+
+Weaving
+- interlacing technique
+warp: vertical, need to be strong, 
+weft: horizontal (right and left), anything, wool, acrylic
+- pictorial possibility
+	- diagonal shape
+	- weft doesn't need to go right to left edge
+- selvedge, threads at the edge
+- weft facing, you can only see the weft, covering up the warp thread, designed by weft
+- have a paper design behind
+	- tapestry cartoon
+
+Preparation
+- measure arm length
+- yarn butterfly
+- thread the needle
+Tapestry weaving
+- weave a little header using warp thread
+- 
+- 
+
+
 
 ## Lecture & Discussion Notes
 - **Main Concepts:**  

@@ -9,7 +9,7 @@ tags:
   - laser-cutting
 status: completed
 date: 2025-09-17
-draft: false
+draft: true
 ---
 
 # Digital Fabrication — Week 3 (Sep17)

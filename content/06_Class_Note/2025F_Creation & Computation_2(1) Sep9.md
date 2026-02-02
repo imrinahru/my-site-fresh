@@ -9,7 +9,7 @@ tags:
   - electronics
 status: completed
 date: 2025-09-09
-draft: false
+draft: true
 ---
 
 # Creation & Computation — Week 2-1 (Sep9)

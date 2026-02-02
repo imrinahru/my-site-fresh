@@ -9,7 +9,7 @@ tags:
   - lecture
 status: completed
 date:
-draft: false
+draft: true
 ---
 
 

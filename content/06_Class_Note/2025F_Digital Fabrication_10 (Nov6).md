@@ -10,7 +10,7 @@ tags:
   - vinyl
 status: completed
 date: 2025-11-06
-draft: false
+draft: true
 ---
 
 # Digital Fabrication — Week 10  (Nov6) 

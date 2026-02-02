@@ -77,6 +77,7 @@ TouchDesigner
 - tox for resources
 - d  to show on the background
 - f1 perform mode
+- p property
 
 ---
 

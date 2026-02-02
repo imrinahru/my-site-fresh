@@ -1,14 +1,17 @@
 ---
-title: "{{title}}"
+title: Tiling and Coding
 date: 2025-11-16
 tags:
   - idea
-draft: true
+  - mathmatical-pattern
+  - p5js
+  - risograph
+draft: false
 ---
 
-Write down the spark before it fades. Flesh out later.
 
-Tiling
+## Reference
+
 https://paulbourke.net/geometry/tilingplane/
 
 https://genuary.art/prompts#jan17

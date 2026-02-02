@@ -5,7 +5,7 @@ tags:
   - prusa
   - training
 date: 2025-09-29
-draft: false
+draft: true
 ---
 
 # 3D Printing Pre-Training

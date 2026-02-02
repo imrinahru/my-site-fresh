@@ -8,7 +8,7 @@ tags:
   - lecture
 status: completed
 date: 2025-09-18
-draft: false
+draft: true
 ---
 # Digital Theory — Week 2 (Sep17)
 

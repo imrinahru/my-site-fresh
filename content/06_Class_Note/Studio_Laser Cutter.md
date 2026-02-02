@@ -6,7 +6,7 @@ tags:
   - training
   - class-notes
 date: 2025-09-29
-draft: false
+draft: true
 ---
 
 # XFab Laser Cutting Pre-Training

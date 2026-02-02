@@ -9,7 +9,7 @@ tags:
   - lecture
 status: completed
 date:
-draft: false
+draft: true
 ---
 
 # Creation & Computation — Week 6-1 (Oct7)

@@ -10,7 +10,7 @@ tags:
   - bluetooth
 status: completed
 date: 2025-11-18
-draft: false
+draft: true
 ---
 # Creation & Computation — Week 12-1 (Nov18)
 

@@ -7,7 +7,7 @@ tags:
   - plastic
 status: in-progress
 date:
-draft: true
+draft: false
 ---
 
 ## Notes
@@ -80,41 +80,3 @@ If you are still stuck between HDPE and PP (since both float and both are tough)
     
 - **The Feel:** **HDPE** and **LDPE** feel "waxy" or "soapy" (like a candle). **PP** feels "plasticky" and grippy. **PLA** feels very hard, almost like a ceramic.
 
-
-
----
-
-## Practice & Studio Work
-- **Exercises / Demos:**  
-- **Process Documentation (sketches, images, links):**  
-- **Technical Notes (software, materials, tools):**  
-
----
-
-## Critique & Feedback
-- **Instructor Feedback:**  
-- **Peer Feedback:**  
-
----
-
-## Reflection & Connections
-- **How does this link theory + practice?**  
-- **Personal Insights / Questions:**  
-
-
----
-
-## To-Do & Follow-up
-- [ ] Reading for next class:  
-- [ ] Studio experiment to try:  
-- [ ] Concept to develop further:  
-
----
-
-## Links & Resources
-- Related notes:  
-
----
-
-## Tags
-#class-notes #theory #practice

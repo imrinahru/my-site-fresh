@@ -7,7 +7,7 @@ tags:
   - digital-fabrication
 status: completed
 date: 2025-09-04
-draft: false
+draft: true
 ---
 
 # Digital Fabrication — Week 1 (Sep4)

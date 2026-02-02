@@ -10,7 +10,7 @@ tags:
   - 3d-printing
 status: completed
 date: 2025-10-02
-draft: false
+draft: true
 ---
 
 # Digital Fabrication — Week 5 (Oct9)

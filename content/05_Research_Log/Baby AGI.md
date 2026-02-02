@@ -41,6 +41,6 @@ The ability for agents to create and reuse functions, manage dependencies, and s
 
 ## Human-AI Co-Evolution
 
-Ultimately, Nakajima’s work centers on the idea that building AI is an act of **self-reflection**. Tools like BabyAGI and Ditto embody an ongoing exploration of how we externalize thought, automate intuition, and translate cognitive processes into code. By designing agents that think and act on our behalf, we’re not just outsourcing labor, we’re redefining the boundaries of personal cognition, creativity, and collaboration.
+Nakajima’s work centers on the idea that building AI is an act of **self-reflection**. Tools like BabyAGI and Ditto embody an ongoing exploration of how we externalize thought, automate intuition, and translate cognitive processes into code. 
 
 His projects serve as early blueprints for a future in which everyone might train and fine-tune their own assistant, not only to do work faster, but to better understand themselves in the process.

@@ -10,7 +10,7 @@ tags:
   - digital-craft
 status: completed
 date: 2025-09-25
-draft: false
+draft: true
 ---
 
 # Digital Fabrication — Week 4 (Sep25)

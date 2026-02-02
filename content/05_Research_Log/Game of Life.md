@@ -7,9 +7,9 @@ tags:
   - hypothesis
 draft: false
 ---
-This is my research note on Conway's GOL. It is the simplest rule-based mechanism that mimics life of a colony and genuinely make you feel like something is alive in there.
+This is my note on Conway's GOL. It's the simplest rule-based mechanism that mimics life of a colony that genuinely make you feel like something is alive in there.
 
-In my interest in looking for a symbiotic human-machine (AI) relationship, I became interested in using GOL as a simplified testing ground that can simulate human-machine co-living/working. 
+In thinking about symbiotic human-machine (AI) relationship, I sometimes think about GOL as a simplified testing ground that can simulate human-machine co-living/working. 
 
 A good analogy here is "maintaining a garden", that contains many different forms of lives, some compete with each other, some flourish with each other. And humans are used to be a care giver and give a tiny little helping hand in keeping things alive in the garden. 
 
@@ -159,4 +159,4 @@ Use this color-overprint logic for your physical prints or digital shaders to si
 |**Complex**|[Yellow, Aqua, Purple]|[Yellow, Purple]|[Aqua, Purple]|
 
 ---
-The writing is based on my thoughts, numerous back-and-forth with ChatGPT, Copilot (Github), editing, questioning. It is a preliminary plan that needs to be tested.
+The writing is based on my thoughts, numerous back-and-forth search with ChatGPT, Copilot (Github), editing, questioning. It is a preliminary plan that needs to be tested.

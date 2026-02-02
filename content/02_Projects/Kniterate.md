@@ -3,20 +3,19 @@ course: "Studio: Kniterate"
 week: "-"
 instructor: "-"
 tags:
-  - class-notes
   - theory
   - practice
   - studio
-  - lecture
-  - seminar
-  - critique
+  - digitalcraft
+  - digitalfabrication
+  - knitting
 status: in-progress
 date: 2025-12-17
 draft: false
 ---
 ## Context & Facilities
 
-Below is a quick memo on what I have learnt on the digital knitting machine that's housed in XFab. It was a precious occasion where I get to know people from the Material Art and Design (MAAD), including Dr. [Lynne Heller,](https://www.lynneheller.com/) who has her studio in the same building, and Carlson, class assistant from the Textile Studio. They are working on [Thinking Through Craft and the Digital Turn (CDT)](https://www.craftandthedigitalturn.com/)which resonated deeply with my interest in the digital craft. 
+Below is a quick memo on what I have learnt on the digital knitting machine housed in XFab. The machine became a knot that linked me to people from the Material Art and Design (MAAD), including Dr. [Lynne Heller,](https://www.lynneheller.com/) and Carson, class assistant from the Textile Studio. They are working on [Thinking Through Craft and the Digital Turn (CDT)](https://www.craftandthedigitalturn.com/)which resonated deeply with my interest in the digital craft. 
 
 ---
 
@@ -189,7 +188,58 @@ Below is a quick memo on what I have learnt on the digital knitting machine that
 
 ## Knit basics (during the holiday)
 
-One thing that struck me during the session was that, put aside kniterate, I had multiple words about knitting itself that I didn't quite follow. And the winter break offered a great vacant time for me to knit and learn about knitting.
+The "jacquard" as called in Kniterate term mixes double-knitting with actual jacquard. 
+Jacquard starts from a punch card system that allows people to create intricate images in weave. 
+While double knit creates a thick, double sided knit. 
+In kniterate, a color up to 6 can be used (or 5, since the detaching thread is also included) to create images from a small image. And the backing can have different patterns as well. The machine can do reverse color only when 2 color of threads are used.
+
+Here is a sample of reverse color double-knitting sample that I did by hand to understand how it's made. The smaller one on the left hand-side is knitted with white conductive yarn with pink-purple normal yarn to test how a specific conductive area can be controlled. It turned our quite precise.
 
 
 
+
+
+
+---
+## Details
+
+- From pattern view window, can switch to different views
+	- occupancy, number of stitches on a needle
+- kc file
+- params
+	- miss: blank canvas
+	- front bed (default)
+	- rear bed ()
+- Settings
+	- compiler options
+		- carrier spacing=#of needles between carriers/feeders when they are parked at the edge
+		- default to 2 and 7.5
+		- stopping distance=closest feeder sits from the edge
+- 
+![[Pasted image 20260130132716.png]]
+- Needle pair on the front and rear bed
+- blue: one knit stitch at front
+- pink: knit both fr and rr
+- yellow: knit at rear = purl stitch
+- SO the pic above is first knitting at fr and then rr
+- knitting bed differs by half pitch, the rr bed has been moved/racked half a needle position
+	- rack setting: 0.5
+- miss=slip stitch, the explicit miss can be helpful to force the carriage to move to a certain position
+- tuck = yarn is placed on the needle but is not knitted through the pre-existing loop. it makes a fabric wider
+- https://www.kniterate.com/2023/10/25/basic-knitting-concepts/
+- ![[Pasted image 20260130133938.png]]
+- ![[Pasted image 20260130134135.png]]
+- The beds are at pitch=transfer position
+- ![[Pasted image 20260130134305.png]]
+- 2 rows to transfer
+	- kniterate never transfer adjacent needles
+	- it goes one way and then goes the other way in the second row
+	- front bed is transferred to the back (↑)
+	- then 2 rows of back
+	- then from back transferred back to front (↓)
+	- https://www.youtube.com/watch?v=SEzD8J5iZxs
+
+- Yarn
+	- singles
+	- ply = # of singles to create a yarn
+	- ends =# of yarns in a single feed

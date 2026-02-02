@@ -9,7 +9,7 @@ tags:
   - artificial-intelligence
 status: completed
 date: 2025-10-08
-draft: false
+draft: true
 ---
 
 # Digital Theory — Week 6 (Oct8)

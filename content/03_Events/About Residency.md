@@ -33,7 +33,8 @@ I was surprised to learn that there are so many institutions and places, usually
 
 Whether it is a boat residency in the Arctic or a studio in Paris at the **Cité internationale des arts**, these spaces offer a break from the "regular routine." It is a profound privilege for any profession to have this kind of opportunity, as seen in the **BANFF Centre**, where Yann Martel birthed _Life of Pi_. 
 
-People might argue that artist can create better art when they can self-direct, and get inspirations from good, changing surroundings. But that seem to apply to any humanity. It is the world order that we live by that have contingently determined that the artists are given such opportunity while other laborers are not.
+People might argue that artist can create better art when they can self-direct, and get inspirations from good, changing surroundings. But that seem to apply to any human being
+. It is the world order that we live by that have contingently determined that the artists are given such opportunity while other laborers are not.
 
 ### The Colonial Shadow
 

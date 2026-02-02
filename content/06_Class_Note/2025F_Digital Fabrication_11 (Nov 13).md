@@ -11,7 +11,7 @@ tags:
   - generative-design
 status: completed
 date: 2025-11-13
-draft: false
+draft: true
 ---
 
 # Digital Fabrication — Week 11 (Nov13)

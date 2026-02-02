@@ -130,3 +130,6 @@ Another thing that I'd love to try is to rethink current agentic designs, especi
 6. Be a Robinhood
 7. Be an Educator
 8. Be a Maker
+
+Resonated readings
+[AI語りについて思うこと](https://baku89.com/AI%E8%AA%9E%E3%82%8A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%80%9D%E3%81%86%E3%81%93%E3%81%A8)

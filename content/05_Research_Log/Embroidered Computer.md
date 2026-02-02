@@ -1,5 +1,5 @@
 ---
-title: Embroidered Electronics (and a Computer)
+title: Embroidered Computer
 date: 2025-10-11
 tags:
   - idea
@@ -10,6 +10,8 @@ tags:
 draft: false
 ---
 
+# Embroidered Computer
+
 ## Context
 
 https://ireneposch.net/stitching-worlds/
@@ -19,7 +21,7 @@ https://ireneposch.net/stitching-worlds/
 >  What if electronics emerged from knitting, weaving and embroidery? How would technology be different if craftspeople were the catalyst to the electronics industry, via textiles manufacturing?
 
 
-## Rough Plan
+## Plan
 
 1. Try different types of stitching on the translucent organza material
 2. Understand the basics of circuit board and schematics
@@ -30,8 +32,18 @@ https://ireneposch.net/stitching-worlds/
 7. A layer + an object (just an idea: covering the infamous atomic bomb as both sides of computation)
 8. Create a multi-layered silk installation
 
-## 8-bit Computer
-- [ ] https://eater.net/8bit/parts
+
+## Experiment with 1 tiny bit (1/0)
+
+
+
+![[WhatsApp Video 2026-01-26 at 9.02.21 AM.mp4]]
+
+
+## Reference
+
+### Conventional 8-bit Computer
+https://eater.net/8bit/parts
 
 https://eater.net/8bit/kits
 https://www.youtube.com/watch?v=HyznrdDSSGM
@@ -39,7 +51,153 @@ https://www.instructables.com/Making-an-8-Bit-Computer/
 https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all
 
 
-## Machine Learning with 8-bit
+### Clock 
+Why you need a clock
+1. load input
+2. multiply
+3. add
+4. threshold
+5. output
+Each step(eg. perceptron) needs a timing signal.
+Industrially, 555 timer, microcontroller are used
+
+
+
+### Machine Learning with 8-bit
+
+The basic formula: 
+y=sign(∑wi​xi​+b)
+
+On an 8-bit system, that means:
+- integer or fixed-point math
+- very small input vector (2–8 inputs)
+- _inference first_, training optional
+
+### Inference, constant weight, and ROM
+
+What is meant by inference?
+In a classical perceptron, there are **two distinct phases**:
+1. **Training**
+    - Weights are updated
+    - Learning rule applied
+2. **Inference**
+    - Weights are fixed
+    - System only computes output
+
+The fabric 8-bit computer is designed to perform **inference**, not training, since the program flow assumes weight₁, weight₂, … are **constants**.
+So architecturally weights are _read-only parameters_, not variables.
+
+This suggests **ROM, not RAM**.
+with ROM weights:
+- `MUL k` simply:
+    - selects weight line `k`
+    - feeds it into multiplier
+    - no state change
+k is based on material.
+
+### Why inference rather than training?
+
+The biggest reason is the feasibility, but there's also a philosophical choice that I consciously made. 
+
+In normal computers, execution = interpreting symbolic instructions, where program and data live in the same abstract space.
+
+learning-as-execution hides:
+- effort
+- material cost
+- irreversibility
+
+In fabric computer, execution = physical signal propagation. There is not material structural change, execution is time passing through a fixed textile structure.
+
+One idea that can be explored is: Learning = changing the textile, not the execution
+- The textile _is_ the model
+- Updating the model means rebuilding part of the machine
+
+This design makes explicit what modern ML hides:
+- learning consumes resources
+- learning changes infrastructure
+- learning is not free
+- learning leaves traces
+
+In a fabric computer:
+- every learned change has:
+    - a tactile cost
+    - a visible history
+    - a labor footprint
+
+“Visible history” refers to the fact that learning in the system produces irreversible material traces—stitches, patches, deformations, and repairs—that make the system’s past states and interventions legible in its present form.
+
+In conventional machine learning:
+- Weight updates are numbers in memory
+- Old values are overwritten
+- There is no trace of _how_ a model arrived at its current state
+The system has **no memory of its past**, only its current parameters. But in a fabric-based ML system,
+- Weights are not overwritten
+- They are **physically altered**
+- Previous states are not fully erased
+In summary:
+
+| Digital ML           | Fabric ML            |
+| -------------------- | -------------------- |
+| Weight update        | Material alteration  |
+| Overwrite            | Accumulation         |
+| Invisible training   | Legible intervention |
+| Clean state          | Patched state        |
+| Forgetting by design | Memory by residue    |
+
+This aligns with:
+- craft traditions (repairs are legible)
+- feminist and care-centered technologies
+- Illich’s critique of opaque tools
+- post-digital material ethics
+
+It is building a system where intelligence leaves marks.
+And where those marks:
+- slow future change
+- constrain behavior
+- demand care
+
+Decision emerges from accumulated material interactions =
+The output bit is not computed symbolically, but arises only after currents, delays, resistances, and physical propagation across the textile have collectively stabilized into a state that crosses a comparator boundary.
+Philosophy = circuit diagram
+
+(Generated with ChatGPT)
+
+
+
+Different ways of doing:
+1. Material computation
+	- The _program_ is the textile topology
+	- The weights are literally stitched
+	- Reprogramming = re-stitching or patching
+- It's not
+	- Training (unless manual)
+	- Precise repeatability
+- Only need comparator IC (LM393 or similar) to output "neuron"
+
+2. Digital fabric computer + perceptron in microcode
+	- Hand-written assembly/microcode
+	- 
+	- 
+
+|Opcode|Meaning|
+|---|---|
+|LOAD|Load input into register|
+|MUL|Multiply input × weight|
+|ADD|Add to accumulator|
+|CMP|Compare with threshold|
+|JMP|Jump to next step|
+
+```
+Step 1: LOAD input_1
+Step 2: MUL weight_1
+Step 3: ADD accumulator
+Step 4: LOAD input_2
+...
+```
+
+
+
+### Other readings:
 
 https://petewarden.com/2015/05/23/why-are-eight-bits-enough-for-deep-neural-networks/
 https://blog.lessaworld.com/2025/03/09/running-a-perceptron-on-an-8-bit-computer/
@@ -53,7 +211,7 @@ https://medium.com/data-science/ultra-tinyml-machine-learning-for-8-bit-microcon
 > 
 > The goal? To use Perceptrons to model simple logic gates (AND, OR, NOT) – the building blocks of computation.
 
-## Textile 8-bit Computer
+## Irene's Textile 8-bit Computer
 
 ![[レコーディング 2025-10-11 210533.mp4]]
 ![[assets/img/embroidered_computer.png]]
@@ -62,7 +220,7 @@ https://medium.com/data-science/ultra-tinyml-machine-learning-for-8-bit-microcon
 ![[2851581.2891101.pdf]]
 ![[StitchingWorlds_Book_Kurbak_Ed__1_May2019_PDF-A.pdf]]
 
-## Process
+### Process reference
 
 1 Bit
 - https://www.kobakant.at/DIY/?p=5915
@@ -103,10 +261,14 @@ Community
 - [documentation](https://www.stitchingworlds.net/experimentation/towards-crafting-a-computer-testing-the-alu/)
 ![[Pasted image 20260115070407.png]]
 
+## Important questions/areas
 
+- Goldwork, craft, history/narrative of the object: uselessness or richness? Flattened world
+- Digital materiality, history/narrative of the digital: hidden, clean or disorderly
 
 
 ## General Links and Resources
+
 - [KOBAKANT](https://www.kobakant.at/DIY/?cat=179)
 - https://www.stitchingworlds.net/
 - http://ireneposch.net/the-embroidered-computer/
@@ -120,6 +282,6 @@ Things that got me interested in:
 
 [Other mechanisms](https://www.kobakant.at/DIY/?p=5878)
 
-Mending with embroidery
-- Create a model house with switches and other electronics rethought
-- light switch, a clock, a computer, a timer
+- Mending with embroidery
+	- Create a model house with switches and other electronics rethought
+	- light switch, a clock, a computer, a timer

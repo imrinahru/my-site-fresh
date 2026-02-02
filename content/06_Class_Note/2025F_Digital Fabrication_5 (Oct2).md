@@ -9,7 +9,7 @@ tags:
   - class-notes
 status: completed
 date: 2025-10-02
-draft: false
+draft: true
 ---
 
 

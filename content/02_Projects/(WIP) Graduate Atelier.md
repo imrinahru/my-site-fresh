@@ -1,5 +1,5 @@
 ---
-title: "Riso: Print 3D!"
+title: Graduate Atelier
 date: 2025-11-16
 tags:
   - project
@@ -10,10 +10,11 @@ cover: ./img/<image>.png
 draft: true
 ---
 
-## Context  
 
-Shader is something I have always been interested in due to its immense power to manipulate each pixels of both 2D and 3D visuals. However, it does have a steeper learning curve. Even though p5.js has helped to lower the bar, with ... and ..., but I have always 
 
+
+## Goal  
+Describe the change this project aims to create.
 
 ## Milestones  
 | Date | Target | Done? |
@@ -27,3 +28,13 @@ Shader is something I have always been interested in due to its immense power to
 ## Log  
 - Kick-off note.
 
+
+
+![[Pasted image 20260126202448.png]]
+![[Pasted image 20260126202254.png]]
+
+
+## Reference
+
+
+https://www.akanemoriyama.com/works/14-2-membran.html

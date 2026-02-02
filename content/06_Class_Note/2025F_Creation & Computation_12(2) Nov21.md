@@ -9,7 +9,7 @@ tags:
   - sensors
 status: completed
 date: 2025-11-21
-draft: false
+draft: true
 ---
 # Creation & Computation — Week 12-2 (Nov21)
 

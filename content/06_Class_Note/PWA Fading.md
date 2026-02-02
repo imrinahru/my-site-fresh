@@ -1,10 +1,13 @@
 ---
-title:
-date:
+title: PWA Fading
+date: 2025-10-01
 tags:
   - log
+  - electronics
 draft: true
 ---
+# About PWA Fading
+
 PWM Fading uses [Pulse Width Modulation](https://www.google.com/search?q=Pulse+Width+Modulation&oq=PWM+Fading&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yBwgCEAAY7wUyBwgDEAAY7wUyBwgEEAAY7wUyBwgFEAAY7wUyBwgGEAAY7wXSAQczMDlqMGo3qAIIsAIB8QXQ6igpSqElkA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwjh1LHu5Y2SAxWHMzQIHasDM74QgK4QegQIARAE) to create a gradual dimming or brightening effect (like fading) by rapidly switching a digital output on and off, changing the _[duty cycle](https://www.google.com/search?q=duty+cycle&oq=PWM+Fading&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yBwgCEAAY7wUyBwgDEAAY7wUyBwgEEAAY7wUyBwgFEAAY7wUyBwgGEAAY7wXSAQczMDlqMGo3qAIIsAIB8QXQ6igpSqElkA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwjh1LHu5Y2SAxWHMzQIHasDM74QgK4QegQIARAF)_ (on/off ratio) to simulate analog brightness levels.
 
 How it Works

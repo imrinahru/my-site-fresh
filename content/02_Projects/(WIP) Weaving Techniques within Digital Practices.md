@@ -1,9 +1,9 @@
 ---
-title: 2025-10-15 — 3D Printing with Biomaterials
-date: 2025-10-15
+title: Weaving Techniques within Digital Practices
+date: 2025-11-12
 tags:
   - event
-location: InterAccess
+location:
 draft: true
 summary: |
   Key takeaway in 20 words.

@@ -7,12 +7,12 @@ tags:
   - textile
 summary: Take digital craft seriously
 status: in-progress
-cover: ./img/<image>.png
-draft: true
+cover:
+draft: false
 ---
 
 
-The project is part of the experimentation I did in Creation & Computation class at OCADU, in fall 2025.
+The project is part of an experimentation I did in Creation & Computation class at OCADU, in fall 2025.
 
 
 

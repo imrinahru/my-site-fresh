@@ -3,10 +3,9 @@ title: "Riso: Experimenting Moiré"
 date: 2025-11-16
 tags:
   - project
-summary: |
-  Elevator-pitch description (appears on the card).
-status: idea
-cover: ./img/<image>.png
+summary:
+status: in progress
+cover: "-"
 draft: true
 ---
 

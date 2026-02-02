@@ -9,7 +9,7 @@ tags:
   - planetarity
 status: completed
 date: 2025-11-19
-draft: false
+draft: true
 ---
 
 # Digital Theory — Week 12 (Nov19)

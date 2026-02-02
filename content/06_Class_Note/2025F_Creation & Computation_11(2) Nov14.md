@@ -9,7 +9,7 @@ tags:
   - lecture
 status: completed
 date: 2025-11-14
-draft: false
+draft: true
 ---
 
 

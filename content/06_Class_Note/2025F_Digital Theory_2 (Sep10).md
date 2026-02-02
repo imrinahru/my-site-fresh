@@ -8,7 +8,7 @@ tags:
   - "#cybernetics"
 status: completed
 date: 2025-09-10
-draft: false
+draft: true
 ---
 
 # Digital Theory — Week 2 (Sep10)

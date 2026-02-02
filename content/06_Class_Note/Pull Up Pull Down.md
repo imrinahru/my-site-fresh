@@ -1,10 +1,13 @@
 ---
 title: Pull Up Pull Down
-date: 2025-01-15
+date: 2025-10-15
 tags:
   - log
-draft: false
+  - electronics
+draft: true
 ---
+# About pull up and pull down
+
 Personally I struggled the most with the concept of pull up and pull down when I first used Arduino. These 2 diagrams that I draw to myself often help me to make sure that I'm doing what I want to do:
 ![[InkspaceFile.png]]
 

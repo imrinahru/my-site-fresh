@@ -12,6 +12,175 @@ draft: true
 summary: A sharp account of how digital technology has gradually eroded traditional craft, paired with insights that point toward alternative, more thoughtful ways of making in a computational age.
 link:
 ---
+Some more thoughts based on McCullough's paper published in 2015.
+
+> Today when aspiring designers self- describe as “post-digital,” this questionable epithet does contain a meaningful wish for a general tactility. 
+
+TEI: Tangible, Embedded, and Embodied Interaction, [2015 conference](https://dl.acm.org/doi/proceedings/10.1145/2677199)
+
+>  Jerome Bruner, who was well known among HCI pioneers, had remarked: “The production of creative surprise demands the masterful control of a medium. It is not the act of spontaneous seizure. . . How curious that surprise grows in the soil of grinding work” [2].
+
+>  Silicon Valley’s core belief that you can never have enough tools, or that old tools are bad tools, does not sit well with more timeless notions of craft.
+
+>  So to qualify this objection, retrospect suggests the lament was, and still is, mainly one of haptics. However separately they have done so, notions of digital craft and tangible interface have each come a long way in twenty years; yet the experience of haptics in everyday form-giving digital work has not. 
+
+> [!NOTE] Title
+> Disagree that haptics is the solution, haptics is only generated digitally, simulated, is it real? 
+> Like you want to listen to the sound of a tree falls in a forest that has nobody in it, does remote haptic solves your request? Hardly, and what's the point? 
+
+
+>   It could identify the 1990s as the origin of digital craft, the 2000s for a remarkable rise and diversification of its media, and the 2010s for its becoming more tangible. 
+
+
+1. Begin from studio culture.
+>  As activity theory so often explains, embodied contexts of practices really matter. 
+>  Studios combine community of practice, open-ended tools, conversational props, and interpretive venues. The notion of craft fits this better than one of art, research, or industry does, even if studio craft somewhat involves elements of each of those.
+
+>  into the 2010s, studio culture increasingly complements software-based representations with tangibly prototyped realities. Distinct from the library or the lab, the studio is not just for making–often making by hand, almost always making with personal knowledge and commitment–but also about it.
+
+2. Playful explorations in rich software media
+
+>  To the hand, physical structures come first in affording play, but conceptual and operational structures also count. Much as one plays a musical instrument, one could ideally play a good digital technology.
+
+Ultimately, the source code/machine needs to be modified by the user.
+
+3. Digital fabrication
+
+>  this has validated “research through making.”
+
+> [!NOTE] Craft
+> Not as hand skill alone
+> But as **procedural, material, and machinic intelligence**
+> This is where digital fabrication begins to look like **craft**, not just engineering.
+
+digital fabrication introduces **epistemic materiality**: Materials are no longer just outputs, but sources of knowledge.
+>  And yet the costly gear seems a step back from ownership by the artisan, which the personal computer had provided as a first basis for digital craft. 
+
+4. Public interactive art
+
+>  As in food, so in technology, today countercultural stance is slow and local. 
+
+5. do it yourself maker culture
+
+>  Something about the bricolage of assembling integrative prototypes from stocks of modules and open source components certainly has aspects of craft.
+
+>  And yet it seems very little like the reflective flow of probing the contours of a continuous medium, that has been so important to other notions of craft
+
+Frank Wilson: the articulate hand
+
+>  one could generalize craft as: distal; kinesthetic; holding tools but more vitally sweeping contours of a medium; flow rates also important (Figure 2).
+
+![[Pasted image 20260127163225.png]]
+
+> By contrast, the twenty year trends surveyed in this paper often seem: **too discrete, as in selecting and connecting components; weakly conducted, as the hand apprehends but does not shape the work; and seldom so topographical to allow creative discovery by taking hold**, to put it in Sudnow’s words. 
+
+
+>  Glenn Adamson does, that “there is no craft without motion”
+
+
+> [!NOTE] Craft is motion
+> A crafted object is a _trace_ of motion, not the essence of craft itself.
+> - Weaving = repetitive hand motions
+> - Throwing pottery = continuous bodily adjustment
+> - Sewing = rhythmic, directional movement
+
+
+>  as influential HCI researcher Paul Dourish has done, that embodied cognition is often “pre-ontological”, i.e. without mental object representation
+
+
+> [!NOTE] Craft knowledge
+> - Craft cannot be fully captured by plans, models, or digital representations
+> - Craft resists abstraction into code or diagrams
+> - > If digital systems eliminate or marginalize motion-based, pre-ontological hand knowledge, they are not just changing tools, they are changing what _counts_ as knowing.
+> - Criticizes automation without embodiment, digital craft without hands
+
+
+> [!NOTE] Cultural Critique
+> - Screen-based culture
+> - Visual dominance in digital interaction
+> - remove resistance, texture, or force feedback
+> - bypass the hand entirely
+> - Interfaces designed primarily for seeing, not touching
+> - The hand is reduced to: clicking, tapping, swiping,
+> - Rather than: shaping, resisting, negotiating material
+> - Some digital processes operate autonomously, yet designers still frame them as Empowering, Tool-like, Craft-enabling
+
+
+> [!NOTE] Distal touch
+> - **Proximal touch** = sensations at the skin (pressure, vibration
+> - **Distal touch** = perception of _something beyond the skin_ through touch, using tools
+
+
+
+> [!NOTE] Title
+> Wilson emphasized:
+> - The hand–thought–language nexus
+> - Touch preceding representation
+> 
+> Fulkerson adds:
+> - How touch works **through mediation**
+> - How tools can preserve tactile intelligence
+> Together they explain how craft remains embodied even when mediated by instruments or systems.
+
+>  Researchers forget that such practice is an end in itself. In craft, what you are really working on is yourself.
+
+
+> [!NOTE] Title
+> > The practitioner is part of the system being studied.
+> 
+> This makes craft difficult to fit into:
+> - Experimental psychology
+> - Formal HCI models
+> - Metrics-driven evaluation
+
+> “In ignoring the extent to which people can invest themselves in their work…”
+> Wilson
+
+> [!“invest themselves” ]
+> 
+> - Emotional commitment
+>     
+> - Bodily engagement
+>     
+> - Identity formation
+>     
+> - Long-term devotion
+>     
+> 
+> Haptics research often treats:
+> 
+> - Touch as a sensory channel
+>     
+> - The body as an input/output device
+>     
+> 
+> It misses:
+> 
+> - Motivation
+>     
+> - Meaning
+>     
+> - Personal stake
+
+It reminded me of a meeting with visiting professors in craft, that when they have been prompted to pick the most important topics to cover in their book on digital craft, they have put extra emphasis on the importance of "patience", which at first sounded to me as odd in comparison to other words, such as "sustainability", "AI", etc.
+
+### “Prowess in release”
+- Skill lies not in applying force
+- But in **knowing when and how to let go**
+
+Mastery is expressed as:
+- Timely relaxation
+- Reduction of pressure
+- Withdrawal at the right moment
+
+This is very hard to study in lab-based haptics research because:
+- It is momentary
+- It is negative (absence of force)
+- It is context-sensitive
+- It is learned through long practice
+
+![[HandInDigitalCraft.pdf]]
+
 
 Digital fabrication tools and communities have opened up possibilities for makers, but how do we uphold _subjectivity_ and _personal skill_ when working with increasingly abstract, automated, and networked tools?
 

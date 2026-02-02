@@ -12,7 +12,7 @@ summary: This is a key memo for my workshop using Riso and p5.riso
 
 This is a key memo for my workshop for a beginner to learn about Risograph and how to prepare the design files and operate the Riso machine. I have also talked about p5.js open-source coding environment and its p5.riso library, where people can easily create print-ready files on its web-browser based IDE. I'd love to create more contents that contribute to the bridging of the digital community and the printmaking community. 
 
-The workshop has taken place twice in 2025, one to my Digital Futures cohort in OCAD, and one at InterAccess Creative Coding Community to spread the love for Riso!
+The workshop has taken place twice in 2025, one to my Digital Futures cohort in OCAD, and one (more like a presentation) at InterAccess Creative Coding Community.
 
 ## Key takeaways  
 
@@ -163,7 +163,7 @@ https://wrenmcdonald.com/
 https://www.natalieandrewson.com/
 https://www.jasminesillustrations.co.uk/portfolio-collections/my-portfolio/project-title-1
 
-### Glossary
+### (Basic) Color Glossary
 |Term|Meaning|
 |---|---|
 |**Hue**|Pure color (red, blue, green)|

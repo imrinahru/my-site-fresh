@@ -9,7 +9,7 @@ tags:
   - posthuman
 status: completed
 date: 2025-11-05
-draft: false
+draft: true
 ---
 # Digital Theory — Week 10 (Nov5)
 
