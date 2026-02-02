@@ -4,7 +4,7 @@ layout: default
 summary: Week-by-week notes across courses (Creation & Computation, Digital Fabrication, Digital Theory, etc.).
 ---
 
-Class notes from OCAD University courses including Creation & Computation, Digital Fabrication, Digital Theory, and more.
+Class notes from OCAD University's Graduate program.
 
 <ul>
 {%- assign classnotes = site.pages

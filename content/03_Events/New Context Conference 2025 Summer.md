@@ -101,7 +101,8 @@ We often mistake legal compliance for ethical behavior. True civic values—trus
 
 Experts are trained in narrow domains. Policymakers and engineers often exist in epistemic bubbles. Expertise is not omniscience, and we must start by acknowledging the limitations of knowledge. Only through disillusionment can we reach meaningful clarity.
 
-![[disillusionment_tenzin priyadarshi.png]]
+![disillusionment]({{ '/content/assets/img/disillusionment_tenzin-priyadarshi.png' | relative_url | uri_escape }})
+![[disillusionment_tenzin-priyadarshi.png]]
 
 
 #### Toward a Narrative We Can Live With
@@ -111,9 +112,6 @@ Muriel Rukeyser wrote, “The universe is made of stories, not atoms.” Without
 If this question is not answered, we become no more than couch potatoes looking at the world from the outside.
 
 ![[couching_sipress_tenzin priyadarshi.png]]
-
-
-
 
 
 ---
