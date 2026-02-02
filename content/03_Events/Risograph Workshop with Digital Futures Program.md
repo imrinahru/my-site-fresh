@@ -1,5 +1,5 @@
 ---
-title: Risograph Workshop with Digital Futures Program
+title: Risograph Workshop with Digital Futures Program (2025)
 date: 2025-11-16
 tags:
   - event

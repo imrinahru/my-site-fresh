@@ -1,5 +1,5 @@
 ---
-title: 2025-06-20 — LF AI & Data Japan RUG Meetup
+title: LF AI & Data Japan RUG Meetup (2025-06-20)
 date: 2025-06-20
 tags:
   - event

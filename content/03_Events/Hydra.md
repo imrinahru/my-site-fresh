@@ -1,5 +1,5 @@
 ---
-title: Hydra for all!
+title: Hydra for all! by Sara Imrisek (2025-10-25)
 date: 2025-10-25
 tags:
   - event

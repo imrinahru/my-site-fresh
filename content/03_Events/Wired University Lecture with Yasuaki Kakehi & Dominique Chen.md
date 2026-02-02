@@ -1,5 +1,5 @@
 ---
-title: 2025-06-25 — Wired University with Yasuaki Kakehi, Dominique Chen
+title: Wired University with Yasuaki Kakehi, Dominique Chen (2025-06-25)
 date: 2025-06-25
 tags:
   - event

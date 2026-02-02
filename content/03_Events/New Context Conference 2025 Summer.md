@@ -1,5 +1,5 @@
 ---
-title: 2025-06-30 — New Context Conference 2025 Summer
+title: New Context Conference 2025 Summer (2025-06-30)
 date: 2025-06-30
 tags:
   - event

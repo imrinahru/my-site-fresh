@@ -1,5 +1,5 @@
 ---
-title: 2025-06-26 — AI Agent Meetup by AI Alliance
+title: AI Agent Meetup by AI Alliance (2025-06-26)
 date: 2025-06-26
 tags:
   - event

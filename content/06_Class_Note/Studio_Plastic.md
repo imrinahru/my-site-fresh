@@ -10,9 +10,8 @@ date:
 draft: false
 ---
 # Plastics
-## Notes
 
-General knowledge about plastics
+General notes on plastics as a medium/material
 
 - modern plastics comes from crude oil
 
