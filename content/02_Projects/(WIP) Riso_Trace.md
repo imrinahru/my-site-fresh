@@ -10,7 +10,6 @@ cover: ./img/<image>.png
 draft: true
 ---
 
-## Goal  
 
 Print layers that mimic the layers of traces left by moving objects
 
@@ -26,17 +25,4 @@ The object can be:
 
 
 
-
-
-## Milestones  
-| Date | Target | Done? |
-|------|--------|-------|
-|      |        |       |
-
-## Stakeholders  
-- Community / partner 1  
-- 
-
-## Log  
-- Kick-off note.
 

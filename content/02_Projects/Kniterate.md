@@ -174,9 +174,50 @@ Here is a sample of reverse color double-knitting sample that I did by hand to u
 	- then [from back transferred back to front](https://www.youtube.com/watch?v=SEzD8J5iZxs)
 
 - Yarn
-	- singles
+	- singles, not recommended on kniterate
 	- ply = # of singles to create a yarn
-	- ends =# of yarns in a single feed
+	- ends =# of yarns in a single feed (eg. two yarns might be correct weight)
+	- Yarn per pound (ypp)
+	- Woolen count/ wool run
+	- Ne (cotton count) cc 2ply
+	- wc  (worsted count) wc 2ply
+	- NM (metric count) 1000m/kg
+		- nm 6.00 to 8.00
+		- run 1.86 to 2.48
+		- ne 3.50 to 4.70
+			- In 4.00 (8/2), 8 is weight, 2 is ply for cotton
+		- wc 5.30 to 7.10
+			- In 6.00 (2/12), 12 is weight, 2 is ply for wool
+			- 
+		- 3000 ypp to 4000 ypp
+	- Handknitting, its around the range for lace
+	- thinner as the number goes up
+	- Yarn balance: Use Beesley/McMoran to check weight of a yarn
+
+Design
+- 1 by 1 rib: 1 welt of knitting on the front, 1 welt at back
+- garter stitch
+	- transfer stitches to the opposite bed after every row
+- ridges
+
+
+![[Pasted image 20260206121535.png]]
+- width = # of needles
+- height = # of rows
+- free edit layer
+![[Pasted image 20260206121729.png]]
+![[Pasted image 20260206122403.png]]
+![[Pasted image 20260206122429.png]]
+- Transfer rear bed stitches to front bed is needed so that already knited stitchdo not build up at unused needles
+![[Pasted image 20260206122638.png]]
+- {10, 10}: 1st place = needle #, 2nd place = row #
+- yarn used
+- what stitch is use
+- add a row
+![[Pasted image 20260206122833.png]]
+- Quicker way to do transfer
+![[Pasted image 20260206124934.png]]
+- 
 
 
 ## Reference

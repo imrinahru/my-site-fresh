@@ -5,7 +5,7 @@ tags:
   - log
   - experiment
   - wearable
-draft: false
+draft: true
 ---
 
 # Experiment with Adafruit GEMMA2

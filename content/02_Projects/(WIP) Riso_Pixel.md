@@ -9,16 +9,12 @@ status: idea
 cover: ./img/<image>.png
 draft: true
 ---
+Pixel manipulation done in p5.js and printed.
 
-Divide pixels into 2~3 color layers that's printable by Riso.
 
-In Photoshop, color is usually divided by
-- either, shade (darkness)
-- or, tone (color, usually cmyk)
 
+Next:
 pixelated color schemes based on an image, change the pigment size, print them and display in a series
-
-How can I bring a photo, then divide the color of each pixel into different colors that I'm printing using risograph.
 
 
 If you are using a photo, render by image(), reference as below:

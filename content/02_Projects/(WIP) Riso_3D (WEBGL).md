@@ -3,17 +3,59 @@ title: "Riso: Print 3D!"
 date: 2025-11-16
 tags:
   - project
-summary: Elevator-pitch description (appears on the card).
-status: idea
-cover: ./img/<image>.png
-draft: true
+summary:
+status: in progress
+cover: "-"
+draft: false
 ---
 
-## Context  
+## Context
 
+As an attempt to try more color mixing and gradation in riso, I tried to directly capture 3D render with buffer texture in p5.js, and also separate colors in the same program using p5.riso.
+
+![[img002.jpg]]![[img001.jpg]]
+
+## Code
+
+**Global Variables:**
+
+- `purple, aqua, orange`: Riso color layer objects (from p5.riso library)
+- `cubeGraphics[]`: Array of 6 graphics buffers (one per cube face)
+- `rotationAngle`: Controls 3D rotation
+- `autoRotate`: Toggle for automatic/manual rotation
+- `cubeSize`: Dimension of cube faces
+
+1. Uses **WEBGL** mode for 3D rendering
+2. Initializes **Riso color layers** for export
+3. Creates separate **graphics buffers** for each face
+```
+  // Create graphics buffers for each cube face
+  for (let i = 0; i < 6; i++) {
+    cubeGraphics[i] = createGraphics(cubeSize, cubeSize);
+  }
+  
+  renderCubeFaces();  // Generate textures
+}
+
+```
+
+
+
+
+https://editor.p5js.org/imrinahru/sketches/_rCc5P8hT
+
+
+## More things to try for buffer gradation texture
+
+
+## Use vertex for any forms
 
 ## Buffer as a texture
+
+Sample code:
+
 ```
+
 let buffer_texture;
 let buffer_dim = 400
 
@@ -30,9 +72,9 @@ palette = ["#0077e1", "#f5d216", "#fc3503"]
 function createTexture(){
 	shuffle(palette, true)
 	buffer_texture.background(palette[0])
-	buffer_texture.strokeWeight(15)
-	for(let x = 20; x < 400; x+=20){
-		for(let y = 20; y < 400; y+=20){
+	buffer_texture.strokeWeight(100)
+	for(let x = 100; x < 400; x+=100){
+		for(let y = 100; y < 400; y+=100){
 			buffer_texture.point(x, y)
 		}
 	}
@@ -48,56 +90,19 @@ function draw() {
   texture(buffer_texture);
   box(100);
 }
-```
 
 ```
-/*
-https://github.com/zenozeng/p5.js-svg/
 
-To get this to work properly you must include the p5.pdf.js script in your files and link in your .html file 
-*/
 
-var pdf; // create a variable for a pdf object
-var record = false; // set this to false so it doesn't start recording until you tell it to
+## Alpha
 
-function setup() {
-	createCanvas(600, 600);
-	pdf = createPDF(); // initialize the PDF creation
-}
+Mindful when using alpha, as it's only reflected when color is given in terms of r, g, b
 
-function draw() {
-  ellipse(100,100,mouseX,mouseY);
-	if (record) { // when record is true, it will begin recording the PDF
-		pdf.beginRecord();
-	}
-	
-	//
-	// do your thing here
-	//
+![[Pasted image 20260218131016.png]]
 
-	if (record) { // if recording began, save it.
-		record = false;
-		pdf.save({
-			filename: 'itworks',//change filename to whatever makes sense
-		});
-	}
-}
 
-function mousePressed() {
-	record = true;
-}
-// this would work best with a keyPress function since mousePressed can get annoying. Using mousePressed here to show functionality
-```
+## Shader ver.
 
-## Milestones  
-| Date | Target | Done? |
-|------|--------|-------|
-|      |        |       |
+I tried the same design using shader.
 
-## Stakeholders  
-- Community / partner 1  
-- 
-
-## Log  
-- Kick-off note.
-
+https://editor.p5js.org/imrinahru/sketches/UyZNR9p6c

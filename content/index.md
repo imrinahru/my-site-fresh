@@ -11,3 +11,6 @@ Choose a section:
 - [Reading Notes](./04_Reading_Notes/index.md)
 - [Research Log](./05_Research_Log/index.md)
 - [Class Notes](./06_Class_Notes/index.md)
+
+About me:
+![[About Me.png]]

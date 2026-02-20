@@ -20,17 +20,94 @@ https://ireneposch.net/stitching-worlds/
 
 >  What if electronics emerged from knitting, weaving and embroidery? How would technology be different if craftspeople were the catalyst to the electronics industry, via textiles manufacturing?
 
+Reconstructing computation using materials and craft techniques allowed an embodied learning and walking through of the history of computation, revealing hidden histories and contingent choices.
+
+- visible to invisible, 
+- analog to digital, 
+- maths to symbols
+- hardware to software (separation)
+
+The choice of techniques and materials are based on the most revealing of the technology.
+- flip dot replaces silicon
+- punchcard replaces software
+- maths is wired
 
 ## Plan
 
-1. Try different types of stitching on the translucent organza material
-2. Understand the basics of circuit board and schematics
-3. Design the simplest circuit board
-4. Test out a fabric circuit board
-5. Expand the idea to 8-bit computer and machine learning demo
-6. One layer
-7. A layer + an object (just an idea: covering the infamous atomic bomb as both sides of computation)
-8. Create a multi-layered silk installation
+
+
+1. Introduction
+
+- 1a. Background:
+
+The historical intersection of textiles and logic (Binary origin in weaving).
+
+- 1b. Research Question:
+
+Can a functional, programmable 8-bit architecture be sustained using purely mechanical textile-based switching?
+
+- 1c. Project Plan:
+
+Phase-gate approach: Discrete logic -> Arithmetic units -> Programmed Inference.
+
+2. Theoretical Framework: From Silicon to Silk
+
+- 2a. Taxonomy of Elements: Conductive thread as traces; metal snaps as contact points.
+- 2b. The Semiconductor vs. The Mechanical Switch: Contrast electron-flow control (Silicon) with physical gap-closing (Textile Relay).
+- 2c. The Embroidery Relay: Detailed design of a hand-coiled electromagnet pulling a ball to close a circuit.
+- 2d-e. Boolean Logic via Embroidery: * AND/OR: Physical series and parallel paths.
+
+- NAND (The Universal Gate): Explain that with NAND, you can build any other gate.
+
+- 2f. Arithmetic Foundations: Building Half-Adders (HA) and Full-Adders (FA).
+- 2g. Algorithmic Multiplication: Explaining "Shift and Add" logic, as mechanical computers cannot do complex math in one step.
+
+3. Hardware Architecture: The Textile CPU
+
+- 3a. The Clock: A "Slow-Clock" design. Suggestion: Use a large physical pendulum or a slow 555-timer circuit to show the "heartbeat" visually.
+- 3b. Registers: Using "Flip-Flops" made of two cross-coupled embroidered NOT gates.
+- 3c. The Textile ALU: Implementation of the Adder/Subtractor.
+- 3d. Volatile Memory (RAM):
+
+- The Embroidery Challenge: Instead of ICs, use Magnetic Core Memory. Threading conductive wire through ferrite beads. This is much more "textile-friendly" than building 128 individual relay latches.
+
+- 3e. The Control Logic (The "Loom" ROM): use a Diode Matrix (using small LEDs as one-way valves) or a Punch Card Reader made of conductive fabric.
+- 3f-g. The I/O Bridge: Converting light (Analog) to logic (Digital).
+
+- Finding: You may need to use one "hybrid" board here. Converting an LDR's resistance to an 8-bit signal usually requires an ADC chip, but for a thesis, you could build a 1-bit Comparator (Is it Light or Dark?) using a single safety-pin relay.
+
+4. Software & Simulation
+
+- 4a. Circuit Simulator
+- 4b. The Development Chain: Logisim for logic verification-> Custom Assembler -> Hex editing the "Punch Card" patterns.
+- 4c. Build each steps
+- 4d. Logic analyzer
+- 4e. Subroutine Library: Writing the code for multiplication on a machine with very limited memory.
+
+5. Implementation of Artificial Intelligence
+
+- 5a. The Single-Perceptron: "Training" the fabric. The "Weights" are determined by the number of thread wraps in a coil or the placement of a metal snap.
+- 5b. Linear Regression: $y = mx + b$. The computer takes the light sensor input and "predicts" a value.
+- 5c. Use Case (Weather/Light): Using historical data to create a "Threshold" where the computer triggers a "Wear Sunglasses" LED.
+
+6. Methodology: Fabrication & Assembly
+
+- 6a. Magnetic Mechanisms: Solving the friction and "sticking" issues of handmade relays.
+- 6b. Scaling: Moving from a single NAND gate to a complex 8-bit bus.
+- 6c. Integration: Managing "Line Noise" and resistance in conductive thread.
+
+7. Discussion: The Fusion of Analog and Digital
+
+- Exploring "Tactile Computing."
+- The durability of e-textiles vs. silicon.
+- The philosophy of "Visible Logic"—making the "invisible" work of a CPU physical.
+
+8. Conclusion
+
+- Summary of findings.
+- Future implications for wearable, repairable, and sustainable electronics.
+
+
 
 
 ## Experiment with 1 tiny bit (1/0)
@@ -40,7 +117,37 @@ https://ireneposch.net/stitching-worlds/
 ![[WhatsApp Video 2026-01-26 at 9.02.21 AM.mp4]]
 
 
+## Logic gate
+
+See [[A Thinking Textile, or A Textile That Made Me Think]]
+
 ## Reference
+
+[How transistors run code?](https://www.youtube.com/watch?v=HjneAhCy2N4&t=223s)
+![[Pasted image 20260215213954.png]]
+![[Pasted image 20260215213724.png]]
+![[Pasted image 20260215213900.png]]
+![[Pasted image 20260215213932.png]]
+![[Pasted image 20260215214047.png]]
+![[Pasted image 20260215214216.png]]
+![[Pasted image 20260215214226.png]]
+![[Pasted image 20260215214319.png]]
+![[Pasted image 20260215214435.png]]
+Full adder
+![[Pasted image 20260215214600.png]]
+![[Pasted image 20260215214642.png]]
+![[Pasted image 20260215214807.png]]
+![[Pasted image 20260215215348.png]]
+![[Pasted image 20260215215254.png]]
+![[Pasted image 20260215215644.png]]
+Binary decoders
+![[Pasted image 20260215215619.png]]
+![[Pasted image 20260215215848.png]]
+![[Pasted image 20260215215857.png]]
+![[Pasted image 20260215215929.png]]
+![[Pasted image 20260215220010.png]]
+![[Pasted image 20260215220235.png]]
+![[Pasted image 20260215220327.png]]
 
 ### Conventional 8-bit Computer
 https://eater.net/8bit/parts
@@ -60,6 +167,13 @@ Why you need a clock
 5. output
 Each step(eg. perceptron) needs a timing signal.
 Industrially, 555 timer, microcontroller are used
+
+
+## Memory
+- [Ferrite core](https://www.modularcircuits.com/blog/projects/the-disintegrated-machine/ferrite-core-memory/#:~:text=All%20we%20need%20to%20do,needs%20more%20juice%20to%20drive.)
+- [Another example](https://jeffmcbride.net/core-memory/array/)
+- [Ferrite comparison](https://jeffmcbride.net/core-memory/single-bit/)
+- [1 bit using ferrite core](https://sites.google.com/site/wayneholder/one-bit-ferrite-core-memory)
 
 
 
@@ -264,8 +378,8 @@ Community
 ## Important questions/areas
 
 - Goldwork, craft, history/narrative of the object: uselessness or richness? Flattened world
-- Digital materiality, history/narrative of the digital: hidden, clean or disorderly
-
+- Digital materiality, history/narrative of the digital: hidden, clean or disorderly [[Material Culture of Computation]]
+- Walk through the history of computation by making
 
 ## General Links and Resources
 
@@ -273,6 +387,32 @@ Community
 - https://www.stitchingworlds.net/
 - http://ireneposch.net/the-embroidered-computer/
 - https://turtlestitch.org/
+
+
+- ゲート理論：
+
+- [https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken_14.pdf](https://ocw.kyoto-u.ac.jp/wp-content/uploads/2012/04/2012_nougyoukikaigakujikken_14.pdf)
+
+- 龍谷大学 計算機システムI (数理情報学科) 講義PDF、4ビット計算機
+
+- [https://www602.math.ryukoku.ac.jp/CSys1/index.html](https://www602.math.ryukoku.ac.jp/CSys1/index.html)
+- [https://www602.math.ryukoku.ac.jp/CSys1/printed/part13.pdf](https://www602.math.ryukoku.ac.jp/CSys1/printed/part13.pdf)
+
+- リレーによるゲート回路、加算器：
+
+- [http://www.tsystem.jp/freecircuit/freecircuitrelay.html](http://www.tsystem.jp/freecircuit/freecircuitrelay.html)
+- [http://www.tsystem.jp/freecircuit/freecircuitrelaycalc.html](http://www.tsystem.jp/freecircuit/freecircuitrelaycalc.html)
+
+- リレー計算機：
+
+- [https://jinproduction.work/work/relaycalcu/encoder?doing_wp_cron=1768842362.0350079536437988281250](https://jinproduction.work/work/relaycalcu/encoder?doing_wp_cron=1768842362.0350079536437988281250)
+
+- Fujitsuコンピューター基礎講座、コンピュータ講座：
+
+- [https://jp.fujitsu.com/family/familyroom/syuppan/family/webs/serial-comp/](https://jp.fujitsu.com/family/familyroom/syuppan/family/webs/serial-comp/)
+- [https://jp.fujitsu.com/family/familyroom/syuppan/family/webs/serial-comp2/index.html](https://jp.fujitsu.com/family/familyroom/syuppan/family/webs/serial-comp2/index.html)
+
+
 
 ## Other ideas
 

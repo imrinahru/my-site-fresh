@@ -23,6 +23,10 @@ When I knit or braid, keeping a consistent texture means constantly judging whet
 
 When I finally created a simple, intuitive feedback system, I was surprised by how natural and useful it felt. In the video, for example, when a white light signaled that the string was too tight, I immediately adjusted the tension before moving on to the next cycle.
 
+<video controls style="max-width: 100%; height: auto;" playsinline>
+  <source src="/my-site-fresh/content/assets/videos/interaction.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ![[interaction.mp4]]
 # Technical aspect
 
@@ -34,15 +38,26 @@ Capturing tension in a thin thread required multiple iterations.
 - **Slit design:** A 0.5 pt slit with a straight-bottom triangle cut best held the string without slipping, nor too tight.
     ![slit]({{ '/content/assets/img/slit.jpg' | relative_url | uri_escape }})
 - **Pressure sensing:** Detecting tension directly at the slit edge was unreliable because the contact area was too small. Adding a small bump so the string could press more firmly onto the surface made the DIY FSR respond consistently. A quick prototype with a felt ball confirmed the idea worked.
-	![[dirtyprototype.mov]]
+
+<video controls style="max-width: 100%; height: auto;" playsinline>
+  <source src="/my-site-fresh/content/assets/videos/dirtyprototype.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+![[dirtyprototype.mp4]]
 
 
 ## Attention to detail
 
 Because the concept depends on subtle feedback, the final design focused on detail.
 
-- **Lighting feedback:** I replaced abrupt blinking with a smooth fade-in/fade-out cycle. This reduced distraction and gave the tool a calming, 窶彙reathing窶・feel.
-    ![[fade effect.mov]]
+- **Lighting feedback:** I replaced abrupt blinking with a smooth fade-in/fade-out cycle. This reduced distraction and gave the tool a calming, breathing feel.
+
+<video controls style="max-width: 100%; height: auto;" playsinline>
+  <source src="/my-site-fresh/content/assets/videos/fadeeffect.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+![[fadeeffect.mp4]]
+
 - **Tactile quality:** Traditional Kumihimo uses wooden bobbins that create a rhythmic sound. I recreated this effect by crafting simple wooden bobbins from sticks at the wood shop.
 	![display_bobbins]({{ '/content/assets/img/display_bobbins.jpg' | relative_url | uri_escape }})
 
@@ -117,4 +132,5 @@ Don't do things that'll add pressure onto the velostat. The fabric layer with so
 
 For both thread holder and threading holes, it seems to be best done after the whole piece is assembled and glued together, since they are too small to be aligned properly. It requires hand, as it's too thick for laser cut, and there would be a arduino living inside.
 
+![futureplans]({{ '/content/assets/img/kumihimodisc_InkspaceFile.svg' | relative_url | uri_escape }})
 ![[kumihimodisc_InkspaceFile.svg]]
