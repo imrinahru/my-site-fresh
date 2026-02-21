@@ -119,7 +119,7 @@ Phase-gate approach: Discrete logic -> Arithmetic units -> Programmed Inference.
 
 ## Logic gate
 
-See [[A Thinking Textile, or A Textile That Made Me Think]]
+See [[A Thinking Textile, or a Textile that Made Me Think]]
 
 ## Reference
 

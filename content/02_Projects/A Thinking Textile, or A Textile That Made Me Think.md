@@ -1,5 +1,5 @@
 ---
-title: A Thinking Textile, or A Textile That Made Me Think
+title: A Thinking Textile, or a Textile that Made Me Think
 date: 2025-11-16
 tags:
   - project
@@ -8,15 +8,23 @@ status: in-progress
 cover: "-"
 draft: false
 ---
+![exhibited]({{ '/content/assets/img/exhibited.jpeg' | relative_url | uri_escape }})
 
 I tried to construct a computational half-adder logic using textile. 
 
 Half adder is one of the basic operations of computation, it is designed in a specific way that makes below operation true:
 
+```
+
 0 + 0 = 0
+
 1 + 0 = 1
+
 0 + 1 = 1
+
 1 + 1 = (1) 0
+
+```
 
 It is half as it only accounts for carrying over, but not carrying in.
 
@@ -44,7 +52,7 @@ Relay was widely used before the coming of transistors and semiconductors. Since
   <source src="/my-site-fresh/content/assets/videos/flipdot.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-![[flipdot.mp4]]
+
 
 ## Half Adder
 
@@ -64,15 +72,33 @@ The circuit looks like this:
   <source src="/my-site-fresh/content/assets/videos/halfadderonbreadboard.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-![[halfadderonbreadboard.mp4]]
 
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe
+    src="https://player.vimeo.com/video/1166837015"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Embroidery Process
 
 The same circuit is designed on a fabric, with switches being replaced by hematite beads and coils. 
 
 ![sketchforhalfadder]({{ '/content/assets/img/sketchforhalfadder.jpeg' | relative_url | uri_escape }})
-![[sketchforhalfadder.jpeg]]
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe
+    src="https://player.vimeo.com/video/1166837024"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 
 In this iteration, I was a bit ambitious and wanted to use Arduino to control the 1 and 0s, so I used H-bridge to be able to reverse polarity. However, the H-bridge (L293D) turned out to be too compact and difficult to prevent shortage on a piece of fabric, that my exploration ended there with insufficient time for debugging. Also, as I think back, the concept is better expressed when none of the black-boxed ICs/transistors are used, instead of all components being given equal importance in the visual display, including IC, flip dots, LEDs and ground. 
@@ -83,13 +109,13 @@ I decided later to switch back to manual DPDT (Double Pole Double Throw) switch.
   <source src="/my-site-fresh/content/assets/videos/iteration1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-![[iteration1.mp4]]
+
 
 <video controls style="max-width: 100%; height: auto;" playsinline>
   <source src="/my-site-fresh/content/assets/videos/iteration1_detail.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-![[iteration1_detail.mp4]]
+
 
 You could see the dot was able to flip, as there's current going through, but there's likely to be shortage somewhere given the alarming vibration sound, and irregular movement of the bead, which made it impossible to determine how to sew the bead on to this piece of fabric.
 
@@ -101,17 +127,46 @@ Before the paint was applied, the bead was tested with both polarities to see wh
 
 As a result, the artifact at this stage only consisted of an aesthetic prototype, a breadboard working prototype, and a documentation of my working process.
 
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe
+    src="https://player.vimeo.com/video/1166837070"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 ![openspacegallery1]({{ '/content/assets/img/openspacegallery1.jpg' | relative_url | uri_escape }})
-![[openspacegallery1.jpg]]
 
 ![openspacegallery1closeup]({{ '/content/assets/img/openspacegallery1closeup.jpg' | relative_url | uri_escape }})
-![[openspacegallery1closeup.jpg]]
 
 ![openspacegallery1artwork]({{ '/content/assets/img/openspacegallery1artwork.jpg' | relative_url | uri_escape }})
-![[openspacegallery1artwork.jpg]]
 
 ![openspacegallery1interaction]({{ '/content/assets/img/openspacegallery1interaction.jpg' | relative_url | uri_escape }})
-![[openspacegallery1interaction.jpg]]
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe
+    src="https://player.vimeo.com/video/1166836989"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe
+    src="https://player.vimeo.com/video/1166836955"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 ## Reflections
