@@ -1,10 +1,12 @@
 ---
 title: Woven Fabric-based Electrical Circuits
-date:
+date: 2026-02-20
 tags:
   - log
 draft: false
 ---
+
+## Woven Fabric-based Electrical Circuits
 
 
 The paper writes about resistive welding as a technique to bond 2 copper wire/thread joint together.

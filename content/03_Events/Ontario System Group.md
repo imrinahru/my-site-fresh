@@ -3,7 +3,7 @@ title: Ontario System Group
 date: 2025-11-11
 tags:
   - event
-location: OCAD 205 Richmond St W
+location: OCAD 205 Richmond St w
 draft: false
 summary:
 ---
@@ -11,7 +11,12 @@ summary:
 
 ## Summary
 
-I had the opportunity to join a 
+I had the opportunity to join a session of Ontario System Group, hosted by David Ing. The main discussants included Bianca Wylie (who contributed to the founding of Civic Tech Toronto), Su Lynn Myat, and Zaid Khan. 
+
+
+[About the event](https://wiki.st-on.org/2025-11-11)
+
+
 
 ## Extended insights
 
@@ -38,6 +43,14 @@ Bianca also emphasized that the traditional rights-based model is insufficient. 
 
 This includes the responsibility to stay engaged, even when it is uncomfortable. Responding effectively to the pressures of automation, political polarization, or authoritarian drift requires a kind of cultural training: the ability to hold uncertainty, to act without full information, and to think beyond immediate timeframes.
 
+
+
+### A Moral Emergency
+
+Underlying these discussions is a sense of urgency. Private equity shapes the trajectory of AI in ways that resist democratization. Enforcement of policy is unclear. AI increasingly functions as a system of labor extraction, widening gaps in power and capacity.
+
+The combination of cultural disorientation, accelerated technological change, and weak governance creates what some described as a **moral emergency**. Addressing it requires attention not only to regulation, but to the cultural narratives that guide our understanding of technology itself.
+
 ---
 
 ## Critique
@@ -48,58 +61,56 @@ Below is what I felt lacking in the OSG discussion, from a tech practitioner's p
 
 Some participants complained about digital software products as in they don't fully guarantee the functioning of the product, unlike the good old physical manufacturers who will dash to your door to fix it for you. 
 
-I think it's hard to imagine that the best scenario going forward is taming the tech companies into nostalgic, honest manufacturers (they were not to begin with). But it's understandable and is a great learning for me to hear this commonsensical voice from the public.
+I think it's hard to imagine that the best scenario going forward is taming the tech companies into nostalgic, honest manufacturers (they were not to begin with). But understandable.
 
 If the governance were to follow this narrative of taming, then it's not only ineffective, but also dangerous. A digital product is, in a sense very different from a mechanical product. It has greater capacity of obscuration and manipulation that happened without consumers' realizing it. More than ever, WE ARE FORMED BY HOW THESE PRODUCTS ARE DESIGNED.
 
 So the initial discussion surrounding cultural shift is a good starting point.
-But it's undeniable that people in the tech communities (especially with an inclination to support FLOSS) are much more advanced in terms of their understanding about the problem. It makes sense, as they touch and play with software using most of their lives. And that's why there needs to be more conversation happening between policy makers, citizens, and tech practitioners, since they are the experts (both in terms of knowledge, but also affectionately) in this subject matter. It's always a good idea to hear out from people who think and do the subject matter more than you are doing (we call them experts). But the cultural gap ("language barrier") seems to be a bigger challenge than I've imagined, which will be discussed later.
+But it's undeniable that people in the tech communities (especially with an inclination to support FLOSS) are much more advanced in terms of their understanding about the problem. It makes sense, as they touch and play with the software using most of their day. And that's why there needs to be more conversation happening between policy makers, citizens, and tech practitioners, since they are the experts (both in terms of knowledge, but also affectionately) in this subject matter. It's always a good idea to hear out from people who think and do the subject matter more than you are doing (we call them experts). But the cultural gap ("language barrier") seems to be a bigger challenge than I've imagined, which will be discussed later.
 
-ThFrom Users to Shapers of Technology
-Increasing the number of people who can use digital tools is important, but insufficient. What matters more is expanding the number of people who can _change_ the tools themselves.
+As oftentimes said in creative coding community, increasing the number of people who can use digital tools is important, but insufficient. What matters more is expanding the number of people who can _change_ the tools themselves.
 
-Designers increasingly work as maker-consumers—actively shaping the systems they use. Policy makers, too, should engage at this practical, hands-on level. If they are to guide technological development, they need the same kind of material literacy that designers and engineers cultivate. The challenge is not only expertise, but scaling that expertise so that others can meaningfully participate.
-
----
-
-## Narratives, Beliefs, and the Machine Consciousness Debate
-
-A notable tension emerged around the question of machine consciousness. For some, even entertaining the idea seems implausible or irrational. Yet the discomfort reveals something deeper: a clash of narratives about intelligence, agency, and the boundaries of the human even among people from the school, but different departments (Digital Futures, Strategic Foresight).
-
-The issue is less about whether machines “feel” and more about how differing beliefs shape our capacity to collaborate. If people are unwilling to understand the narratives that others inhabit—whether about AI, nature, or intelligence—constructive conversation becomes nearly impossible. This is not a debate about metaphysics but about operational reality.
+Designers increasingly work to actively shaping the systems they use. Policy makers, too, should engage at this practical, hands-on level. If they are to guide technological development, they need the same kind of material literacy that designers and engineers cultivate. The challenge is not only expertise, but scaling that expertise so that others can meaningfully participate.
 
 ---
 
-## **Why Policy Alone Is Not Enough**
+### Challenge 2: Narratives, Beliefs, and the Machine Consciousness Debate
 
-Despite the proliferation of governance frameworks, many participants expressed a sense of disillusionment. Policy language is often abstract, filled with terms like “should,” “may,” and “ought to,” with little clarity about implementation. Without accountability, even well-intentioned policies can fail to produce meaningful change.
+A notable tension emerged around the question of machine consciousness. For some, even entertaining the idea seems implausible or irrational. Yet the discomfort reveals something deeper: a clash of narratives about intelligence, agency, and the boundaries of the human even among people from the same school, but different departments (Digital Futures, Strategic Foresight).
+
+The issue is less about whether machines “feel” and more about how differing beliefs shape our capacity to collaborate. People can believe in anything they want, but the division is causing operational problem. If you are not curious about the narrative of another side, you won't be able to have a constructive conversation.
+
+---
+
+### Challenge 3: Policy Alone Is Not Enough
+
+Despite the proliferation of governance frameworks, the discussion seemed to be turning in circles even after all these sessions. Policy language is often filled with terms like “should,” “may,” and “ought to,” with little clarity about implementation. Without accountability, even well-intentioned policies can fail to produce meaningful change.
 
 It may be that technologists, policymakers, and everyday citizens are living in fundamentally different narratives:
 
-|Technologists|Citizens|
-|---|---|
-|Less financially affected|More affected by non-financial harms|
-|Basic technical literacy|Limited or no foundational understanding|
-|Observant, exploratory|Anxious, cautious, often frustrated|
+| Technologists             | Citizens                                 | Policymakers                            |
+| ------------------------- | ---------------------------------------- | --------------------------------------- |
+| Less financially affected | More affected by non-financial harms     | Unclear                                 |
+| Basic technical literacy  | Limited or no foundational understanding | Limited understanding, more opinionated |
+| Observant, exploratory    | Anxious, cautious, often frustrated      | Agitating                               |
 
-Bridging these perspectives requires more than policy. It requires philosophy, cultural analysis, long-term thinking, and new forms of public engagement.
+With this, the question ties back to challenge 1 and challenge 2
+- Policy makers need to be curious enough about the subject matter, and try to help as many people to access the information.
+- More communication need to happen between tech, citizens and governance, finding a common language, and being willing to listen to the narratives of the other side.
 
----
-
-## **A Moral Emergency**
-
-Underlying these discussions is a sense of urgency. Private equity shapes the trajectory of AI in ways that resist democratization. Enforcement of policy is unclear. AI increasingly functions as a system of labor extraction, widening gaps in power and capacity.
-
-The combination of cultural disorientation, accelerated technological change, and weak governance creates what some described as a **moral emergency**. Addressing it requires attention not only to regulation, but to the cultural narratives that guide our understanding of technology itself.
+In both cases, curiosity is the most important quality moving forward. Interestingly, the same thing was mentioned by[[Wired University Lecture with Yasuaki Kakehi & Dominique Chen| Kakehi and Chen]].
 
 ---
 
-## **Toward a More Grounded Future**
-
-To live well with technology, we may need to shift our orientation entirely: to see technology as one part of a broader cultural landscape, rather than the centre of it. This means staying curious, staying uncomfortable, and finding ways to reshape the tools—and the stories—that shape us.
+## Toward a More Grounded Future
 
 
-**Be outside and around technology, instead of inside, don't think from technology, think of what you want to do and contextualize it.**
+The event was well-concluded by Bianca as they proposed that to live well with technology, we may need to shift our orientation entirely: to see technology as one part of a broader cultural landscape, rather than the centre of it.  Be outside and around technology, instead of inside, don't think from technology, think of what you want to do and contextualize it.
+
+Going meta is the key, it's not having more users who can use the tool, it's how to have more users who can change the tool.
+
+How to inspire people to care the technology and our living world.
+
 
 
 ---
@@ -114,38 +125,5 @@ Appendix: Comparing Canada's Digital Charter with US and EU
 |**Enforcement**|Moving toward a **Tribunal** model with heavy fines.|National **Data Protection Authorities** with massive fining power.|**FTC** and State Attorneys General; varies wildly by state.|
 
 
-Going meta is the key, it's not having more users who can use the tool, it's how to have more users who can change the tool
-How to inspire people to care the technology and our living world.
-
-*Why it can't be done on a micro-level?*
-Now designers like me are trying to be a user, a maker-consumer, then policy people should be maker-consumer as well, and try to help as many people as possible to be one. It's an operation, scaling influence problem. 
-
-*Why you cannot accept the narrative of machine consciousness?*
-People here cannot believe the feeling of machine, consciousness of machine, intelligence of machine, which comes close to whether you believe in the consciousness of a plant. It's an open window for other forms of intelligence.
-People can believe in anything they want, but the division is causing operational problem. If you are not curious about the narrative of another side, you won't be able to have a constructive conversation.
-
-Don't center around technology, also don't center around politics/policy/governance. It is far from giving a PC to a children.
-
-I have no belief in policy making, governance, which is confirmed yet again with abstract wording and lots of should, but who is implementing it? They should do philosophy. 
-
-Maybe the tech people and policy people (even political citizens) are living in a different narrative.
-
-| Tech                                    | Citizen                        |
-| --------------------------------------- | ------------------------------ |
-| less affected financially               | more affected by other factors |
-| trained to understand the basic concept | No base understanding          |
-| observant                               | scared, angry                  |
-
-## Slides & media  
-- ![Slide thumbnail](./img/slide.png)  
-- Recording: <https://youtu.be/…>  
-
-## Related notes  
-- https://thecon.ai/
 
 
-Who's enforcing it? Unaccountable policy making. Private equity/AI cannot be democratized.
-
-AI is labor extraction 
-
-We have moral emergency now

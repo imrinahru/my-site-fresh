@@ -1,5 +1,5 @@
 ---
-title: Crafting PCB
+title: Crafting PCBs
 date: 2025-11-16
 tags:
   - idea
@@ -74,3 +74,10 @@ https://github.com/mitxela/kicad-round-tracks
 
 Layering
 ![[the stack.png]]
+
+
+---
+
+## Related
+
+- [[A Non-Functional Function]]

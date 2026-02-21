@@ -5,6 +5,8 @@ tags:
   - log
 draft: false
 ---
+## Nishijin Textiles and Interactive Experiences
+
 This is a notes on Yasuaki Kakehi Laboratory and HOSOO's research on designing digital/functional nishijin textiles.
 
 The research has started in 2017 with YCAM (Yamaguchi) exhibition, 2018 exhibition in Ars Electronica, 2021 at HOSOO gallery,  and 2024 exhibition in Paris LVMH Metiers d'Art showroom.

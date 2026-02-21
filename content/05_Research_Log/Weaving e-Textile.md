@@ -3,7 +3,7 @@ title: Weaving e-Textile
 date: 2026-02-05
 tags:
   - log
-draft: true
+draft: false
 ---
 
 

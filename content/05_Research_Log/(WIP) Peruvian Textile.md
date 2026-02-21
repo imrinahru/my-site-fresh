@@ -12,6 +12,8 @@ I learnt about Shipibo-Konibo textile patterns in Lima, and Andean textile proce
 ## Photos
 
 
+
+
 ## More reference
 
 About kene https://en.wikipedia.org/wiki/Ken%C3%A9

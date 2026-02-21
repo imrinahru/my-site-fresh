@@ -5,8 +5,15 @@ tags:
   - event
 location: InterAccess
 draft: false
-summary: A demo of publication tool created by Aaryan
+summary:
 ---
+
+## Context
+
+Here are lists of interesting shares and learnings I gained from Creative Code Toronto.
+
+
+## A demo of publication tool created by Aaryan
 
 A really cool project by Aaryan, it seems to have great synergy with both p5.zine and p5.riso.
 https://feed.a-p.space/

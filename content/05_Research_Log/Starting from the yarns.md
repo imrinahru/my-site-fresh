@@ -10,6 +10,6 @@ draft: false
 ---
 
 
-### References
+### Reference
 https://unstable.design/projects/yarny/
 https://www.stitchingworlds.net/experimentation/spinning-electronic-yarns/
