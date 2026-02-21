@@ -50,7 +50,7 @@ It is half as it only accounts for carrying over, but not carrying in.
 
 ## Flip dot
 
-I referred to[ this project](https://www.kobakant.at/DIY/?p=8059) by KOBAKANT and also [this](https://www.stitchingworlds.net/experimentation/textile-relays/) by Irene Posch
+I referred to[ this project](https://www.kobakant.at/DIY/?p=8059) by KOBAKANT and also [this](https://www.stitchingworlds.net/experimentation/textile-relays/) by Irene Posch.
 
 A flip dot is used as a switch/relay mechanism, in place of transistors. The choice is based on visibility and feasibility. 
 
@@ -94,7 +94,7 @@ The circuit looks like this:
     allowfullscreen>
   </iframe>
 </div>
-(Niloofer playing with the half-adder logic gate)
+(Niloofer trying the half-adder logic gates on breadboard)
 
 
 
@@ -153,7 +153,7 @@ As a result, the artifact at this stage only consisted of an aesthetic prototype
     allowfullscreen>
   </iframe>
 </div>
-(Video by Yuhan)
+(During the presentation, video by Yuhan)
 
 ![openspacegallery1]({{ '/content/assets/img/openspacegallery1.jpg' | relative_url | uri_escape }})
 
@@ -162,7 +162,7 @@ As a result, the artifact at this stage only consisted of an aesthetic prototype
 ![openspacegallery1artwork]({{ '/content/assets/img/openspacegallery1artwork.jpg' | relative_url | uri_escape }})
 
 ![openspacegallery1interaction]({{ '/content/assets/img/openspacegallery1interaction.jpg' | relative_url | uri_escape }})
-(Classmates looking at my display, photos by Yuhan)
+(Classmates looking at the display, photos by Yuhan)
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe
@@ -173,7 +173,6 @@ As a result, the artifact at this stage only consisted of an aesthetic prototype
     allowfullscreen>
   </iframe>
 </div>
-(Video by Yuhan)
 
 
 ---
@@ -188,7 +187,7 @@ As a result, the artifact at this stage only consisted of an aesthetic prototype
     allowfullscreen>
   </iframe>
 </div>
-(Video by Yuhan)
+(During the presentation, videos by Yuhan)
 
 
 
@@ -222,4 +221,4 @@ And thanks to Yuhan I was able to have abundant recordings of my exhibition.
 - [textile relays (prototype)](https://www.stitchingworlds.net/experimentation/textile-relays/) by Irene Posch
 - [Flip dot with H-bridge](https://www.kobakant.at/DIY/?p=8059) by KOBAKANT
 
-More reference summarized in [Embroidered Computer](./05_Research_Log/Embroidered%20Computer.md).
+More reference summarized in [Embroidered Computer](../05_Research_Log/Embroidered%20Computer.html).
