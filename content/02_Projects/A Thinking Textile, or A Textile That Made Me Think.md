@@ -1,6 +1,6 @@
 ---
 title: A Thinking Textile, or a Textile that Made Me Think
-date: 2025-11-16
+date: 2026-02-13
 tags:
   - project
 summary: Making computational half adder using embroidery
@@ -9,6 +9,8 @@ cover: "-"
 draft: false
 ---
 ![exhibited]({{ '/content/assets/img/exhibited.jpeg' | relative_url | uri_escape }})
+
+The project is part of an experimentation I did in Graduate Atelier class at OCADU, in February 2026.
 
 I tried to construct a computational half-adder logic using textile. 
 
@@ -29,6 +31,8 @@ Half adder is one of the basic operations of computation, it is designed in a sp
 It is half as it only accounts for carrying over, but not carrying in.
 
 
+---
+
 ## Material
 
 - Sewing thread (magenta, pink, light yellow, gold, copper, depending on design)
@@ -39,6 +43,9 @@ It is half as it only accounts for carrying over, but not carrying in.
 
 - Arduino Uno
 - Breadboard prototype using wires, switches, and LED
+
+
+---
 
 ## Flip dot
 
@@ -54,6 +61,8 @@ Relay was widely used before the coming of transistors and semiconductors. Since
 </video>
 
 
+
+---
 ## Half Adder
 
 A half adder, as mentioned earlier, should make below table truthful:
@@ -82,6 +91,11 @@ The circuit looks like this:
     allowfullscreen>
   </iframe>
 </div>
+
+
+
+
+---
 
 ## Embroidery Process
 
@@ -158,6 +172,9 @@ As a result, the artifact at this stage only consisted of an aesthetic prototype
 
 
 
+---
+
+
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe
     src="https://player.vimeo.com/video/1166836955"
@@ -169,6 +186,8 @@ As a result, the artifact at this stage only consisted of an aesthetic prototype
 </div>
 
 
+
+
 ## Reflections
 
 To integrate the physical property into the design turns out to be the hardest stress-test of a correct understanding and manipulation of the material. If there is any break, shortage, high resistance, or noise, the operation will not work. It means that things that are not visible to human eyes are nonetheless there, and it dictates the behavior of the artifact. 
@@ -178,3 +197,13 @@ It is therefore important to make invisible visible in every step possible, if w
 So while I aimed to recreate a "thinking fabric" similar to what Babbage has tried in the 19th Century on his "thinking machine", the value of this exploration lies in how much it made me think of the materials to ensure human-fabricated abstraction holds, rather than the other way round.
 
 
+Special thanks to my classmates and professors of Graduate Atelier appearing in the documentation, in the order of appearance:
+
+Niloofer
+Immony
+Melanie
+Fidelia
+Jennifer
+Joey
+
+And thanks to Yuhan I was able to have abundant recordings of my exhibition.

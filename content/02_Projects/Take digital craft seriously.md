@@ -12,8 +12,7 @@ draft: false
 ---
 
 
-The project is part of an experimentation I did in Creation & Computation class at OCADU, in fall 2025.
-
+The project is part of an experimentation I did in Creation & Computation class at OCADU, in fall 2025. As I was making this as a first project in OCAD, without any clear idea for my thesis, it reminded me of how much "digital craft" might be an important thread to follow along in my future exploration.
 
 
 # Haptic Kumihimo: Measuring Force in Braiding
@@ -43,7 +42,7 @@ Capturing tension in a thin thread required multiple iterations.
   <source src="/my-site-fresh/content/assets/videos/dirtyprototype.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-![[dirtyprototype.mp4]]
+
 
 
 ## Attention to detail
@@ -56,7 +55,7 @@ Because the concept depends on subtle feedback, the final design focused on deta
   <source src="/my-site-fresh/content/assets/videos/fadeeffect.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-![[fadeeffect.mp4]]
+
 
 - **Tactile quality:** Traditional Kumihimo uses wooden bobbins that create a rhythmic sound. I recreated this effect by crafting simple wooden bobbins from sticks at the wood shop.
 	![display_bobbins]({{ '/content/assets/img/display_bobbins.jpg' | relative_url | uri_escape }})
@@ -83,7 +82,11 @@ Continuous testing revealed how quickly the material responded to every modifica
     Before: ![[at exhibition.jpg]]
     After:![final]({{ '/content/assets/img/final.jpg' | relative_url | uri_escape }})
 These adjustments kept the sensing consistent and responsive in the final build, as shown in the previous videos.
-# Circuit
+
+
+
+
+## Circuit
 
 The circuit connects an Arduino Nano to the FSR with a simple voltage divider circuit using resistors, reads analog values from the FSR (A6), and switches the LEDs accordingly based on the measured force for real-time visual feedback (~11, ~12):
 
@@ -92,7 +95,10 @@ The circuit connects an Arduino Nano to the FSR with a simple voltage divider ci
 
 ![FSR_2LEDs_bb]({{ '/content/assets/img/FSR_2LEDs_bb.png' | relative_url | uri_escape }})
 
-# Code Narrative
+
+
+
+## Code Narrative
 
 
 Find the entire code here: [a1_kumihimo_pressure_sensing.ino](https://github.com/imrinahru/creation-computation-assignment1/blob/main/a1_kumihimo_pressure_sensing.ino)
@@ -105,6 +111,7 @@ How it works:
 3. Brightness increases or decreases between 0窶・55 using `analogWrite()`. Direction flips at each limit for a smooth pulse.
 4. `millis()` timer updates brightness every 10 ms (`fadeInterval`).
 5. Prints raw and mapped sensor values for debugging purposes.
+
 
 
 ## Continued
@@ -133,4 +140,4 @@ Don't do things that'll add pressure onto the velostat. The fabric layer with so
 For both thread holder and threading holes, it seems to be best done after the whole piece is assembled and glued together, since they are too small to be aligned properly. It requires hand, as it's too thick for laser cut, and there would be a arduino living inside.
 
 ![futureplans]({{ '/content/assets/img/kumihimodisc_InkspaceFile.svg' | relative_url | uri_escape }})
-![[kumihimodisc_InkspaceFile.svg]]
+
