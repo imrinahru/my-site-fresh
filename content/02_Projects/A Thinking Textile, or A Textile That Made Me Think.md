@@ -94,7 +94,7 @@ The circuit looks like this:
     allowfullscreen>
   </iframe>
 </div>
-
+(Niloofer playing with the half-adder logic gate)
 
 
 
@@ -162,7 +162,7 @@ As a result, the artifact at this stage only consisted of an aesthetic prototype
 ![openspacegallery1artwork]({{ '/content/assets/img/openspacegallery1artwork.jpg' | relative_url | uri_escape }})
 
 ![openspacegallery1interaction]({{ '/content/assets/img/openspacegallery1interaction.jpg' | relative_url | uri_escape }})
-(Photos by Yuhan)
+(Classmates looking at my display, photos by Yuhan)
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe
@@ -203,12 +203,12 @@ So while I aimed to recreate a "thinking fabric" similar to what Babbage has tri
 
 Special thanks to my classmates and professors of Graduate Atelier appearing in the documentation, in the order of appearance:
 
-Niloofer
-Immony
-Melanie
-Fidelia
-Jennifer
-Joey
+Niloofer, 
+Immony, 
+Melanie, 
+Fidelia, 
+Jennifer, 
+Joey, and many others
 
 And thanks to Yuhan I was able to have abundant recordings of my exhibition.
 
@@ -218,8 +218,8 @@ And thanks to Yuhan I was able to have abundant recordings of my exhibition.
 
 ## Reference
 
-- https://www.kobakant.at/DIY/?p=5915
-- [textile relays (prototype)](https://www.stitchingworlds.net/experimentation/textile-relays/)
-- https://www.kobakant.at/DIY/?p=8059
+- [Flip dot swatch example](https://www.kobakant.at/DIY/?p=5915) by KOBAKANT
+- [textile relays (prototype)](https://www.stitchingworlds.net/experimentation/textile-relays/) by Irene Posch
+- [Flip dot with H-bridge](https://www.kobakant.at/DIY/?p=8059) by KOBAKANT
 
-More summarized in [[Embroidered Computer]].
+More reference summarized in [Embroidered Computer](./05_Research_Log/Embroidered%20Computer.md).
