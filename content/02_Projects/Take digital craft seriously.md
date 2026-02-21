@@ -22,14 +22,20 @@ When I knit or braid, keeping a consistent texture means constantly judging whet
 
 When I finally created a simple, intuitive feedback system, I was surprised by how natural and useful it felt. In the video, for example, when a white light signaled that the string was too tight, I immediately adjusted the tension before moving on to the next cycle.
 
-<video controls style="max-width: 100%; height: auto;" playsinline>
-  <source src="/my-site-fresh/content/assets/videos/interaction.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-![[interaction.mp4]]
-# Technical aspect
 
-Several technical considerations proved essential throughout the making process.
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe
+    src="https://player.vimeo.com/video/1166843997"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+
 ## Iteration
 
 Capturing tension in a thin thread required multiple iterations.
@@ -43,7 +49,7 @@ Capturing tension in a thin thread required multiple iterations.
   Your browser does not support the video tag.
 </video>
 
-
+---
 
 ## Attention to detail
 
@@ -61,6 +67,7 @@ Because the concept depends on subtle feedback, the final design focused on deta
 	![display_bobbins]({{ '/content/assets/img/display_bobbins.jpg' | relative_url | uri_escape }})
 
 
+---
 ## Material behavior
 
 The biggest challenge came before the exhibition. I treated the piece as a static design and didn窶冲 anticipate how much stitching and assembly would affect the sensing capacity of the DIY FSR. Although I tested it during the build, I only noticed the growing noise and random lighting once everything was fully enclosed and difficult to adjust.
@@ -84,7 +91,7 @@ Continuous testing revealed how quickly the material responded to every modifica
 These adjustments kept the sensing consistent and responsive in the final build, as shown in the previous videos.
 
 
-
+---
 
 ## Circuit
 
@@ -96,6 +103,7 @@ The circuit connects an Arduino Nano to the FSR with a simple voltage divider ci
 ![FSR_2LEDs_bb]({{ '/content/assets/img/FSR_2LEDs_bb.png' | relative_url | uri_escape }})
 
 
+---
 
 
 ## Code Narrative
@@ -112,6 +120,8 @@ How it works:
 4. `millis()` timer updates brightness every 10 ms (`fadeInterval`).
 5. Prints raw and mapped sensor values for debugging purposes.
 
+
+---
 
 
 ## Continued
