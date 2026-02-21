@@ -94,7 +94,7 @@ The circuit looks like this:
     allowfullscreen>
   </iframe>
 </div>
-(Niloofer trying the half-adder logic gates on breadboard)
+(Niloofar trying the half-adder logic gates on breadboard)
 
 
 
@@ -126,6 +126,8 @@ With a vintage sewing machine, I was able to directly sew wires/conductive yarn 
   </iframe>
 </div>
 
+
+---
 ## Iterations
 
 In this iteration, I was a bit ambitious and wanted to use Arduino to control the 1 and 0s, so I used H-bridge to be able to reverse polarity. However, the H-bridge (L293D) turned out to be too compact and difficult to prevent shortage on a piece of fabric, that my exploration ended there with insufficient time for debugging. Also, as I think back, the concept is better expressed when none of the black-boxed ICs/transistors are used, instead of all components being given equal importance in the visual display, including IC, flip dots, LEDs and ground. 
@@ -147,7 +149,7 @@ I decided later to switch back to manual DPDT (Double Pole Double Throw) switch.
 
 You could see the dot was able to flip, as there's current going through, but there's likely to be shortage somewhere given the alarming vibration sound, and irregular movement of the bead, which made it impossible to determine how to sew the bead on to this piece of fabric.
 
-There is another hurdle that I haven't arrived at trying, which is to allow the flipped dot to connect a circuit depending on the direction it lands on, which is directly controlled by the polarity.
+There is another hurdle which is to allow the flipped dot to connect a circuit depending on the direction it lands on, which is directly controlled by the polarity.
 
 I explored different conductive paint on the bead. In the most basic iteration I just stick a copper tape cutout on the surface. The only concern is its peeling. I also tried Japanese Kintsugi powder, which turned out to be unconducive, since the product had coatings on powder particles for health safety. The one that seemed to work is adding gold foliage using goldwork glue.
 
@@ -220,7 +222,7 @@ So while I aimed to recreate a "thinking fabric" similar to what Babbage has tri
 
 Special thanks to my classmates and professors of Graduate Atelier appearing in the documentation, in the order of appearance:
 
-Niloofer, 
+Niloofar, 
 Immony, 
 Melanie, 
 Fidelia, 
