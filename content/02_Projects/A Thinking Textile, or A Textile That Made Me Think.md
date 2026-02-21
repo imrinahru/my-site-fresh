@@ -5,7 +5,7 @@ tags:
   - project
 summary: Making computational half adder using embroidery
 status: in-progress
-cover: "-"
+cover:
 draft: false
 ---
 ![exhibited]({{ '/content/assets/img/exhibited.jpeg' | relative_url | uri_escape }})
@@ -100,11 +100,21 @@ The circuit looks like this:
 
 ---
 
+
+
 ## Embroidery Process
 
 The same circuit is designed on a fabric, with switches being replaced by hematite beads and coils. 
 
 ![sketchforhalfadder]({{ '/content/assets/img/sketchforhalfadder.jpeg' | relative_url | uri_escape }})
+
+With a vintage sewing machine, I was able to directly sew wires/conductive yarn on to a fabric as bobbin thread. Tension had to be adjusted on the bobbin case as well. But the result looked (somewhat) like  the couching technique done in goldwork. Later, the circuit itself was only made by copper wires, since conductive yarn had too much resistance after being "couched". I also took inspiration from the plunging technique in goldwork to work with the copper wire.
+
+
+![conductiveyarnstitches]({{ '/content/assets/img/conductiveyarnstitches.jpeg' | relative_url | uri_escape }})
+
+![wirestitches]({{ '/content/assets/img/wirestitches.jpeg' | relative_url | uri_escape }})
+
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe
@@ -116,11 +126,12 @@ The same circuit is designed on a fabric, with switches being replaced by hemati
   </iframe>
 </div>
 
-
+## Iterations
 
 In this iteration, I was a bit ambitious and wanted to use Arduino to control the 1 and 0s, so I used H-bridge to be able to reverse polarity. However, the H-bridge (L293D) turned out to be too compact and difficult to prevent shortage on a piece of fabric, that my exploration ended there with insufficient time for debugging. Also, as I think back, the concept is better expressed when none of the black-boxed ICs/transistors are used, instead of all components being given equal importance in the visual display, including IC, flip dots, LEDs and ground. 
 
 I decided later to switch back to manual DPDT (Double Pole Double Throw) switch. I might consider using flip dots in place of LEDs in the future iteration.
+
 
 <video controls style="max-width: 100%; height: auto;" playsinline>
   <source src="/my-site-fresh/content/assets/videos/iteration1.mp4" type="video/mp4">
@@ -140,9 +151,16 @@ There is another hurdle that I haven't arrived at trying, which is to allow the 
 
 I explored different conductive paint on the bead. In the most basic iteration I just stick a copper tape cutout on the surface. The only concern is its peeling. I also tried Japanese Kintsugi powder, which turned out to be unconducive, since the product had coatings on powder particles for health safety. The one that seemed to work is adding gold foliage using goldwork glue.
 
+![Beads]({{ '/content/assets/img/Beads.jpeg' | relative_url | uri_escape }})
+
+
 Before the paint was applied, the bead was tested with both polarities to see which area is likely to touch with the base. The placement was fairly consistent when controlled with DPDT. However, the difficulty increases for the flip dot representing B, since it requires 6 separated contact points on a single bead. In future iterations, I'm planning to place the contact point outside of the coil diameter and attach an extended lightweight conductive material onto the bead to be able to reach those points, thereby minimising the risk of shortage.
 
+
 As a result, the artifact at this stage only consisted of an aesthetic prototype, a breadboard working prototype, and a documentation of my working process.
+
+
+## Exhibition
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe
@@ -220,5 +238,8 @@ And thanks to Yuhan I was able to have abundant recordings of my exhibition.
 - [Flip dot swatch example](https://www.kobakant.at/DIY/?p=5915) by KOBAKANT
 - [textile relays (prototype)](https://www.stitchingworlds.net/experimentation/textile-relays/) by Irene Posch
 - [Flip dot with H-bridge](https://www.kobakant.at/DIY/?p=8059) by KOBAKANT
+
+- [_Goldwork Embroidery: Techniques and Projects_](https://royal-needlework.org.uk/product/goldwork-embroidery-techniques-and-projects-by-lizzy-pye/) by Lizzy Pye. 
+- [_RSN Essential Stitch Guide to Goldwork_](https://royal-needlework.org.uk/product/rsn-essential-stitch-guide-to-goldwork/) by Helen McCook
 
 More reference summarized in [Embroidered Computer](../05_Research_Log/Embroidered%20Computer.html).
