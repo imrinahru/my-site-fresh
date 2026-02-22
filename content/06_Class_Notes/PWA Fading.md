@@ -45,5 +45,5 @@ Substitute delay for better methods
 
 Delay stops the code during that amount of time, and sometimes we want to continuously running a different function even at the background.
 
-In the code for [[Take digital craft seriously|this]] project, 
+In the code for [[Pressure Sensing Kumihimo|this]] project, 
 

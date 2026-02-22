@@ -81,7 +81,7 @@ Using p5.js buffer methods to draw design on a separate buffer, and then render 
 Using piexifjs library, a tool that lets you add "information labels" to JPEG files. So that DPI and canvas size set in p5.js will be correctly reflected in JPEG and Photoshop etc.
 
 Turning to jpeg is good for later manipulation in Illustrator.
-There is a way to export in PDF [[(WIP) Riso_3D (WEBGL)|as well]].
+There is a way to export in PDF [[Riso_3D (WEBGL)|as well]].
 
 Steps:
 ```

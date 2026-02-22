@@ -1,5 +1,5 @@
 ---
-title: Take Digital Craft Seriously
+title: Pressure Sensing Kumihimo
 date: 2025-09-24
 tags:
   - project
