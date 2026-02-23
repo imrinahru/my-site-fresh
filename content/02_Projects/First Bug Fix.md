@@ -12,8 +12,15 @@ draft: false
 ##### Sample contribution routine in a command line
 
 
-1. Open command window
-2. cd 
+1. Open windows PowerShell
+2. `cd` to go to the folder of the local repo
+3. `ls` list the last write time of files in the directory
+4. `git branch` to check which branch you are currently on
+5. Rebase the the bug fix branch to the latest `main` if it were created a while ago
+6. `git remote -v` to check the upstream remote (the original p5.js repo) set up
+
+
+
 
 ```
 PowerShell 7.5.4
@@ -294,6 +301,8 @@ npm run dev
 
 
 
+
+
 Debugging
 
 1. Add debugger in front of the code you want to see
@@ -320,18 +329,88 @@ Debugging
 
 ![[Pasted image 20251120141413.png]]
 
-## Goal  
-Describe the change this project aims to create.
 
-## Milestones  
-| Date | Target | Done? |
-|------|--------|-------|
-|      |        |       |
 
-## Stakeholders  
-- Community / partner 1  
-- 
+Now, the actual bug fix process is:
+1. **See the bug happen** → confirms you understand the problem
+2. **Write the fix** → change the code
+3. **See the bug disappear** → confirms your fix works
+4. **Run the tests** → confirms you didn't break anything else
+5. **Push & open a PR** → share your fix
 
-## Log  
-- Kick-off note.
+Detailed operation:
+
+1. `npm install`, it needs to be run every time package.json is updated
+2. Check the script available in package.json, or run `npm run`
+3. Use available script `npm run dev` to develop and test in the browser
+4. Recreate and check the bug first
+
+![[Pasted image 20260222172208.png]]
+
+Hypothesis:
+_"When `createGraphics()` creates a new graphics buffer, **something** is setting its `pixelDensity`. That something is probably using `window.devicePixelRatio` (the screen's density) instead of the parent sketch's `pixelDensity()`."_
+
+
+
+![[Pasted image 20260222172926.png]]
+
+![[Pasted image 20260222181404.png]]
+
+![[Pasted image 20260222174138.png]]
+
+![[Pasted image 20260222180234.png]]
+Bug fixed!
+![[Pasted image 20260222180247.png]]
+
+The difficult part: 
+pInst                = g (the Graphics object)
+pInst._pInst         = p (the sketch! because g remembers who created it)
+pInst._pInst._renderer = the main canvas renderer (which HAS pixelDensity = 1)
+
+
+1. ✅ Fix the bug
+2. Write a unit test
+3. Run existing tests (make sure you didn't break anything)
+4. Commit your changes with a good message
+5. Push to your fork on GitHub
+6. Open a Pull Request
+7. Respond to code review
+
+
+Unit test
+![[Pasted image 20260223001019.png]]
+
+![[Pasted image 20260223000944.png]]
+npm test
+
+![[Pasted image 20260223002026.png]]
+
+
+x. ctl+c to end the server
+
+
+
+
+
+
+Other operations:
+
+### Check what branch your bug fix was based on
+
+PowerShell
+
+```
+git log --oneline pixelDensity-bug-fix-2x -5
+```
+
+This shows the last 5 commits on your branch. Compare them with:
+
+PowerShell
+
+```
+git log --oneline dev-2.0 -5
+```
+
+Compare the 2
+
 

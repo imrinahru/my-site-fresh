@@ -13,14 +13,18 @@ draft: false
 
 As an attempt to try more color mixing and gradation in riso, I tried to directly capture 3D render with buffer texture in p5.js, and also separate colors in the same program using p5.riso.
 
-![[img002.jpg]]![[img001.jpg]]
+![cube_postcard]({{ '/content/assets/img/cube_postcard.jpg' | relative_url | uri_escape }})
+
+![cubes_postcard]({{ '/content/assets/img/cubes_postcard.jpg' | relative_url | uri_escape }})
+
 
 ## Code
 
 [link](https://editor.p5js.org/imrinahru/sketches/_rCc5P8hT)
 
-![[Pasted image 20260221140212.png]]
-![[Pasted image 20260221140256.png]]
+![screenshot1]({{ '/content/assets/img/screenshot1.png' | relative_url | uri_escape }})
+
+![screenshot2]({{ '/content/assets/img/screenshot2.png' | relative_url | uri_escape }})
 
 
 **Global Variables:**
@@ -234,24 +238,36 @@ The code contains **4 commented-out versions** of `createGradientFace` and 
 The goal is to paint a gradient (color that smoothly fades from one color to another) onto a flat square, which will become a face of the 3D cube.
 
 Current active version:
-![[Pasted image 20260221135210.png]]
+
+![cssgradaion]({{ '/content/assets/img/cssgradaion.png' | relative_url | uri_escape }})
+
+
 
 Using loadPixels:
-![[Pasted image 20260221135108.png]]
+
+![loadPixels()]({{ '/content/assets/img/loadPixels().png' | relative_url | uri_escape }})
+
 
 Using lerpColor on rects:
-![[Pasted image 20260221134847.png]]
+
+![lerpColor]({{ '/content/assets/img/lerpColor.png' | relative_url | uri_escape }})
+
 
 Using single layer, CSS opaque gradient:
-![[Pasted image 20260221134638.png]]
+
+![cssgradient_onelayer]({{ '/content/assets/img/cssgradient_onelayer.png' | relative_url | uri_escape }})
+
 
 Using lots of stripes:
-![[Pasted image 20260221134529.png]]
+
+![opacityvariedloops]({{ '/content/assets/img/opacityvariedloops.png' | relative_url | uri_escape }})
+
 
 
 And previous attempt on radial gradation:
 Harder edges and not fully covering the surface
-![[Pasted image 20260221135712.png]]
+
+![radialwithcircles]({{ '/content/assets/img/radialwithcircles.png' | relative_url | uri_escape }})
 
 
 ## Use vertex for any forms
@@ -410,7 +426,8 @@ function draw() {
 
 Mindful when using alpha, as it's only reflected when color is given in terms of r, g, b
 
-![[Pasted image 20260218131016.png]]
+![alpha]({{ '/content/assets/img/alpha.png' | relative_url | uri_escape }})
+
 
 
 ## Shader ver.

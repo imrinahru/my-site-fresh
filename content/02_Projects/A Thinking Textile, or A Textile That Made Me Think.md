@@ -94,7 +94,7 @@ The circuit looks like this:
     allowfullscreen>
   </iframe>
 </div>
-(Niloofar trying the half-adder logic gates on breadboard)
+(Trying out the half-adder logic gates on breadboard)
 
 
 
