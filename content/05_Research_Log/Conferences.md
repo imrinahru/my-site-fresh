@@ -6,7 +6,6 @@ tags:
 draft: false
 ---
 
-## Context
 
 This is a parking space for conference information that interested me.
 

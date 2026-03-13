@@ -10,7 +10,7 @@ date:
 draft: false
 ---
 
-# Camera operation
+## Basic operation
 
 
 - 30fps vs 24fps
@@ -33,3 +33,7 @@ draft: false
 - Tripod can be lengthened, leg opening angles can be adjusted at their joints
 	- usually just grab open (if its new, a bit tight)
 	- a handle that can be turned to change the opening angle, either to wide, or narrower (2 options for this light-weight model)
+
+
+## Light source
+

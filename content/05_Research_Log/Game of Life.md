@@ -17,6 +17,16 @@ What if a machine is also working on our side? How do we want it to behave?
 
 ---
 
+# Prototype
+
+[sketch](https://editor.p5js.org/imrinahru/sketches/ZutS7a3gE)
+
+This is a rough prototype I made in p5.js. A random life is added to the canvas per frame to keep the colony active.
+
+
+
+---
+
 # Concept
 
 _“Using the Game of Life to simulate the act of working—a higher-order representation of human effort and emergent complexity.”_

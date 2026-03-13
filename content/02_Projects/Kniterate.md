@@ -15,6 +15,9 @@ draft: false
 ---
 
 # Explore Kniterate
+
+Access editor via: https://editor.kniterate.design/app/
+
 ## Context & Facilities
 
 Below is a quick memo on what I have learnt on the digital knitting machine housed in XFab. The machine became a knot that linked me to people from the Material Art and Design (MAAD), including Dr. [Lynne Heller,](https://www.lynneheller.com/) and Carson, class assistant from the Textile Studio. They are working on [Thinking Through Craft and the Digital Turn (CDT)](https://www.craftandthedigitalturn.com/)which resonated deeply with my interest in the digital craft. 
@@ -121,7 +124,7 @@ Below is a quick memo on what I have learnt on the digital knitting machine hous
 
 ---
 
-## Knit basics (during the holiday)
+## Knit basics 
 
 The "jacquard" as called in Kniterate term mixes double-knitting with actual jacquard. 
 Jacquard starts from a punch card system that allows people to create intricate images in weave. 
@@ -137,20 +140,20 @@ Here is a sample of reverse color double-knitting sample that I did by hand to u
 
 
 ---
-## Details
+## Editor
 
-- From pattern view window, can switch to different views
-	- occupancy, number of stitches on a needle
-- kc file
-- params
+-  Switch to different views from the pattern view window
+	- ==occupancy = number of stitches on a needle==
+- Select file format, kc file is the default. 
+- Select params
 	- miss: blank canvas
 	- front bed (default)
-	- rear bed ()
+	- rear bed 
 - Settings
-	- compiler options
-		- carrier spacing=#of needles between carriers/feeders when they are parked at the edge
+	- ==compiler options==
+		- ==carrier spacing=== number of needles between carriers/feeders when they are parked at the edge
 		- default to 2 and 7.5
-		- stopping distance=closest feeder sits from the edge
+		- ==stopping distance===closest feeder sits from the edge
 - 
 ![[halfpitch.png]]
 - Needle pair on the front and rear bed
@@ -161,10 +164,15 @@ Here is a sample of reverse color double-knitting sample that I did by hand to u
 - knitting bed differs by half pitch, the rr bed has been moved/racked half a needle position
 	- rack setting: 0.5
 - miss=slip stitch, the explicit miss can be helpful to force the carriage to move to a certain position
-- tuck = yarn is placed on the needle but is not knitted through the pre-existing loop. it makes a fabric wider
+- tuck = yarn is placed on the needle but is not knitted through the pre-existing loop. it makes a fabric wider, it does not add to length
 ![[Pasted image 20260130133938.png]]
 ![[Pasted image 20260130134135.png]]
-- The beds are at pitch=transfer position
+
+> [!Miss vs. drop stitch]
+>
+> ![[Pasted image 20260227131758.png]]
+
+- The beds needs to be at pitch for transfer position
 ![[Pasted image 20260130134305.png]]
 - 2 rows to transfer
 	- kniterate never transfer adjacent needles
@@ -173,7 +181,7 @@ Here is a sample of reverse color double-knitting sample that I did by hand to u
 	- then 2 rows of back
 	- then [from back transferred back to front](https://www.youtube.com/watch?v=SEzD8J5iZxs)
 
-- Yarn
+- ==Yarn==
 	- singles, not recommended on kniterate
 	- ply = # of singles to create a yarn
 	- ends =# of yarns in a single feed (eg. two yarns might be correct weight)
@@ -193,33 +201,118 @@ Here is a sample of reverse color double-knitting sample that I did by hand to u
 	- Handknitting, its around the range for lace
 	- thinner as the number goes up
 	- Yarn balance: Use Beesley/McMoran to check weight of a yarn
+- [Options in option column](https://support.kniterate.com/hc/en-us/articles/11675168630045-THE-OPTIONS-COLUMN)
+	- **Row number:** to be read from bottom to top
+	- **Rack:** -4.0 to +4.0 range, each step is 0.5 (half-needle)
+	- **Speed**: up to 800 mm/sec
+	- **Roll (Roller pull-down)**: 0 to 999 
+	- **S/F (Stitch size for front) and S/R (Stitch size for rear)**: 0 to 15, it controls **loop size / yarn tension** on each bed.
+	- **Dir (Carriage direction)**:**** Dir tells the machine **which direction the row will knit**. (no change in this case)
+		- 0>  Left to right
+		- <1  Right to left
+		- <2 / 2> Any (as per arrow)
+	- **Yarn (yarn carrier):** 1 to 6
+### Design example 
 
-Design
 - 1 by 1 rib: 1 welt of knitting on the front, 1 welt at back
+
+
+> [!NOTE] Welt?
+> 
+
+
 - garter stitch
 	- transfer stitches to the opposite bed after every row
 - ridges
 
-
 ![[Pasted image 20260206121535.png]]
 - width = # of needles
 - height = # of rows
-- free edit layer
+1. Add a free edit layer
 ![[Pasted image 20260206121729.png]]
 ![[Pasted image 20260206122403.png]]
 ![[Pasted image 20260206122429.png]]
-- Transfer rear bed stitches to front bed is needed so that already knited stitchdo not build up at unused needles
+- Transitioning from rib to garter, transferring rear bed stitches to front bed is needed so that already knited stitch do not build up at unused needles
 ![[Pasted image 20260206122638.png]]
 - {10, 10}: 1st place = needle #, 2nd place = row #
-- yarn used
-- what stitch is use
-- add a row
+- Yarn: yarn used
+- Code: what stitch is used
+2. To transfer beds, add a row from layers
 ![[Pasted image 20260206122833.png]]
-- Quicker way to do transfer
+- A quicker way to do transfer
 ![[Pasted image 20260206124934.png]]
-- 
 
+
+3. Adjusting settings and repeats
+
+![[Pasted image 20260313031731.png]]
+
+- Either add a layer named: edit options column, or for free edit layer, you can change setting directly in left-side actions column
+![[Pasted image 20260313031808.png]]
+
+- know the yarn weight, nm 6 wool. 
+-  Set the speed. It's important to knit slowly when you are testing a new yarn
+-  Set the roller. Roller serves the same purpose as a weight in domestic knitting machine, preventing the stitches on the needles from jumping up and drop
+- Rows with knit symbols must have a yarn carrier assigned.
+- Transfer rows must have NO yarn carrier assigned.
+- If creating an "edit options column" , insert layer right after the structure , select the fabric yarn availability
+- .
+
+>  Right underneath the needle beds, two rollers catch the fabric and pull it down. The amount of force with which they pull the fabric down is called the takedown.
+
+>  How much takedown is needed?
+>  The amount of takedown you need is highly dependent on the yarn and knitting technique you're using. Below are some tips for how to adjust the rollers to solve certain issues:
+>  - If stitches are dropping during transfers, try increasing the takedown in the row before the transfer.
+>  - If stitches are breaking during transfers, try decreasing the takedown.
+>  - If you are using stitch sizes higher than 10, use more takedown. (not for transferring stitches)
+>  - For jacquard knits use a high takedown.
+>  - Here are some guidelines for you to use:
+
+| **Situation**                                                                                                         | **Suggested initial takedown** |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Plain single jersey or double jersey                                                                                  | 450                            |
+| Jacquards:<br><br>2-color<br><br>Multicolored                                                                         | 500-700<br><br>600-800         |
+| Rows with transferring stitches                                                                                       | 0-50                           |
+| Row before rows with transferring stitches                                                                            | 0-50% of takedown              |
+| Last row after many consecutive rows with transferring stitches (This little tug can help to avoid dropping stitches) | 50-100                         |
+(Excerpt from [support.kniterate](https://support.kniterate.com/hc/en-us/articles/360019405297-Adjusting-the-rollers))
+
+
+## Pattern design
+
+
+>  Posting a couple of mesh fabric test swatches, prime examples of things I rarely did on my own domestic machines, because they can be tedious so tedious. So much more fun on the Kniterate! The swatches use basic 1x1 transfers. I'm hoping that [plasmatopia](https://support.kniterate.com/hc/en-us/profiles/375199403737-plasmatopia) will post some of her amazing lace swatches and scarves (with more interesting transfers) here.
+
+(Excerpt from https://support.kniterate.com/hc/en-us/community/posts/360014900197-Knitting-textures)
+
+
+
+Drop off, checks, and compiler settings
+
+A course
+Wale
+
+Waste knitting: interlock or tubular knitting (stitches solely on the front followed by stitches solely on the back)
+draw yarn is knitted between the waste and the product.
+
+buck only holds an image file, use cstack format instead to keep al the layer information
+
+[A guide to Kniterate with Tom Catling](https://www.youtube.com/watch?v=Z3aL_rB2pro) 2:20, where the carrier needs to be to be picked up by the machine?
+A: As long as the carrier is not at the far right. 
+Also, a gogd position to start is having carriers not overlapping each other and form a diagonal line, but also not positioned into the knitting area
+
+Centering the knit
+It's good to have knit in the middle .
+Do all the work (waste, image, all the edits then add a layer of "center on bed".
+It's done at the very end because if that is done in the beginning, the whole line will be automatically filled with stitches
+
+
+Dropping
+
+Eyelet knitting: transferring stitches to one next to it
 
 ## Reference
 
 - [kniterate basic knitting concept](https://www.kniterate.com/2023/10/25/basic-knitting-concepts/)
+- [kniterate youtube](https://www.youtube.com/@Kniterate)
+- 

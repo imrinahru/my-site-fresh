@@ -220,6 +220,9 @@ It is therefore important to make invisible visible in every step possible, if w
 So while I aimed to recreate a "thinking fabric" similar to what Babbage has tried in the 19th Century on his "thinking machine", the value of this exploration lies in how much it made me think of the materials to ensure human-fabricated abstraction holds, rather than the other way round.
 
 
+Looking forward, I'm interested in looking at physical materiality and digital materiality as something continuous and seamless. Both craft and digital artefacts have its narrative/history of the object.
+
+
 Special thanks to my classmates and professors of Graduate Atelier appearing in the documentation, in the order of appearance:
 
 Niloofar, 
@@ -245,3 +248,7 @@ And thanks to Yuhan I was able to have abundant recordings of my exhibition.
 - [_RSN Essential Stitch Guide to Goldwork_](https://royal-needlework.org.uk/product/rsn-essential-stitch-guide-to-goldwork/) by Helen McCook
 
 More reference summarized in [Embroidered Computer](../05_Research_Log/Embroidered%20Computer.html).
+
+- [4-Bit Calculator Built Using Digital Logic Gates](https://www.gsnetwork.com/4-bit-calculator-built-using-digital-logic-gates/)
+- [4 bit binary calculator](https://www.instructables.com/4-Bit-Binary-Adder-Mini-Calculator/)
+- 

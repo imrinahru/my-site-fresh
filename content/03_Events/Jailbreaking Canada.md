@@ -15,6 +15,10 @@ OCAD University
 (Event: _Jailbreaking Canada_)
 
 https://www.ocadu.ca/events-and-exhibitions/jailbreaking-canada
+
+![[WhatsApp Image 2026-03-07 at 8.47.02 PM.jpeg]]
+(please remind me who made the drawing!)
+
 ---
 
 ## 1. Overview

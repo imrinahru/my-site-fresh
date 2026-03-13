@@ -1,34 +1,64 @@
 ---
-title: Untitled
+title: First Bug Fix
 date: 2025-11-16
 tags:
   - project
 summary: |
   Elevator-pitch description (appears on the card).
 status: idea
-cover: ./img/<image>.png
+cover:
 draft: false
 ---
-##### Sample contribution routine in a command line
-
-
-1. Open windows PowerShell
-2. `cd` to go to the folder of the local repo
-3. `ls` list the last write time of files in the directory
-4. `git branch` to check which branch you are currently on
-5. Rebase the the bug fix branch to the latest `main` if it were created a while ago
-6. `git remote -v` to check the upstream remote (the original p5.js repo) set up
 
 
 
+A first contribution/bug fix can feel intimidating. Here is a sample routine of debugging using p5.js, GitHub and command lines (Windows Powershell). 
+
+Issue: [[p5.js 2.0 Bug Report]: Switching from 1.x to 2.x, pixelDensity() only applies to canvas, not p5.Graphics #8289](https://github.com/processing/p5.js/issues/8289#event-23004513635)
+Fix: [fix: createGraphics inherits pixelDensity from parent sketch.#8558](https://github.com/processing/p5.js/pull/8558)
+
+
+## A Mental Model
+
+You have 3 copies of the repo
+
+| Name         | Where it lives                | What it is                                             |
+| ------------ | ----------------------------- | ------------------------------------------------------ |
+| **upstream** | `github.com/processing/p5.js` | The original p5.js repo (owned by the Processing team) |
+| **origin**   | `github.com/imrinahru/p5.js`  | Your fork on GitHub (your copy)                        |
+| **local**    | `C:\path\to\p5.js`            | The folder on your computer                            |
+
+Helpful commands:
+1. `cd` to go to the folder of the local repo
+2. `ls` list the last write time of files in the directory
+3. `git remote -v` to check the upstream remote (the original p5.js repo) set up
+4.  `git fetch upstream` to download latest refs from upstream (the original repository)
+
+> [!NOTE] git fetch
+> **downloads** all the latest commits, branches, and tags from the remote — but **leaves your working files exactly as they are**
+
+5. `gif pull origin <branch name>` **downloads AND merge into my current branch**
+
+> [!NOTE] git fetch vs. git pull
+> When to use which?
+> 
+> | Situation                                                                 | Use         | Why                                          |
+| ------------------------------------------------------------------------- | ----------- | -------------------------------------------- |
+| You want to **check** what changed before touching anything               | `git fetch` | Safe — doesn't modify your files             |
+| You're **ready to update** your branch with the latest code               | `git pull`  | Convenient — does everything in one step     |
+| You're in the **middle of coding** and don't want to risk breaking things | `git fetch` | You can review first, merge later when ready |
+| You **just started** and want to get up to date quickly                   | `git pull`  | Fastest way to sync up                       |
+
+6. `git branch` to check which branch you are currently on
+7. `git checkout <branch name>` to switch to a specific local branch
+8. `git log -1` check your last commit
+
+The command line example 
 
 ```
 PowerShell 7.5.4
-PS C:\Users\rinac> cd C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> ls
-
-    Directory: C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor
-
+PS ... ls
+...
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 d----          2025-11-10  6:51 AM                .github
@@ -46,34 +76,22 @@ d----          2025-11-10  6:51 AM                webpack
 -a---          2025-11-10  6:51 AM           1184 .env
 -a---          2025-11-10  6:51 AM           1184 .env.example
 -a---          2025-11-10  6:51 AM             18 .eslintignore
--a---          2025-11-10  6:51 AM           4351 .eslintrc
--a---          2025-11-10  6:51 AM            351 .gitignore
--a---          2025-11-10  6:51 AM              8 .nvmrc
--a---          2025-11-10  6:51 AM            400 .prettierrc
--a---          2025-11-10  6:51 AM           1155 .travis.yml
--a---          2025-11-10  6:51 AM           2706 app.json
--a---          2025-11-10  6:51 AM           1055 deploy_staging.sh
--a---          2025-11-10  6:51 AM           1009 deploy.sh
--a---          2025-11-10  6:51 AM            411 docker-compose-development.yml
--a---          2025-11-10  6:51 AM           1623 docker-compose.yml
--a---          2025-11-10  6:51 AM            723 Dockerfile
--a---          2025-11-10  6:51 AM            845 index.js
--a---          2025-11-10  6:51 AM           5617 kubernetes_app.yml
--a---          2025-11-10  6:51 AM          24479 LICENSE
--a---          2025-11-10  6:51 AM            211 nodemon.json
--a---          2025-11-10  9:02 AM        2858876 package-lock.json
--a---          2025-11-10  6:51 AM          11329 package.json
--a---          2025-11-10  6:51 AM             74 Procfile
--a---          2025-11-10  6:51 AM           4934 README.md
--a---          2025-11-10  6:51 AM            718 tsconfig.base.json
--a---          2025-11-10  6:51 AM             96 tsconfig.json
+...
+```
 
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> git branch
+```
+PS ... git branch
 * develop
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> git remote -v
+```
+
+```
+PS ... git remote -v
 origin  https://github.com/imrinahru/p5.js-web-editor.git (fetch)
 origin  https://github.com/imrinahru/p5.js-web-editor.git (push)
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> git pull origin develop
+```
+
+```
+PS ... git pull origin develop
 remote: Enumerating objects: 15, done.
 remote: Counting objects: 100% (2/2), done.
 remote: Compressing objects: 100% (2/2), done.
@@ -87,7 +105,10 @@ Fast-forward
  client/modules/IDE/hooks/useP5Version.jsx | 6 +++---
  common/p5Versions.js                      | 1 +
  2 files changed, 4 insertions(+), 3 deletions(-)
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> npm install
+```
+
+```
+PS ... npm install
 
 up to date, audited 3229 packages in 1m
 
@@ -127,185 +148,39 @@ PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor
 (node:2776) [MONGOOSE] Warning: Duplicate schema index on {"email":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
 p5.js Web Editor is running on port: 8000!
 p5.js Preview Server is running on port: 8002
-=============
-
-WARNING: You are currently running a version of TypeScript which is not officially supported by @typescript-eslint/typescript-estree.
-
-You may find that it works just fine, or you may not.
-
-SUPPORTED TYPESCRIPT VERSIONS: >=3.3.1 <5.2.0
-
-YOUR TYPESCRIPT VERSION: 5.9.2
-
-Please only submit bug reports when using the officially supported version.
-
-=============
-assets by chunk 62.4 KiB (auxiliary name: app)
-  assets by path *.svg 27.6 KiB 21 assets
-  asset 2e95a3ff3baf95b44e86.mp3 21.4 KiB [emitted] [immutable] [from: client/sounds/audioAlert.mp3] (auxiliary name: app)
-  asset images/p5js-square-logo..png 13.4 KiB [emitted] [from: client/images/p5js-square-logo.png] (auxiliary name: app)
-assets by path locales/ 427 KiB
-  asset locales/hi/translations.json 42.7 KiB [emitted] [from: translations/locales/hi/translations.json] [copied]
-  asset locales/bn/translations.json 37.6 KiB [emitted] [from: translations/locales/bn/translations.json] [copied]
-  asset locales/uk-UA/translations.json 36.4 KiB [emitted] [from: translations/locales/uk-UA/translations.json] [copied]
-  asset locales/ur/translations.json 28.6 KiB [emitted] [from: translations/locales/ur/translations.json] [copied]
-  + 12 assets
-assets by path *.js 54.4 MiB
-  asset app.js 43.2 MiB [emitted] (name: app)
-  asset previewApp.js 8.39 MiB [emitted] (name: previewApp)
-  asset previewScripts.js 2.83 MiB [emitted] (name: previewScripts)
-orphan modules 815 KiB [orphan] 443 modules
-runtime modules 87.1 KiB 46 modules
-modules by path ./node_modules/ 14 MiB
-  javascript modules 13.9 MiB 1338 modules
-  json modules 46.6 KiB 5 modules
-modules by path ./client/ 2.19 MiB (javascript) 63.3 KiB (asset) 281 modules
-modules by path ./server/ 12.1 KiB 6 modules
-modules by mime type image/png 1.59 KiB
-  data:image/png;base64,iVBORw0KGgoAAAAN.. 324 bytes [built] [code generated]
-  data:image/png;base64,iVBORw0KGgoAAAAN.. 295 bytes [built] [code generated]
-  + 4 modules
-modules by path ./common/ 3.91 KiB
-  ./common/p5Versions.js 2.63 KiB [built] [code generated]
-  ./common/types/index.ts 1.28 KiB [built] [code generated]
-./package.json 9.12 KiB [built] [code generated]
-webpack 5.94.0 compiled successfully in 219884 ms
-assets by chunk 62.4 KiB (auxiliary name: app)
-  assets by path *.svg 27.6 KiB 21 assets
-  asset 2e95a3ff3baf95b44e86.mp3 21.4 KiB [emitted] [immutable] [from: client/sounds/audioAlert.mp3] (auxiliary name: app)
-  asset images/p5js-square-logo..png 13.4 KiB [emitted] [from: client/images/p5js-square-logo.png] (auxiliary name: app)
-assets by path locales/ 427 KiB
-  asset locales/hi/translations.json 42.7 KiB [emitted] [from: translations/locales/hi/translations.json] [copied]
-  asset locales/bn/translations.json 37.6 KiB [emitted] [from: translations/locales/bn/translations.json] [copied]
-  asset locales/uk-UA/translations.json 36.4 KiB [emitted] [from: translations/locales/uk-UA/translations.json] [copied]
-  asset locales/ur/translations.json 28.6 KiB [emitted] [from: translations/locales/ur/translations.json] [copied]
-  + 12 assets
-assets by path *.js 54.4 MiB
-  asset app.js 43.2 MiB [emitted] (name: app)
-  asset previewApp.js 8.39 MiB [emitted] (name: previewApp)
-  asset previewScripts.js 2.83 MiB [emitted] (name: previewScripts)
-orphan modules 815 KiB [orphan] 443 modules
-runtime modules 87.1 KiB 46 modules
-modules by path ./node_modules/ 14 MiB
-  javascript modules 13.9 MiB 1338 modules
-  json modules 46.6 KiB 5 modules
-modules by path ./client/ 2.19 MiB (javascript) 63.3 KiB (asset) 281 modules
-modules by path ./server/ 12.1 KiB 6 modules
-modules by mime type image/png 1.59 KiB
-  data:image/png;base64,iVBORw0KGgoAAAAN.. 324 bytes [built] [code generated]
-  data:image/png;base64,iVBORw0KGgoAAAAN.. 295 bytes [built] [code generated]
-  + 4 modules
-modules by path ./common/ 3.91 KiB
-  ./common/p5Versions.js 2.63 KiB [built] [code generated]
-  ./common/types/index.ts 1.28 KiB [built] [code generated]
-./package.json 9.12 KiB [built] [code generated]
-webpack 5.94.0 compiled successfully in 223588 ms
-assets by status 54.8 MiB [cached] 42 assets
-cached modules 17 MiB (javascript) 63.3 KiB (asset) 87.1 KiB (runtime) [cached] 2128 modules
-webpack 5.94.0 compiled successfully in 2582 ms
-assets by status 54.8 MiB [cached] 42 assets
+...
 cached modules 17 MiB (javascript) 63.3 KiB (asset) 87.1 KiB (runtime) [cached] 2128 modules
 webpack 5.94.0 compiled successfully in 1937 ms
 ```
 
 ```
-Windows PowerShell
-Copyright (C) Microsoft Corporation. All rights reserved.
 
-Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
-
-PS C:\Users\rinac>  cd C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> git checkout -b documentation-updates
+PS ... git checkout -b documentation-updates
 Switched to a new branch 'documentation-updates'
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> git branch
+```
+
+```
+PS ... git branch
   develop
 * documentation-updates
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> git commit -1
-error: unknown switch `1'
-usage: git commit [-a | --interactive | --patch] [-s] [-v] [-u[<mode>]] [--amend]
-                  [--dry-run] [(-c | -C | --squash) <commit> | --fixup [(amend|reword):]<commit>]
-                  [-F <file> | -m <msg>] [--reset-author] [--allow-empty]
-                  [--allow-empty-message] [--no-verify] [-e] [--author=<author>]
-                  [--date=<date>] [--cleanup=<mode>] [--[no-]status]
-                  [-i | -o] [--pathspec-from-file=<file> [--pathspec-file-nul]]
-                  [(--trailer <token>[(=|:)<value>])...] [-S[<keyid>]]
-                  [--] [<pathspec>...]
+```
 
-    -q, --[no-]quiet      suppress summary after successful commit
-    -v, --[no-]verbose    show diff in commit message template
-
-Commit message options
-    -F, --[no-]file <file>
-                          read message from file
-    --[no-]author <author>
-                          override author for commit
-    --[no-]date <date>    override date for commit
-    -m, --[no-]message <message>
-                          commit message
-    -c, --[no-]reedit-message <commit>
-                          reuse and edit message from specified commit
-    -C, --[no-]reuse-message <commit>
-                          reuse message from specified commit
-    --[no-]fixup [(amend|reword):]commit
-                          use autosquash formatted message to fixup or amend/reword specified commit
-    --[no-]squash <commit>
-                          use autosquash formatted message to squash specified commit
-    --[no-]reset-author   the commit is authored by me now (used with -C/-c/--amend)
-    --trailer <trailer>   add custom trailer(s)
-    -s, --[no-]signoff    add a Signed-off-by trailer
-    -t, --[no-]template <file>
-                          use specified template file
-    -e, --[no-]edit       force edit of commit
-    --[no-]cleanup <mode> how to strip spaces and #comments from message
-    --[no-]status         include status in commit message template
-    -S, --[no-]gpg-sign[=<key-id>]
-                          GPG sign commit
-
-Commit contents options
-    -a, --[no-]all        commit all changed files
-    -i, --[no-]include    add specified files to index for commit
-    --[no-]interactive    interactively add files
-    -p, --[no-]patch      interactively add changes
-    -o, --[no-]only       commit only specified files
-    -n, --no-verify       bypass pre-commit and commit-msg hooks
-    --verify              opposite of --no-verify
-    --[no-]dry-run        show what would be committed
-    --[no-]short          show status concisely
-    --[no-]branch         show branch information
-    --[no-]ahead-behind   compute full ahead/behind values
-    --[no-]porcelain      machine-readable output
-    --[no-]long           show status in long format (default)
-    -z, --[no-]null       terminate entries with NUL
-    --[no-]amend          amend previous commit
-    --no-post-rewrite     bypass post-rewrite hook
-    --post-rewrite        opposite of --no-post-rewrite
-    -u, --[no-]untracked-files[=<mode>]
-                          show untracked files, optional modes: all, normal, no. (Default: all)
-    --[no-]pathspec-from-file <file>
-                          read pathspec from file
-    --[no-]pathspec-file-nul
-                          with --pathspec-from-file, pathspec elements are separated with NUL character
-
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor> git log -1
+```
+PS ... git log -1
 commit bf616998b0bb34f7d9eb97369ba8c792eac4c33a (HEAD -> documentation-updates)
 Author: imrinahru <120927437+imrinahru@users.noreply.github.com>
 Date:   Fri Nov 14 15:35:35 2025 -0500
 
     Adding in a title for manual installation for windows
-PS C:\Users\rinac\Documents\p5.js\00_Community\p5.js-web-editor\p5.js-web-editor>
+
 ```
 
-npm run test
-npm run dev
 
 
 
+## Debugging
 
-
-
-Debugging
-
-1. Add debugger in front of the code you want to see
+1. Add debugger in front of the code you want to see, it will stop the operation there in the developer's console
 ![[Pasted image 20251120125549.png]]
 
 2. ctl+shift+i to bring up developer's tool
@@ -330,8 +205,132 @@ Debugging
 ![[Pasted image 20251120141413.png]]
 
 
+## Setting up
 
-Now, the actual bug fix process is:
+Context:
+- I created a branch from the p5.js v1 codebase (`main` branch) a few months ago..
+- No changes were made on that branch
+- Now realizing the bug exists in **v2** (`dev-2.0` branch, currently at **v2.2.2**)
+- Need to start fresh from the latest upstream state on `dev-2.0`
+
+**A1. Install right version Node.js**
+
+Downloaded `node-v22.22.0-x64.msi` from [nodejs.org](https://nodejs.org/en/download).
+
+- Double-click the `.msi` file and follow the wizard (keep defaults, ensure **"Add to PATH"** is checked)
+- **Close and reopen PowerShell** after installation
+
+Verify it worked:
+
+```
+node -v
+```
+
+> Expected: `v22.22.0`  (p5.js requires at least v18)
+
+```
+npm -v
+```
+
+> Should print a version number (npm is bundled with the Node.js installer)
+
+---
+
+**Part B: Get Local Repo Ready on `dev-2.0`**
+
+B1. Navigate to local repo
+
+```
+cd C:\path\to\p5.js
+```
+
+B2. Verify the upstream remote
+
+```
+git remote -v
+```
+
+> If `upstream` is missing, add it:
+> 
+> ```
+> git remote add upstream https://github.com/processing/p5.js
+> ```
+ 
+B3. Fetch the latest from upstream
+
+```
+git fetch upstream
+```
+
+B4. Switch to the `dev-2.0` branch
+
+```
+git checkout -b dev-2.0 upstream/dev-2.0
+```
+
+> If the branch already exists locally, use instead:
+> 
+> ```
+> git checkout dev-2.0
+> git pull upstream dev-2.0
+> ```
+
+B5. Deleted old v1 bug-fix branch (no changes were made, safe to remove)
+
+```
+git branch -d old-bugfix-branch-name
+```
+
+B6. Create a new bug-fix branch from the latest `dev-2.0`
+
+```
+git checkout -b fix-your-bug-description
+```
+
+> Other operations:
+> Check what branch my previous bug fix was based on
+> 
+> ```
+> git log --oneline pixelDensity-bug-fix-2x -5
+> ```
+> 
+> This shows the last 5 commits on your branch. Compare them with:
+> 
+> ```
+> git log --oneline dev-2.0 -5
+> ```
+
+
+
+B7. Install dependencies
+
+```
+npm install
+```
+
+> This does a full install based on `package.json`. This needs to be **re-run every time `package.json` changes** (e.g., after pulling new upstream changes).
+
+B8. Check what scripts are available
+
+```
+npm run
+```
+
+> This lists all scripts from `package.json`. On the `dev-2.0` branch (v2.2.2), the key scripts are:
+> 
+> |Script|Command|What it does|
+> |---|---|---|
+> |`dev`|`vite preview/`|Starts a local dev server with hot reload for browser testing|
+> |`dev:global`|`concurrently rollup + vite`|Builds the global-mode library and serves it|
+> |`build`|`rollup -c`|One-time production build|
+> |`test`|`vitest`|Runs the full test suite|
+> |`lint`|`eslint .`|Checks code style|
+> |`lint:fix`|`eslint --fix .`|Auto-fixes code style issues|
+
+
+## Now, bug fix
+
+General idea: 
 1. **See the bug happen** → confirms you understand the problem
 2. **Write the fix** → change the code
 3. **See the bug disappear** → confirms your fix works
@@ -340,17 +339,17 @@ Now, the actual bug fix process is:
 
 Detailed operation:
 
-1. `npm install`, it needs to be run every time package.json is updated
-2. Check the script available in package.json, or run `npm run`
-3. Use available script `npm run dev` to develop and test in the browser
-4. Recreate and check the bug first
+6. `npm install`, it needs to be run every time package.json is updated
+7. Check the script available in package.json, or run `npm run`
+8. Use available script `npm run dev` to develop and test in the browser
+9. Recreate and check the bug first
 
 ![[Pasted image 20260222172208.png]]
 
 Hypothesis:
 _"When `createGraphics()` creates a new graphics buffer, **something** is setting its `pixelDensity`. That something is probably using `window.devicePixelRatio` (the screen's density) instead of the parent sketch's `pixelDensity()`."_
 
-
+10. Write fix
 
 ![[Pasted image 20260222172926.png]]
 
@@ -359,58 +358,115 @@ _"When `createGraphics()` creates a new graphics buffer, **something** is se
 ![[Pasted image 20260222174138.png]]
 
 ![[Pasted image 20260222180234.png]]
-Bug fixed!
+
+11. Repeat until bug is fixed!
+
 ![[Pasted image 20260222180247.png]]
 
-The difficult part: 
+The difficult part in this case, where I was working on making graphics object inheriting its canvas pixerlDensity: 
 pInst                = g (the Graphics object)
 pInst._pInst         = p (the sketch! because g remembers who created it)
 pInst._pInst._renderer = the main canvas renderer (which HAS pixelDensity = 1)
 
 
-1. ✅ Fix the bug
-2. Write a unit test
-3. Run existing tests (make sure you didn't break anything)
-4. Commit your changes with a good message
-5. Push to your fork on GitHub
-6. Open a Pull Request
-7. Respond to code review
+12. Write a unit test
 
-
-Unit test
 ![[Pasted image 20260223001019.png]]
 
-![[Pasted image 20260223000944.png]]
+How to add a unit test
+
+In my case, open `test/unit/core/rendering.js` and add your test inside the appropriate existing `suite(...)`, or create a new one.
+
+**Option A: Add a test to an existing suite**
+
+Find the suite that matches the feature area of your bug. For example, if your bug is about `pixelDensity`, add inside the `p5.prototype.createGraphics.pixelDensity` suite:
+
+**Option B: Create a new suite (if your bug doesn't fit an existing group)**
+
+Add it inside the top-level `suite('Rendering', ...)` block, **before the final closing `})
+
+**Assertion cheat sheet**
+
+The existing tests use both **Chai `assert`** (globally available) and **Vitest `expect`** (imported at the top). You can use either:
+
+|What you want to check|`assert` style|`expect` style|
+|---|---|---|
+|Equality|`assert.equal(actual, expected)`|`expect(actual).toEqual(expected)`|
+|Deep equality (arrays/objects)|`assert.deepEqual(actual, expected)`|`expect(actual).toEqual(expected)`|
+|Truthy|`assert.ok(value)`|`expect(value).toBeTruthy()`|
+|Type check|`assert.typeOf(val, 'function')`|`expect(typeof val).toBe('function')`|
+|Throws error|—|`expect(() => fn()).toThrow()`|
+
+#### Suites that need their own p5 instance
+
+Some test groups (like `set() with p5.Graphics`) create their **own `myp5`** with `beforeEach`/`afterEach` instead of sharing the top-level one. Do this if your test needs a **fresh p5 instance per test** (e.g., specific canvas size or pixel density):
+
+```
+  suite('your bug fix area', function() {
+    let myp5;
+
+    beforeEach(function() {
+      myp5 = new p5(function(p) {
+        p.setup = function() {
+```
+
+
+
+13.  Run the tests (all, make sure nothing is broken due to my fix)
+
+Stop the dev server (`Ctrl+C`) and run:
+
+```
 npm test
+```
+
+
+![[Pasted image 20260223000944.png]]
+
+There were 4 fails, check if these are caused by my bug fix or it existed beforehand.
 
 ![[Pasted image 20260223002026.png]]
 
 
-x. ctl+c to end the server
+14. Commit changes with a good message
 
-
-
-
-
-
-Other operations:
-
-### Check what branch your bug fix was based on
-
-PowerShell
+Check your changes to ensure only intended changes were made:
 
 ```
-git log --oneline pixelDensity-bug-fix-2x -5
+git status
+git diff
 ```
 
-This shows the last 5 commits on your branch. Compare them with:
-
-PowerShell
+Stage and commit:
 
 ```
-git log --oneline dev-2.0 -5
+git add .
+git commit -m "Fix: description of what you fixed"
 ```
 
-Compare the 2
 
+15. Push to your fork on GitHub
 
+```
+git push -u origin fix-your-bug-description
+```
+
+16. Open a Pull Request
+
+Open a **Pull Request** on GitHub targeting the **`dev-2.0`** branch on `processing/p5.js`. Fill in the PR template:
+
+- **Title:** Brief description of the fix
+- **Resolves:** `#issue_number`
+- **Changes:** What you changed and why
+
+17. Respond to code review
+
+18. You become a contributor!
+
+![[Pasted image 20260307133257.png]]
+
+---
+
+Special special thanks to Dave who both physically and remotely helped me with the debugging process. I would not have reached the end or even figured out how to start without his support. Being able to meet in person in Toronto through the Creative Coding community made the experience even more meaningful. It was deeply fulfilling.
+
+![[Pasted image 20260307134655.png]]

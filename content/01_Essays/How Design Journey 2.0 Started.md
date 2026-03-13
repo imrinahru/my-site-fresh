@@ -163,7 +163,7 @@ The most important is to expand the base population who can contribute, no matte
 
 Recently, an AI company CEO suggested, as more and more work is effectuated by AI, they started to have a different perspective. A task in which humans play an active role, even if some parts are delegated to AI, can be validated or modified at later steps. However, when a task has no more active involvement of humans, it incurs costs to the company in the middle- and long-run as nobody on the team has neither the initiative nor the knowledge to undertake the black-boxed task again. So even profit-driven companies would agree with my approach of empowering people at least to a certain extent. But beyond that point of agreement, how should we reconciliate? 
 
-![[twitter.png]]
+![twitter]({{ '/content/assets/img/twitter.png' | relative_url }})
 
 If the company owners are only interested in "making money" button, then once there is an AI that can reflect and correct their course of action, and provide results that surpass anything done by human, then is there any reason to keep any human employees? 
 

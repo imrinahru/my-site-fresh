@@ -79,3 +79,11 @@ If you are still stuck between HDPE and PP (since both float and both are tough)
     
 - **The Feel:** **HDPE** and **LDPE** feel "waxy" or "soapy" (like a candle). **PP** feels "plasticky" and grippy. **PLA** feels very hard, almost like a ceramic.
 
+---
+
+A quick note on UV printer
+
+- Great on acrylic surface
+- use .eps format
+- what has a special color setting
+- In illustrator, add a transparent boundary

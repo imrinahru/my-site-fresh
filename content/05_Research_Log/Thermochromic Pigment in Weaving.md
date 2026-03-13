@@ -15,4 +15,4 @@ draft: false
 
 ## Reference
 
-https://extx.unstable.design/docs/weeklies/5-color-work/
+[Experimental Textiles](https://extx.unstable.design/docs/weeklies/5-color-work/)

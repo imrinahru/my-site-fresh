@@ -8,5 +8,8 @@ draft: false
 
 
 ## Reference
-https://extx.unstable.design/docs/weeklies/7-put-it-in-a-pocket/
+
+[Experimental textiles](https://extx.unstable.design/docs/weeklies/7-put-it-in-a-pocket/), by Laura Devendorf from ATLAS Institute & Dept. of Information Science, Colorado
+
+
 ![[Pasted image 20260205135922.png]]

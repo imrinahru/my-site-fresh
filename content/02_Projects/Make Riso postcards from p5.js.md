@@ -21,7 +21,6 @@ So when I printed this poster for my program's Open Show, I was also tempting to
 **Poster** (Cute illustration by [Melanie](https://www.melanieyan.com/))
 
 ![[WhatsApp Image 2026-01-15 at 11.18.11 PM.jpeg]]
-![[WhatsApp Image 2026-01-15 at 11.19.25 PM.jpeg]]
 More than 50 posters were put around canvas, thanks to classmates and professors spreading them.
 
 **Postcards!**
@@ -81,7 +80,7 @@ Using p5.js buffer methods to draw design on a separate buffer, and then render 
 Using piexifjs library, a tool that lets you add "information labels" to JPEG files. So that DPI and canvas size set in p5.js will be correctly reflected in JPEG and Photoshop etc.
 
 Turning to jpeg is good for later manipulation in Illustrator.
-There is a way to export in PDF [[Riso_3D (WEBGL)|as well]].
+There is a way to export in PDF [[Riso_3D|as well]].
 
 Steps:
 ```

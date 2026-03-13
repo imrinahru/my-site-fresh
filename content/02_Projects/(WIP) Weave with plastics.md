@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Weave with Plastics
 date: 2025-11-16
 tags:
   - project

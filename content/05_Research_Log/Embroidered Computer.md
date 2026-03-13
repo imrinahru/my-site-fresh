@@ -332,6 +332,10 @@ https://medium.com/data-science/ultra-tinyml-machine-learning-for-8-bit-microcon
 ![[assets/img/embroidered_computer_signal_diagram.png]]
 
 ![[2851581.2891101.pdf]]
+
+
+
+
 ![[StitchingWorlds_Book_Kurbak_Ed__1_May2019_PDF-A.pdf]]
 
 ### Process reference

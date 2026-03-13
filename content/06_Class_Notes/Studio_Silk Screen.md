@@ -1,6 +1,6 @@
 ---
-course: Textile Surface Design
-week: Week 1
+course: "Studio: Silkscreen"
+week:
 instructor: Anna Galindo
 tags:
   - class-notes
@@ -35,7 +35,7 @@ Necessary materials
 **Different things you can use to make silkscreen**
 - posterized images using photoshop ()
 - acetate with posca hand drawing
-- 
+- ...
 
 
 
@@ -45,7 +45,7 @@ Necessary materials
 ### Coating
 
 - Find the right metal scrape that covers as much area as possible
-- Check the mesh tension (if not good, what can I do?)
+- Check the mesh tension (if not good, you can redo the screen)
 - Pick up emulsion from the drawer underneath the table, use #1
 - There is a handy tool to open the tight lid, and seal the lid tightly after use
 - Pour emulsion into the rack, rock back and forth across the rack
@@ -57,9 +57,7 @@ Steps
 4. Use spatula to scrape off extra from both print and back side, put the excess into #2
 5. Check that there's not blotch
 6. Label name and date
-7. Put into cabinet, only overnight
-8. 
-
+7. Put into cabinet (only overnight)
 
 ## Stencil making
 
@@ -151,34 +149,131 @@ draw
 scan
 print4 of them, and create a repeat pattern
 ![[SD1-HO-11-StraightRepeat.pdf]]
----
-
-## Practice & Studio Work
-- Tuesday~ work in wet room (southern end)
-- Monday wet room is very busy 
-- Wed: 8:30~8:00
-- Other than Wed: 10:00~8:00
-- Sat: 1:00~6:00
 
 ---
 
-## Critique & Feedback
-- **Instructor Feedback:**  
-- **Peer Feedback:**  
 
----
+After hand drawn pattern, cleaning and aligning using contrast manipulation and pattern preview.
+- make correction in side the canvas
 
-## Reflection & Connections
-- **How does this link theory + practice?**  
-- **Personal Insights / Questions:**  
+![[Pasted image 20260310124311.png]]
+
+corrected:
+![[Pasted image 20260310124240.png]]
 
 
----
+![[Slide presentation - transparencies for registration printing R.pdf]]
 
-## To-Do & Follow-up
-- [ ] Reading for next class:  
-- [ ] Studio experiment to try:  
-- [ ] Concept to develop further:  
+![[Pasted image 20260310125803.png]]
+![[Pasted image 20260310130711.png]]
+Do the same for the background color
+
+
+
+- Mindful with the contrast between inks
+- something that might work:
+	- textile color in the mid (colorful)
+	- light ink, close to white
+	- dark ink (can be outline/background)
+
+- Habotai, Charmeuse, Satin silk
+	- Habotai is a bit fine and difficult for screen printing
+	- Charmeuse is better
+	- Satin as well
+
+- Halftone
+	- mesh count  110
+	- yellow mesh 230
+	- 30~35 lpi
+	- 40, 39~42 lpi
+![[Pasted image 20260310134038.png]]
+![[Pasted image 20260310134047.png]]
+
+nice contrast, middletone can help with increasing lpi while not compromising
+
+
+## Block printing
+
+Print variety
+- full-drop repeat
+- half-drop repeat
+- triangle
+- diamond
+- hexagon
+- Ogee, circle with points at top and bottom
+- scale, a fan shaped block
+
+Block printing
+- Angie Lewin's Lino cutting, 2013
+- India wooden block. Jaipur
+- Kate Austin
+- Lotta Jansdotter
+- William Morrison
+- positive vs negative
+- carving away the negative space
+
+- Draw some sketches in block print size
+- white space will be carved away, black will remain
+- transfer to a tracing paper using pencil, outline in pencil
+- mark the center points
+- label the corners with : LT LB RB RT
+- cut tracing paper in half vertically
+- swap right and left and 
+- cut horizontally
+- then swap top and below
+- when positioning the motif on block, flip the design so that design faces down
+- rub the design to the block with a flat surface
+- V for detailed spaces
+- U for a large space
+- square for a straight line thicker
+- Use a exacto/nyurun blade to cutout outline, except something too detailed, try to cut to half way down the thickness
+- aim for halfway below level of motif, the tidier the print will be
+- cut the detail area first before large areas
+- cutting in (push down) and try to go straight (slide as flat as possible) don't dig into it, digging can give messier effect
+- At the end, tilt the blade upward to finish cutting
+
+
+
+Toile de Jouy
+- copper etching
+- floral
+	- Chintz fabric, block printed
+	- Waverly (1970~80), Norfolk rose or Fairhaven
+	- transitional, by Liz Galbraith, Flora
+	- contemporary, by Lotta Jansdotter, Blomster
+- categories
+	- lara cameron, floral, wood carving
+	- lucienne day, geometric
+	- Arounna Khounnoraj, wood block, abstract
+	- conversational
+- style of liberty: liberty of london
+- style of toile de jouy; timorous beasties: glasgow toile (conversational)
+- who's gonna use it? Is it versatile enough
+- Elizabeth Olwen
+- Jonathan Lyndon Chase, fabric internship
+
+- Main design
+- Coordinate
+- Subcoordinate or filler or blender
+- Solid
+- Differentiate main with coordinate, but color is bringing both together
+
+Starting with a brief
+a research
+a moodboard
+a sketching, be as prolific as possible
+a preliminary design (repeat, halfdrop, full, brick), then pick one
+a digital prototype
+
+Bring 2~3 7by7 paper (divided by quadrant, numbered)
+tape
+exacto
+cut out of design/drawing
+Straight repeat
+
+
+
+
 
 ---
 
@@ -213,5 +308,9 @@ Shops in Toronto
 
 ---
 
-## Tags
-#class-notes #theory #practice
+## Access
+
+Dark room:
+Wed: whole day
+Thu: whole day
+Fri: whole day

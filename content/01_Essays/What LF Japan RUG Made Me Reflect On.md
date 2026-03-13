@@ -18,7 +18,7 @@ You can find a summary of the event itself here [Linux Foundation Japan RUG]({{ 
 
 ## My reflection
 
-As someone coming to this topic from outside computer science, I’ve followed the technical and strategic arguments for open-source with great interest. But my personal concern is more basic: as technology grows more complex, it’s becoming less accessible to ordinary users. AI, in particular, is still messy and malleable—making this a crucial moment to bring it back within reach.
+As someone coming to this topic from outside computer science, I’ve followed the technical and strategic arguments for open-source with great interest. But my personal concern is more basic: as technology grows more complex, it’s becoming less accessible to ordinary users. Even Linux Foundation, the promotor of open source, required an individual to be sponsored by their companies to start a sandbox project in their project. The prerequisite determined who can be involved and who will be excluded from the discourse.
 
 After all, the internet didn’t grow on its own. We’ve all contributed to shaping it, even passively, just by existing online. Yet many people now feel sidelined, while a small group of actors determine how its most powerful tools—especially AI—are built and used.
 

@@ -1,10 +1,10 @@
 ---
-title:
-date:
+title: Circuit Connections in Crafty Materials
+date: 2025-11-02
 tags:
   - log
   - e-textile
-draft: true
+draft: false
 ---
 
 How to avoid (as much as possible) wear and tear of conductive connections in physical computing?

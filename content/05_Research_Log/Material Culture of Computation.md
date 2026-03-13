@@ -1,5 +1,5 @@
 ---
-title: Material Culture of Computation
+title: Material Culture of Computation by Dr Doron Swade
 date: 2025-02-15
 tags:
   - log
@@ -208,6 +208,9 @@ Often called the **“Father of Computing.”**
 
 #### Analytical Engine
 
+![[Pasted image 20260308174143.png]]
+(from cs.stanford.edu)
+
 - Concept of a **general-purpose computer**.
     
 - Included:
@@ -243,7 +246,8 @@ Often called the **“Father of Computing.”**
 ### Herman Hollerith
 
 - Built an **electro-mechanical tabulating machine** for the 1890 U.S. Census.
-    
+    a punch card is placed on pools of mercury and a metal spring would be able to penetrate the punchcard to touch mercury if there's a hole, forming an electrical contact, used electromechanical [solenoids](https://en.wikipedia.org/wiki/Solenoid "Solenoid") to increment mechanical counters
+    btw, flipdot = solenoid(Electromagnetism) + Magnetic dipole interaction + Mechanical rotation
 - Used **punch cards** to encode data.
     
 - Achieved ~10× speed improvement.

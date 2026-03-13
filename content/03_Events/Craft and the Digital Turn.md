@@ -5,8 +5,7 @@ tags:
   - event
 location: OCADU
 draft: true
-summary: |
-  Key takeaway in 20 words.
+summary:
 ---
 # Craft and the Digital Turn
 

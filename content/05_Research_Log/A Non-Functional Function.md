@@ -7,7 +7,7 @@ draft: false
 ---
 ## Context
 
-I was looking at [[Crafting PCBs| old PCB boards]] and was fascinated by some of their silkscreen "easter eggs". These are tiny doodles that engineers/designers embed in the silkscreen layer of a board.
+I was looking at [[PCBs| old PCB boards]] and was fascinated by some of their silkscreen "easter eggs". These are tiny doodles that engineers/designers embed in the silkscreen layer of a board.
 They have no function in itself, but many people couldn't help but look for these human factors. 
 
 I couldn't yet find a solid archive of these patterns, most of the photos are shared through instagram, reddit, and few personal blogs:
