@@ -4,7 +4,7 @@ date: 2026-02-16
 tags:
   - reading
 draft: false
-summary: 1-line statement of the author's main argument.
+summary:
 link: https://muse.jhu.edu/article/563663
 ---
 

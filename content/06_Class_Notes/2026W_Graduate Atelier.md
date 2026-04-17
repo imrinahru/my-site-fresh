@@ -44,8 +44,40 @@ SGS Project & Travel Grant
 https://akimbo.ca/
 
 
+Personal/political 
+Technical/skills
+Conceptual
+Contextual
+Aesthetic/stylistic
+Professional
 
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
+Research question
+- Stakeholders
+- Community
+- Perspective
+- Technology
+- Methodology
+- Methods
+
+How textile craft contributes to more embodied human-computer interaction (HCI)
+
+What design criteria and fabrication can make DIY devices accessible, robust, and appealing to makers, creative coders, and designers?
+- design criteria
+- open source community
+- critical making/critical engineering
+- accessible
+- maker culture
+Finding words is not linear, but look at documents such as "the critical engineering manifesto"
+What makes a device hackable and extendable by people with different skills and knowledge?
 
 ---
 
@@ -54,5 +86,7 @@ https://akimbo.ca/
 - https://taeyoonchoi.com/
 - - https://whitney.org/artists/4117
 - https://www.gallery.ca/magazine/your-collection/reclaiming-space-through-virtual-reality-comilang-and-speiser
+- [zotero](https://www.zotero.org/), a citation manager
+- 
 
 

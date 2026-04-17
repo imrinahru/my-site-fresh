@@ -163,6 +163,9 @@ Craft is used to **speculate**, not to solve.
 
 Humans are (and were) inhabitants of the analog. When a human practice is fully digitized and automated, it loses the capacity to speak meaningfully to human experience in the analog world.
 
+Related: [[Smith, Alvy Ray_A Biography of the Pixel]]
+
+
 ---
 
 ### 4.2 Oscillation Rather Than Simulation
@@ -465,6 +468,110 @@ Take half of brain they both need manual skill, depends on what finesse, sloppy 
 Conceptual direction
 Material direction
 They will come together, material (craft process)
+
+
+
+
+What is my question?
+
+code and pattern and language, creativity, empowerment
+
+頭でっかちにならないこと
+
+encoding, generative art, opening up generative art
+through craft
+
+
+
+The empowerment provided by the coding community, 
+A bridge into textile
+A bridge into printmaking
+
+coding as a way of leaning 
+art
+craft
+
+
+
+craft as a way of 
+learning computation
+
+circuit as material, components as material
+logical gate as material (using hand?)
+
+material made from spinning, the original material. 
+too much reliance on electricity?
+Appreciate how much craft help us in getting the result we need.
+
+program
+
+
+
+Math is a bridge between craft and computation. It's a translator. Human is going abstract to physical seamlessly. 
+
+Education, how we learn? How we feel empowered by the tool?
+
+Nithikul
+Ruth
+Saskia
+Joanna
+
+
+Translating computation to something visual
+
+p5.js
+block-based
+
+code to pattern
+
+
+
+I should work on my felt piece with wire inside
+But do it manually, not by relay
+
+logical gate
+
+embroidery 3D for audio installation
+
+
+
+
+
+
+
+weaving
+knitting
+mathematics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Key word
 

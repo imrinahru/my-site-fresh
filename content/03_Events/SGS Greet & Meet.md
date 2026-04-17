@@ -6,15 +6,16 @@ tags:
 draft: true
 ---
 The event marked the starting of my journey in OCAD, Digital Futures for the next 2 years. Here are some notes on the people I met and will be greatly influenced, as well as my initial thoughts before embarking on the graduate research.
-# Ashok Mathur
 
-## Location
+Ashok Mathur
+
+Location
 205 Richmond 5th floor
-## Role
+Role
 Vice president, Dean
-## Background
+Background
 Literature
-## Quote
+Quote
 > This is your home. A place to land, a place to fly from.
 
 > Take time, make time to contemplate, to really change. Having coffee with friends, sleeping in, dreaming, staring out of window, and having quiet time are all contemplation.
@@ -24,45 +25,43 @@ Literature
 > Challenge the system to accomplish what you want.
 
 
-# Michele Mastroeni
-
-## Location
+Michele Mastroeni
+Location
 205 Richmond 5th floor
-## Role
+Role
 Director of Strategic Foresight, Inclusive Design, and Health streams
-## Background
+Background
 Political Science
 
-## About streams
+About streams
 - Strategic Foresight: Human factor, business strategy, system design, design thinking.
 - Inclusive Design: Co-design technic, individual problem-solving.
 - Health: Health-related technology.
 
 
-# Jay Irizawa
+Jay Irizawa
 
-## Role
+Role
 Director of Interdisciplinary Media Art
-## Recommended books
+Recommended books
  - Fear of a Black Universe: An Outsider's Guide to the Future of Physics (Stephon Alexander)
  - A Third University is possible (Yang, K. Wayne)
-## Recommended elective
+Recommended elective
 - Thinking through Making
 
-## About advisors
+About advisors
 - Selected based on submitted form
 - Should be out in March/April 2026
 - Seek out tenure/tenure-tracked faculty members, have a talk.
 
 
 
-# Simone Jones
-
-## Location
+Simone Jones
+Location
 205 Richmond 7th floor, lab @ 6th floor
-## Background
+Background
 40 years ago joined then OCA
-## About OCAD and school life
+About OCAD and school life
 - Celebrating 150th year in 2026
 - Other Canadian art schools include: NSCAD (Halifax), AUArt (Alberta), and Emily Carr.
 - Most with more than a century's history, but were colleges that didn't provide degrees.
@@ -72,35 +71,28 @@ Director of Interdisciplinary Media Art
 - Strong undergraduate cohort, small graduate cohort
 - The first year is introduction to cohort, creative technologies, the second year is working towards final thesis
 - https://ebookcentral.proquest.com/lib/oculocad-ebooks/reader.action?docID=1766170&c=UERG&ppg=2 (Kate Hartman's book)
-## Quotes
+Quotes
 > Think of yourself as a creative researcher. Learn how to do both thinking and working, back and forth.
 
-
-
-# Other topics
-
-## Student pantry
+Other topics
+Student pantry
 Ask Jackie Spencer (advocate, legal support)
-## Art supply
+Art supply
 Ask Jackie Spencer
-## Thesis
+Thesis
 Ask Elizabeth (Academic Coordinator) about thesis, defense, scheduling.. in the final year
-## Funding
+Funding
 Ask Kelcy (Graduate Admissions)
-
-## Event planning
+Event planning
 Ask Hannah (Gallery Studio Coordinator).
 Have a look at DF specific open shows and try to get involved. Other opportunities include graduate exhibition, critique room (first come first served, can be more frequent). 
 Popular timing: summer term and fall second term, which may be booked fast.
-## Event announcement
+Event announcement
 Ask Kim (Graduate Advisor)
-## Writing
+Writing
 Ask Indisidu (@5th floor 516) on writing support paper, CVs, grant application, publishing.. 1 on 1 consultation can be booked through booking portal 
 
-
-# My thoughts
-
-
+My thoughts
 
 Empowerment is an underlying concept, regardless of the subject, which can be human, or non-human.
 

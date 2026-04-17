@@ -19,6 +19,7 @@ p5.strands
 - Dave on[ p5.strands](https://www.davepagurek.com/blog/writing-shaders-in-js/)
 
 Metaphor: Like weaving, defining shape, color, texture, motion
+
 [https://bright-green.org/2021/05/27/breaking-things-at-work-an-interview-with-gavin-mueller/](https://bright-green.org/2021/05/27/breaking-things-at-work-an-interview-with-gavin-mueller/ "https://bright-green.org/2021/05/27/breaking-things-at-work-an-interview-with-gavin-mueller/")
 
 Think: How the threads weave together?

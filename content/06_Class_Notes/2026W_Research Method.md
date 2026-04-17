@@ -866,3 +866,307 @@ REB
 Informed consent: participants need to be able to explain the study back to me
 It must be ongoing, documented.
 you must be able to explain the time commitment, procedures
+
+
+Speculative Design
+
+- Dunner A & Rabby F
+- divorcing design from commercial, ideological ends
+- how things may be different, unsettling
+
+- Yesmen examples
+- Immersive
+- performative
+- presentational
+
+- makes people aware of the theatrical setting, but also enjoy being part of it
+
+Digital futures
+
+- creating a thinking space, with many purposes
+- DF and SF are converging
+
+Strategic foresight
+
+- foresight gives a shared understanding of the forces shaping the near or lr future
+- to create a common goal
+- plans, actions, in terms of organizations 
+- strategy, policy, planning, innovation
+- began in military strategy, government, Canada is the first to formalize in [govt level](https://horizons.service.canada.ca/en/2025/02/10/ai-policy-consideration/index.shtml)
+- Foresight methods
+	- Popper's foresight diamond
+		- backcastingm what strategy is needed now for something to happen
+		- Delphi: the survey is sent back to participants again, consensus, or divide that needs further investigation, anonymous
+		- expert panel
+		- conferences/workshops
+		- patent analysis
+		- extrapolation
+		- literature review
+
+![[Pasted image 20260323203055.png]]
+
+Trend categories (STEEPV)
+- social
+- technological
+- economic
+- environmental
+- political
+- values
+- help cast our eyes, overcome knowledge bias (expert panel, literature review is needed, blind spot in your career)
+- keeping complexity and contradiction
+- if this is true, is the contradictory view is wrong, try to create a tableau of of the future, that can be contradictory, aware of biases
+- Visible and interpretive
+	- signals: evidence of change
+	- trends: patterns of change
+	- drivers: forces of change underlying issues
+
+Types of scenarios
+
+- canadian media
+![[Pasted image 20260323204613.png]]
+
+
+
+DemocracyXChange
+- different methods each year
+- more prototype development in 2026
+
+![[Pasted image 20260323210008.png]]
+
+1983
+- personal computer, mainframe to desktop
+- techno-ideology about male domination and feminist social justice
+- the consequence is still on today
+
+
+- indigenous futures, afro-futures
+- moving out of margins
+- [Biidaaban](https://filmmakermagazine.com/105184-our-culture-is-in-our-language-lisa-jackson-on-her-vr-film-biidaaban-first-light-and-indigenous-futurism/)
+
+
+### Futurism
+
+Who is included in the future?
+Semiotic analysis is good for futures work, think about symbols, motivation, notable, what is chosen, what is hidden.
+- wealth
+- ethnicity
+- class
+- race 
+- gender
+
+Design for the Pluriverse by Arturo Escobar (2018)
+- Justice
+- Design serves capital's end
+- autonomous
+
+“[P]resents a new vision of design theory and
+practice aimed at channeling design's world-
+making capacity toward ways of being and
+doing that are deeply attuned to justice and
+the Earth.
+Noting that most design—from consumer
+goods and digital technologies to built
+environments—currently serves capitalist
+ends, Escobar argues for the development of
+an “autonomous design” that eschews
+commercial and modernizing aims in favor of
+more collaborative and placed-based
+approaches. Such design attends to questions
+of environment, experience, and politics while
+focusing on the production of human
+experience based on the radical
+interdependence of all beings.
+
+Mapping autonomous design’s principles to
+the history of decolonial efforts of indigenous
+and Afro-descended people in Latin America,
+Escobar shows how refiguring current design
+practices could lead to the creation of more
+just and sustainable social orders.”
+
+It begins by asking:
+‘Design for the Real World [?}:
+But
+Which "World"?
+What "Design"?
+What "Real"?’
+
+Design is not neutral; it is a world-making practice.
+Modern design has helped produce the One-World
+World (OWW)
+– One universal reality
+– One path to progress and development
+based on:
+– Universalism and control
+– Human–nature separation
+– Capitalist growth and development logics
+This worldview underpins ecological collapse, social
+injustice, and cultural erasure.
+The pluriverse recognizes:
+– Multiple realities and ways of being
+– Relational ontologies already practiced by many
+Indigenous and local communities
+Design’s role changes: From solving problems
+for others to supporting ongoing collective world-making
+Principles of Autonomous Design:
+▪ Collective autonomy
+Communities define their own problems, values,
+and futures
+▪ Ontological grounding
+Design arises from local cosmologies, lifeways, and
+territories
+▪ Relationality and interdependence
+Focus on care, reciprocity, and human–non-human
+relations
+▪ Territorial defense
+Design as a practice of sustaining and defending
+ways of life
+▪ Situated knowledge
+Value embodied, ancestral, and experiential
+knowledges
+▪ Process over product
+Emphasis on ongoing practices, not finished
+solutions
+▪ Post-development orientation
+Resists growth, market, and optimization logics
+▪ Ethical and political commitment
+Design is explicitly life-centred and anti-colonial
+
+For futures work, in particular, we may reframe ourwork as collective world-care.
+
+Design Justice
+by Sasha Costanza-Chock (2020)
+
+An approach to design that is led by marginalized
+communities and that aims explicitly to challenge,
+rather than reproduce, structural inequalities.
+
+Design justice emerges from social movements
+and community organizing, not industry or design
+schools, repositioning design as a tool for
+collective liberation and ecological survival, not
+efficiency or growth.
+The central question shifts from better design to
+who designs, for whom, and under whose
+control.
+
+▪ Design Justice is led by those most directly
+impacted by design outcomes
+▪ Centers lived experience, intersectionality,
+and community knowledge.
+▪ Works through accountability, not neutrality
+▪ Prioritizes:
+– Redistribution of power
+– Collective governance
+– Refusal or dismantling of harmful systems
+▪ Ethos: “Nothing about us without us”
+
+Inclusion without power redistribution
+leaves oppressive systems intact
+
+DOI: https://doi.org/10.7551/mitpress/12255.001.0001
+
+![[Pasted image 20260330190951.png]]
+
+![[Pasted image 20260330191422.png]]
+
+Art is integrated into futures work for a good purpose.
+
+Inclusive Futures
+▪ Challenge hegemonic worldviews and myths
+▪ Reassert the presence and agency of those
+who have been excluded from images of the future
+▪ Reflect histories and futures
+▪ Seek to describe or manifest desired futures
+
+
+Methodology of the Oppressed
+- Chela Sandoval (2000)
+● The theory of oppositional consciousness is rooted in the lived experiences of
+racialized, gendered, and colonized peoples.
+● She critiques dominant Western methodologies as instruments of power that
+stabilize oppression.
+● Proposes a flexible, tactical methodology rather than a single method
+● A differential mode of consciousness is the ability to move strategically between
+ideologies (liberal, revolutionary, supremacist, separatist) as conditions require.
+● Knowledge production becomes a form of political survival, resistance, and
+world-making.
+
+Decolonizing Methodologies
+- Linda Tuhiwai Smith (1999)
+● Exposes how research has historically served colonial domination.
+● Research has often:
+○ Extracted knowledge
+○ Pathologized Indigenous peoples
+○ Reinforced Western epistemic authority
+● Calls for decolonizing research by:
+○ Centering Indigenous worldviews, values, and priorities
+○ Treating research as relational, ethical, and accountable
+● Emphasizing:
+○ Self-determination,
+○ Community benefit,
+○ Healing, survival, and continuity
+
+Knowledge is inseparable from land, identity, culture, and responsibility
+
+Implications for
+Research, Design & Futures Work
+● From neutrality to accountability
+Researchers and designers must
+acknowledge positionality, power, and
+impact.
+● From universal methods to situated
+methodologies
+Methods must adapt to context,
+struggle, and lived experience, not the
+other way around
+● From extraction to reciprocity
+Futures and design work should benefit
+communities directly and respect
+existing knowledge systems
+● From prediction to collective
+world-making
+Futures practice becomes a space for
+resistance, refusal, and possibility, not
+just forecasting
+● From expertise to relational practice
+Designers and futurists act as facilitators,
+accompaniers, or co-participants — not
+authorities
+
+
+![[Pasted image 20260406190508.png]]
+![[Pasted image 20260406190519.png]]
+![[Pasted image 20260406190934.png]]
+![[Pasted image 20260406191251.png]]
+![[Pasted image 20260406191403.png]]
+
+
+Thinking about personal narrative, how designers enter into the process
+Autoethnography, a methodology, within it, there should be methods. Declaring a methodology might not be necessary. I'm studying myself, might be self-reflective practice
+Reflective, reflexive lenses, they are practices, why am I thinking in this way
+Reflective, learning by making
+methods and techniques need to be clarified 
+
+![[Pasted image 20260406192758.png]]
+![[Pasted image 20260406193012.png]]
+What data sources are we creating?
+What would I need?
+How would I apply that knowledge?: wisdom
+![[Pasted image 20260406193113.png]]![[Pasted image 20260406193310.png]]
+
+![[Pasted image 20260406193656.png]]
+![[Pasted image 20260406193704.png]]
+
+https://www.inflexions.org/n1_mccormackhtml.html
+How do I decide if what I am making is useful to the world? Apply reflexive perspective
+
+![[n1_Thinking-Spaces-for-Research-Creation-by-Derek-P-McCormack.pdf]]
+
+What is the process of thinking through making? Demonstrate to others how you are deciding.
+Movement of simply create something and what it informed me is sometimes missing.
+Stages of making +
+How you are making decisions, approach
+How are you analyzing your work, and be explicit about it
+
+

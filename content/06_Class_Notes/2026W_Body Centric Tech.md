@@ -1011,6 +1011,85 @@ Kits and platforms help **bridge the skill gap**.
 
 ---
 
+## Placement of Wearable
+
+
+
+
+
+---
+
+## Heartrate display
+
+Panda
+
+
+
+---
+
+SSD1306 0.91" OLED
+- Self emissive OLED (each pixel is one led)
+- only on and off
+
+ESP32-C3 (XIAO/SuperMini)
+- single core
+- 3.3v logic  (same as display)
+- doesn't work with arduino ide
+
+Library
+- platform IO as manager
+- Adafruit SSD1306
+
+- Monochrome
+- framebuffer lives in RAM
+
+No excessive animation
+o as organic LED, better contrast, brighter
+
+
+---
+
+
+## CircuitPython
+
+- create a file
+- edit code
+- press reset button twice
+- download the newest v of CP
+- drag and drop .UF2 to the drive
+- when drive name changed to CIRCUITPY, its done
+- create copy.py
+- code.txt, code.py, main.txt, main.py
+
+---
+
+protocol: MIDI
+- input, sensor, plays samples in a computer
+- 5-pin DIN, USB cable
+- 3 bytes, 8bits
+- Status byte, data byte, ...
+- cpg as MIDI set in MIDI Studio (Mac)
+- TouchDesigner, Dialogue->MIDI mapper->check MIDI devices, choose cpg->eg. gyro
+- Bjork, embroidered LED strings
+- 
+
+
+---
+
+Design stages
+Ver1: Functional prototype, how to do base. circuit layout, putting whatever possible on body in 10min,getting quick learnings. One hour wearable
+- agency, why wearable matters, what is meant to make something that enters body space, what's the responsibility, social contract and care is involved
+- collaboration vs. solo
+- protecting circuits
+- wireless communication (BLE)
+- where you can make a contribution
+
+Shielded cable: 2 grounds
+[Capacitive sensing](https://github.com/socialbodylab/Textile-Game-Controller-Jam?tab=readme-ov-file#capactive-fab)
+
+
+---
+
 # Additional References
 
 ### Haptics
@@ -1020,6 +1099,32 @@ Kits and platforms help **bridge the skill gap**.
 - David Parisi — _Archaeologies of Touch_
     
 - Camille Moussette — _Simple Haptics_
+- Fashioning Technology, Suzy 
+- Switch Craft 
+
+Think about writing books
+
+
+- ==Soft Circuit, crafting e-fashion with DIY electronics , curriculum for kids, steam education==
+- advanced cosplay lights
+- ==Fashion and technology, a guide to materials, for fashion students, interview with people (in digital library)==
+- Textile messages, essays and projects
+- functional clothing design, Lucy
+- See Yourself
+- Stitching Worlds
+- ==Garments of Paradise, sociology==
+- Ready to Wear, A rhetoric..
+- XS Lab, Montreal, 10 year catalog
+- Clement Zheng, Colorado, Everyday material
+- ==Angela Mackey, Rethinking Dynamic Fabric, autobiographic style writing==
+- ==Glitching the Fabric, fabric and software==
+- Radiant textiles designing electromagnetic textile systems, erin lewis
+
+
+[Block language](https://makecode.adafruit.com/#editor)
+[Instructables](https://www.instructables.com/)
+[Rachel ](https://www.rachelfreire.com/etextile-data-gloves), layering
+[Kay wasil](https://kwasil.com/costumegallery.html)
 
 ---
 

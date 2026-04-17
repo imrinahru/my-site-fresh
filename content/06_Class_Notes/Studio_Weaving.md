@@ -189,4 +189,5 @@ Fibre, source, material
 warp: Camilla Valley Farm, seine twine #9 (style to make it strong #9 is the thickness), 100% cotton, textile studio tapestry supply
 weft: camilla valley farm, worsted yarn, 2ply, 100% cotton
 
-
+![[Pasted image 20260331084526.png]]
+![[Pasted image 20260331084506.png]]

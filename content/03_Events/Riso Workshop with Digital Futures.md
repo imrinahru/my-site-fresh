@@ -161,7 +161,7 @@ The slide belongs to the 667 Studio.  ![[667 Studio - Risograph workshop - Octob
 
 ## Related notes  
 
-[[(WIP)About Riso]]
+[[About Riso]]
 https://www.riso.co.jp/product/risograph/feature/index.html
 
 ### Artists

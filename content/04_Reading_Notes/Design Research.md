@@ -1,15 +1,15 @@
 ---
-title: <Author> (<Year>) ・<Work>
-date:
+title: Multiple sources on design research
+date: 2026-02-28
 tags:
   - reading
 draft: false
-summary: 1-line statement of the author's main argument.
-link: https://doi.org/...
+summary:
+link:
 ---
 
 Participatory design:
->  ts origins are generally traced back to work done with trade unions in several Scandinavian coun- tries in the 1960s and 1970s [2]. Participatory design attempts to involve those who will become the “users” throughout the design development process to the extent that this is possible. A key characteristic of the participatory design zone is the use of physical artifacts as thinking tools throughout the process, common among the methods emanating from the research-led Scandinavian tradition.
+>  Its origins are generally traced back to work done with trade unions in several Scandinavian coun- tries in the 1960s and 1970s [2]. Participatory design attempts to involve those who will become the “users” throughout the design development process to the extent that this is possible. A key characteristic of the participatory design zone is the use of physical artifacts as thinking tools throughout the process, common among the methods emanating from the research-led Scandinavian tradition.
 
 
 Generative design

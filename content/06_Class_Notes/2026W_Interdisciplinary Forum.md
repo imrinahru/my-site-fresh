@@ -488,4 +488,9 @@ In response to increasing digitalization, many artists return to **physical mate
 - If AI helps with that, then that is part of unfolding. but if it starts to inhibit that, then its parasitic
 - will a submarine becomes a fish?
 - will AI be artificially conscious
-- 
+
+
+## Ayumi Goto & Peter Morrin
+
+- Reconciliation, especially Canadian reconciliation
+- destiny is material

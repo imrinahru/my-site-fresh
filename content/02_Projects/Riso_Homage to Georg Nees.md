@@ -15,6 +15,9 @@ Recreation of Georg Nees' Schotter from 1960s.
 
 ![[Pasted image 20260228234021.png]]
 
+[sketch](https://editor.p5js.org/imrinahru/sketches/psB4gPRZ-)
+![[Pasted image 20260411152758.png]]
+
 Thoughts:
 Make the square to the tiniest possible size to be a texture rather than a pattern
 
@@ -25,6 +28,11 @@ Reference
 ![[Pasted image 20260301174722.png]]
 ![[Pasted image 20260301174959.png]]
 ![[Pasted image 20260301175201.png]]
+
+
+
+
+
 
 
 ## Reference
